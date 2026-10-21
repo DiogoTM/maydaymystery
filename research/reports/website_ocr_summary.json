@@ -1,0 +1,10 @@
+{
+  "image_files": 1040,
+  "unique_image_hashes": 887,
+  "run_results": {
+    "cached": 887
+  },
+  "captured_html_placeholders": 1,
+  "successful_unique_images": 887,
+  "limitation": "Single-frame English OCR of unclassified historical images, not verified transcriptions; GIF animation frames and foreign scripts require review."
+}

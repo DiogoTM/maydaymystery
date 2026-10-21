@@ -1,22 +1,98 @@
 {
   "source": "local repository files; not a census of all published Mayday advertisements",
-  "scan_file_count": 103,
-  "distinct_dates": 100,
-  "original_archive_files": 102,
-  "researcher_scan_files": 1,
+  "scan_file_count": 133,
+  "distinct_dates": 108,
+  "original_archive_files": 107,
+  "researcher_scan_files": 26,
   "sha256_exact_duplicate_groups": [],
   "dates_with_multiple_files": {
+    "1989-05-01": [
+      "texts/maydaymystery.org/1989-05-01.jpg",
+      "texts/My Scans/1989-05-01_page24.jpg"
+    ],
+    "1990-05-01": [
+      "texts/maydaymystery.org/1990-05-01.jpg",
+      "texts/My Scans/1990-05-01_page25.jpg"
+    ],
+    "1991-05-01": [
+      "texts/maydaymystery.org/1991-05-01.jpg",
+      "texts/My Scans/1991-05-01_page6A.jpg"
+    ],
+    "1992-05-01": [
+      "texts/maydaymystery.org/1992-05-01.jpg",
+      "texts/My Scans/1992-05-01_page20.jpg"
+    ],
+    "1993-05-03": [
+      "texts/maydaymystery.org/1993-05-03.jpg",
+      "texts/My Scans/1993-05-03_page16.jpg"
+    ],
+    "1995-05-01": [
+      "texts/maydaymystery.org/1995-05-01.jpg",
+      "texts/My Scans/1995-05-01_page16.jpg"
+    ],
+    "1996-05-01": [
+      "texts/maydaymystery.org/1996-05-01.jpg",
+      "texts/My Scans/1996-05-01_page24.jpg"
+    ],
+    "1997-05-01": [
+      "texts/maydaymystery.org/1997-05-01.jpg",
+      "texts/My Scans/1997-05-01_page28.jpg"
+    ],
+    "1998-05-01": [
+      "texts/maydaymystery.org/1998-05-01.jpg",
+      "texts/My Scans/1998-05-01_page20.jpg"
+    ],
+    "1999-12-01": [
+      "texts/maydaymystery.org/1999-12-01.jpg",
+      "texts/My Scans/1999-12-01_page12.jpg"
+    ],
+    "2000-05-01": [
+      "texts/maydaymystery.org/2000-05-01.jpg",
+      "texts/My Scans/2000-05-01_page32.jpg"
+    ],
     "2001-05-01": [
       "texts/maydaymystery.org/2001-05-01_1.jpg",
-      "texts/maydaymystery.org/2001-05-01_2.jpg"
+      "texts/maydaymystery.org/2001-05-01_2.jpg",
+      "texts/My Scans/2001-05-01_page6.jpg",
+      "texts/My Scans/2001-05-01_page7.jpg"
+    ],
+    "2002-05-01": [
+      "texts/maydaymystery.org/2002-05-01.jpg",
+      "texts/My Scans/2002-05-01_page20.jpg"
+    ],
+    "2005-04-29": [
+      "texts/maydaymystery.org/2005-04-29.jpg",
+      "texts/My Scans/2005-04-29_page11.jpg"
     ],
     "2005-06-22": [
       "texts/maydaymystery.org/2005-06-22_1.jpg",
-      "texts/maydaymystery.org/2005-06-22_2.jpg"
+      "texts/maydaymystery.org/2005-06-22_2.jpg",
+      "texts/My Scans/2005-06-22_page15.jpg"
+    ],
+    "2006-05-01": [
+      "texts/maydaymystery.org/2006-05-01.jpg",
+      "texts/My Scans/2006-05-01_page12.jpg"
+    ],
+    "2007-05-01": [
+      "texts/maydaymystery.org/2007-05-01.jpg",
+      "texts/My Scans/2007-05-01_page25.jpg"
+    ],
+    "2008-04-02": [
+      "texts/maydaymystery.org/2008-04-02.jpg",
+      "texts/My Scans/2008-04-02_page14.jpg"
+    ],
+    "2008-05-01": [
+      "texts/maydaymystery.org/2008-05-01.jpg",
+      "texts/maydaymystery.org/2008-05-01_color.jpg",
+      "texts/My Scans/2008-05-01_page13.jpg"
     ],
     "2015-05-01": [
       "texts/maydaymystery.org/2015-05-01.jpg",
       "texts/My Scans/2015-05-01_page15.jpg"
+    ],
+    "2016-12-07": [
+      "texts/maydaymystery.org/2016-12-07.jpg",
+      "texts/My Scans/2016-12-07_pageB23.jpg"
     ]
   },
   "years_covered": [

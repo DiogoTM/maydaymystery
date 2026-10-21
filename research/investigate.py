@@ -72,13 +72,28 @@ def tests():
     # shuffled mention columns, preserving marginal frequency. Exploratory, OCR-sensitive.
     con=sqlite3.connect(RESEARCH/'corpus.sqlite')
     docs=con.execute('SELECT id,date_label FROM documents ORDER BY date_label,id').fetchall()
-    # One document per filename date; avoid inflation from known scan variants.
-    selected={}
-    for k,d in docs: selected.setdefault(d,k)
-    ids=list(selected.values()); names=['Martin Luther','John Calvin','Oliver Cromwell']
+    parent={k:k for k,d in docs}
+    def find(k):
+        while parent[k]!=k:parent[k]=parent[parent[k]];k=parent[k]
+        return k
+    def union(a,b):parent[find(a)]=find(b)
+    dates={}
+    for k,d in docs:
+        if d in dates:union(k,dates[d])
+        else:dates[d]=k
+    # Fold together near-date registered scan renditions while keeping all entity
+    # observations from two-page notices. Group counts are not an ad census.
+    inv=json.loads((REPORTS/'inventory.json').read_text());by_path={r['path']:r.get('sha256') for r in inv}
+    reg=REPORTS/'geometric_variants.json'
+    if reg.exists():
+        for pair in json.loads(reg.read_text())['pairs']:
+            if pair.get('strong_registration'):
+                a,b=by_path[pair['a']],by_path[pair['b']]
+                if a in parent and b in parent:union(a,b)
+    ids=sorted({find(k) for k,d in docs}); names=['Martin Luther','John Calvin','Oliver Cromwell']
     columns=[]
     for n in names:
-        hits={x[0] for x in con.execute('SELECT DISTINCT document_id FROM mentions WHERE entity=?',(n,))}
+        hits={find(x[0]) for x in con.execute('SELECT DISTINCT document_id FROM mentions WHERE entity=?',(n,))}
         columns.append([int(k in hits) for k in ids])
     observed=sum(all(v) for v in zip(*columns)); rng=random.Random(20261021); exceed=0; n=10000
     vals=[]
@@ -86,7 +101,7 @@ def tests():
         shuffled=[rng.sample(c,len(c)) for c in columns]; value=sum(all(v) for v in zip(*shuffled)); vals.append(value); exceed+=value>=observed
     dump(REPORTS/'hypothesis_tests.json',dict(tests=results,control=dict(
         label='Exploratory co-occurrence permutation; not proof of meaning',entities=names,
-        documents=len(ids),observed_three_way_cooccurrences=observed,permutations=n,seed=20261021,
+        documents=len(ids),grouping='Same filename-date plus strong near-date geometric-registration groups; all pages contribute mentions.',observed_three_way_cooccurrences=observed,permutations=n,seed=20261021,
         null='Independent uniform column permutations preserve per-name document frequencies.',
         expected_null=sum(vals)/n,empirical_p=(exceed+1)/(n+1),
         caveats=['Entity selection was informed by prior research; not a confirmatory p-value.',

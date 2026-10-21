@@ -1,0 +1,30 @@
+[
+  {
+    "id": "H6",
+    "hypothesis": "The May 1989 missing-rho Greek wording is a reproducible designed perturbation, rather than merely an OCR omission.",
+    "construction": "May 1989 Greek line visibly reads φάγῃ (may eat), differing from Romans 3:19 φραγῇ (may be stopped).",
+    "held_out_from_construction": "May 1990 diagram, explicitly labeled scordatura: ADW, 5/1/89",
+    "prediction": "A later primary notice explicitly calls out the altered 1989 reading.",
+    "observed": "1990 main node prints the stopped-mouth wording; adjacent scordatura trapezoid points to 5/1/89 and repeats the eating form.",
+    "result": "supported_for_this_annotated_text_change",
+    "confidence": "high for printed contrast; unresolved for a general decoding algorithm",
+    "prior_art": "Archived 1990 reader comments already discuss this difference; independently reproduced, not a new discovery.",
+    "sources": [
+      "texts/My Scans/1989-05-01_page24.jpg",
+      "texts/maydaymystery.org/1990-05-01.jpg"
+    ],
+    "limit": "Retrospective, not blinded. Rho insertion is not claimed to decode any other region."
+  },
+  {
+    "id": "H8",
+    "hypothesis": "The June 2005 formula is compatible with a known physical construction rather than requiring invented numerical arithmetic.",
+    "source": "texts/maydaymystery.org/2005-06-22_1.jpg",
+    "formula": "mu = theta_star / (Delta_t * sin(phi))",
+    "prediction": "A pre-2005 microlensing source independently gives the same algebraic relation.",
+    "observed": "Albrow et al., The Relative Lens-Source Proper Motion in MACHO 98-SMC-1: equation (2), p.2, t_star=Delta_t sin(phi); equation (3), p.4, mu=theta_star/t_star.",
+    "supporting_reference": "https://www.astronomy.ohio-state.edu/gaudi.1/ms98001.pdf",
+    "result": "physical_formula_reproduced_exact_visual_source_unidentified",
+    "confidence": "high for algebraic equivalence; low for author intent",
+    "limit": "The date annotations and chessboard are not explained; Gaudi/Petters Folds was inspected but not established as the diagram source."
+  }
+]

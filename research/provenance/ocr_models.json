@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/eng.traineddata",
+    "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2",
+    "bytes": 4113088,
+    "language": "eng",
+    "retrieved_utc": "2026-10-21T05:51:09.937657+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/deu.traineddata",
+    "sha256": "19d219bbb6672c869d20a9636c6816a81eb9a71796cb93ebe0cb1530e2cdb22d",
+    "bytes": 1525436,
+    "language": "deu",
+    "retrieved_utc": "2026-10-21T05:51:12.485483+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/fra.traineddata",
+    "sha256": "ced037562e8c80c13122dece28dd477d399af80911a28791a66a63ac1e3445ca",
+    "bytes": 1130365,
+    "language": "fra",
+    "retrieved_utc": "2026-10-21T05:51:15.089834+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/lat.traineddata",
+    "sha256": "3859d8ba60404f4b79830622625bbc76fb4ee2808eac1ad360ffa77f0a533328",
+    "bytes": 3187463,
+    "language": "lat",
+    "retrieved_utc": "2026-10-21T05:51:17.258505+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/rus.traineddata",
+    "sha256": "e16e5e036cce1d9ec2b00063cf8b54472625b9e14d893a169e2b0dedeb4df225",
+    "bytes": 3861738,
+    "language": "rus",
+    "retrieved_utc": "2026-10-21T05:51:19.574558+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/heb.traineddata",
+    "sha256": "11f9e43ab227f786352a50f75c94c2e9906f1baba86d93276da19da7ce0904db",
+    "bytes": 961404,
+    "language": "heb",
+    "retrieved_utc": "2026-10-21T05:51:22.056701+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/grc.traineddata",
+    "sha256": "57b735557eeb67503803cf9f99786dd0b62417931352601952a0b1a23b6c4759",
+    "bytes": 2246328,
+    "language": "grc",
+    "retrieved_utc": "2026-10-21T05:51:24.846143+00:00"
+  }
+]

@@ -236,7 +236,7 @@
       "date": "1988-04-27",
       "srcl_position": false,
       "repository_filename": true,
-      "local_scan": false,
+      "local_scan": true,
       "status": "unmatched_date_requires_reconciliation",
       "paths": [
         "texts/My Scans/1988-04-27_page16.jpg"
@@ -517,7 +517,7 @@
       "date": "1994-04-29",
       "srcl_position": false,
       "repository_filename": true,
-      "local_scan": false,
+      "local_scan": true,
       "status": "unmatched_date_requires_reconciliation",
       "paths": [
         "texts/My Scans/1994-04-29_page16.jpg"
@@ -639,7 +639,7 @@
       "date": "1999-04-30",
       "srcl_position": false,
       "repository_filename": true,
-      "local_scan": false,
+      "local_scan": true,
       "status": "unmatched_date_requires_reconciliation",
       "paths": [
         "texts/My Scans/1999-04-30_page24.jpg"
@@ -909,7 +909,7 @@
       "date": "2007-05-01",
       "srcl_position": true,
       "repository_filename": true,
-      "local_scan": false,
+      "local_scan": true,
       "status": "matching_label",
       "paths": [
         "texts/My Scans/2007-05-01_page25.jpg",
@@ -941,7 +941,7 @@
       "date": "2008-05-01",
       "srcl_position": true,
       "repository_filename": true,
-      "local_scan": false,
+      "local_scan": true,
       "status": "matching_label",
       "paths": [
         "texts/My Scans/2008-05-01_page13.jpg",
@@ -963,7 +963,7 @@
       "date": "2009-05-01",
       "srcl_position": true,
       "repository_filename": true,
-      "local_scan": false,
+      "local_scan": true,
       "status": "matching_label",
       "paths": [
         "texts/My Scans/2009-05-01_page8.jpg"
@@ -993,7 +993,7 @@
       "date": "2010-04-30",
       "srcl_position": true,
       "repository_filename": true,
-      "local_scan": false,
+      "local_scan": true,
       "status": "matching_label",
       "paths": [
         "texts/maydaymystery.org/2010-04-30.jpg"
@@ -1133,7 +1133,7 @@
       "date": "2017-05-01",
       "srcl_position": true,
       "repository_filename": true,
-      "local_scan": false,
+      "local_scan": true,
       "status": "matching_label",
       "paths": [
         "texts/maydaymystery.org/2017-05-01.jpg"

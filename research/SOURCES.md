@@ -1,6 +1,26 @@
+# Source status update — full recovery
+
+2026-10-21 UTC. The earlier network limitation below is resolved. All 234 repository files now match their remote blobs, and a full research-branch Git checkout is available. The original source tree remains unchanged.
+
+New public evidence:
+
+- IA metadata: `https://archive.org/metadata/MayDayMystery`, captured with timestamp and SHA-256 in `provenance/public_http_20261021.json`.
+- Public 2020 website backup: `https://archive.org/download/MayDayMystery/backups/MayDayMirror_2020-02-28.7z`; 463,117,266 downloaded bytes, MD5/SHA-1 checked against metadata, SHA-256 `2cc938d3bfd8eb751f9d5047a9dc7ef9d5aee8a9266ec5a0a1ec4302efdc6309`. Provenance: `provenance/ia_mirror_retrieval.json`. Full inventory and compressed page/image text exports are in `reports/`.
+- Live .org index redirected to Frontera's error endpoint; its robots response disallowed all crawling. No further live crawl performed. A non-www request was already in flight before the robots response was read.
+- Wayback CDX read timed out; availability API returned 429. Stopped retrying; no post-2019 primary scans recovered.
+- Scientific formula comparison: Albrow et al., *The Relative Lens-Source Proper Motion in MACHO 98-SMC-1*, equations (2) and (3), via the author's institutional PDF. Gaudi/Petters *Folds* was inspected but not identified as the circle's visual source. `provenance/reference_retrievals.json` records URLs, timestamps and hashes.
+- Bible structural control: public `thiagobodruk/bible` English KJV JSON. It uses Portuguese book labels; canonical position 42, Lucas/lc, is Luke. Claim is limited to its 66-book table and is not a claim of author intent.
+- Additional Tesseract models: seven public tessdata_fast files with recorded SHA-256 in `provenance/ocr_models.json`. Region OCR remains uncertain.
+
+The recovered website contains 716 HTML pages and attributed letters, including `friend39.html`. They mix signatures, editorial material and reader interpretations. None authenticates an individual or organization. No private Discord archive was downloaded. Historical WordPerfect/DOC files and audio remain inventoried but not fully decoded/transcribed.
+
+The material below preserves the first checkpoint's source assessment; its availability notes describe that earlier attempt.
+
+---
+
 # Sources and provenance
 
-Retrieved/inspected 2026-10-21 UTC. Publisher of the scans: The (Arizona) Daily Wildcat, University of Arizona. Repository authors state they obtained permission for online redistribution; this investigation has not independently authenticated that permission.
+First checkpoint retrieval history, 2026-10-21 UTC. Publisher of the scans: The (Arizona) Daily Wildcat, University of Arizona. Repository authors state they obtained permission for online redistribution; this investigation has not independently authenticated that permission.
 
 | Source | Role and reliability | Preserved evidence / limitations |
 |---|---|---|

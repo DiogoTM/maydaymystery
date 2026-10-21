@@ -1,23 +1,17 @@
 # Investigation status
 
-2026-10-21 UTC. Active investigation; initial milestone not yet complete.
+2026-10-21 UTC — repository-based initial milestone reached; wider historical recovery remains open.
 
-- Reviewed PR #1 (open, head efba92b36c7515aa945bd974f1d83f63e2cca9f0); retained its audit script locally without merging.
-- Captured complete, untruncated repository tree at 2bc34341b92f4c8989779b4bb744833912bfdc50: 234 file entries, 18 directories.
-- Recovered repository text including the VUE research map. Recovering sub-1 MB binary files through GitHub connector with Git blob SHA-1 verification.
-- Workspace clone and HTTP retrieval fail because proxy:8080 refuses connections. GitHub connector returns empty content for files over 1 MB; binary blob endpoints reject UTF-8 decoding. Larger scans remain remotely inventoried, not locally verified.
-- Public web tools can inspect historical indexes. SR/CL states 128 records at 127 dated positions and publishes only one complete advertisement in its current edition. Other pages withheld there are not assumed publicly available.
-- No configured AI credentials were reported; no paid inference has been used.
+- All 234 pinned repository source files recovered and Git-blob/SHA-256 verified. All 133 dated scans OCR-processed: 107 archive files and 26 researcher scans, across 108 filename dates. Originals unchanged.
+- 30,766 OCR word records for repository scans; 337 date-reference candidates and 164 recurrent five-word phrases. These are machine candidates, not reviewed fact counts.
+- Public IA website backup recovered and checksum-verified: 1,836 files from 2,030 archive members. Inventory has 1,681 unique file hashes and 34 exact-duplicate groups.
+- 716 HTML pages indexed separately; 1,039 valid historical image files (887 unique images) successfully OCR-processed. One `.jpg` is captured HTML, not a recoverable image. Website text is mixed correspondence, editorial content and reader interpretation; sender identities are not authenticated.
+- All three repository PDFs inspected; the recovered Charlie Piggott notes have 230 pages. Five website PDFs and two spreadsheets extracted; two image-only PDF pages received derived raster OCR. Legacy DOC/WordPerfect and audio are inventoried, with conversion/transcription still pending.
+- 33 same/near-date image-pair registrations evaluated; 29 show strong shared visual content. Newspaper headers independently distinguish April 27, 1988 / April 29, 1994 publication dates from thematic May Day titles.
+- Eight hypothesis checks now recorded across initial and follow-up outputs. Eight implementation/integrity tests pass. New Greek/Hebrew/Latin-region OCR remains uncertain; reviewed image evidence is kept separately.
+- No global decoder or authenticated organizational identity found. Previous researchers' results are explicitly credited, including the May 1989 Julian Day conversion in Piggott p.32 and archived reader comments.
+- Git research branch and draft PR #2 hold reviewable checkpoints; default branch is not merged or changed.
 
-## Executed checkpoint
+Current external limits: live .org redirects to an error page and supplies disallow-all robots; crawling stopped. Wayback CDX timed out and availability API returned 429; retries stopped. SR/CL withholds most full scans in its current edition. Post-2019 primary evidence remains incomplete.
 
-- 197 of 234 source files locally recovered and verified against remote Git blob identifiers; SHA-256 recorded.
-- 103 accessible scans: 102 archive images and one researcher scan, representing 100 filename dates. All have successful raw OCR, word boxes and uncertainty records. Another 43 research crops processed.
-- SQLite FTS5 corpus built: 103 scan records, 17,478 OCR words, 222 date-reference candidates, 35 recurrent five-word phrases. Prior VUE map exported separately: 128 nodes, 77 links.
-- Reviewed primary images confirm three different level callbacks to May 1989 and the September 2000 callback to November 1983. These reproduce prior SR/CL findings; no decryption is claimed.
-- Three visual pair decisions recorded, including a confirmed 2015 variant and June 2005 detail enlargement; a June/August 2004 false duplicate rejected.
-- Five hypothesis checks executed, including retrospective holdouts and an exploratory permutation control. Five implementation/integrity tests passed.
-- REPORT.md, HYPOTHESES.md, SOURCES.md, NEXT_STEPS.md and RUNBOOK.md now provide a reviewable checkpoint.
-- Initial milestone remains incomplete: 30 repository scans and seven other files unavailable through current retrieval methods; later public evidence still requires recovery. Detailed blockers and workarounds are in REPORT.md and NEXT_STEPS.md.
-
-See JOURNAL.md and provenance/ for retrieval evidence. No merge into the default branch has been performed.
+See REPORT.md, JOURNAL.md, SOURCES.md and RUNBOOK.md. The first partial report is preserved in checkpoints/REPORT_initial_partial.md.

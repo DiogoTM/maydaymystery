@@ -1,7 +1,382 @@
 [
   {
+    "entity": "SR/CL",
+    "documents": [
+      {
+        "id": "011d2f3ec1f063ae7979c9405249a181a23ea95250ed1cb87a6b45afa91749e6",
+        "date": "1988-09-28",
+        "path": "texts/maydaymystery.org/1988-09-28.jpg"
+      },
+      {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
+      },
+      {
+        "id": "0f6e7071f16e7fb261e71c330d83c0ca629afa126dd22d7a456e174a14cb1c11",
+        "date": "2002-12-04",
+        "path": "texts/maydaymystery.org/2002-12-04.jpg"
+      },
+      {
+        "id": "10ae98a0329510a1e774e89977e9fcf863ece90b2c25f07da787732c3450e40d",
+        "date": "2008-05-01",
+        "path": "texts/maydaymystery.org/2008-05-01.jpg"
+      },
+      {
+        "id": "1235f85aa35e3fc8a25a815e46cea3e50a59e30b2c20be68dbb5950a2aa4d8be",
+        "date": "1990-09-05",
+        "path": "texts/maydaymystery.org/1990-09-05.jpg"
+      },
+      {
+        "id": "124df65b3dc9af2cdf0801ca79b353ac96e5bd2891c32c209392239acf2ecb6c",
+        "date": "1996-12-04",
+        "path": "texts/maydaymystery.org/1996-12-04.jpg"
+      },
+      {
+        "id": "143c4bf157693c1e1e1a64e45dc465cb34d73f1aeadb0c475d3ea5bc8c44b9a4",
+        "date": "1998-05-01",
+        "path": "texts/maydaymystery.org/1998-05-01.jpg"
+      },
+      {
+        "id": "17f6f4568882ae2e8697d967b0a18cf76188083c0cc65fbdab00d5b263eb5712",
+        "date": "2016-03-23",
+        "path": "texts/maydaymystery.org/2016-03-23.jpg"
+      },
+      {
+        "id": "1ae6c4c2dad979e18d5c0b40fd345c22e0145c217a56393798cbeeb6f8d40830",
+        "date": "1993-03-10",
+        "path": "texts/maydaymystery.org/1993-03-10.jpg"
+      },
+      {
+        "id": "276188332255fad66e1f865003694d9fc4a8a01cef8065d61ef4afc0da4c9945",
+        "date": "2016-12-07",
+        "path": "texts/maydaymystery.org/2016-12-07.jpg"
+      },
+      {
+        "id": "276f845dc771141ac2b0317609ed42bbd6e0c27af5a4db1f9423449947873a11",
+        "date": "2010-03-26",
+        "path": "texts/maydaymystery.org/2010-03-26.jpg"
+      },
+      {
+        "id": "291e83bcc059bd2aefdd2eeb074e9382ccb5b7f777bb8e1ef15a486050a68f8b",
+        "date": "2014-05-01",
+        "path": "texts/maydaymystery.org/2014-05-01.jpg"
+      },
+      {
+        "id": "29dd2939e9554d995269ca24aab9bb44cbd69ff0508ccef0cc2ae76c7214e1a1",
+        "date": "2001-05-01",
+        "path": "texts/My Scans/2001-05-01_page6.jpg"
+      },
+      {
+        "id": "32bc6a922fa10096ea682bdd7dfb79315e0daad6b2cd0a434fa598f141011146",
+        "date": "2000-05-01",
+        "path": "texts/My Scans/2000-05-01_page32.jpg"
+      },
+      {
+        "id": "3393bf77267280cc9fb53a9ad531f8931c95553a548a462aa2103bd675b8f7ea",
+        "date": "2005-02-09",
+        "path": "texts/maydaymystery.org/2005-02-09.jpg"
+      },
+      {
+        "id": "33ad9d3c21fdc37f5ab44fc8f707714e052601c9ccdd9ef817f0383cb4b70d50",
+        "date": "1990-10-24",
+        "path": "texts/maydaymystery.org/1990-10-24.jpg"
+      },
+      {
+        "id": "352cd9c9678b688c2832020d79da69ceba26c177c13bdf2818dc4ecfcca728ca",
+        "date": "2017-10-25",
+        "path": "texts/maydaymystery.org/2017-10-25.jpg"
+      },
+      {
+        "id": "37f974c82935e35ece4a4ef055c74027ac618a1dfc3e765bc6496882de74e2e0",
+        "date": "1998-05-01",
+        "path": "texts/My Scans/1998-05-01_page20.jpg"
+      },
+      {
+        "id": "3e9e3a44a9bb1835db3a16980af0dec678a10357b3f19d64f19ca7601df8e918",
+        "date": "1991-03-20",
+        "path": "texts/maydaymystery.org/1991-03-20.jpg"
+      },
+      {
+        "id": "3ea3da0d9bd1a5d69bf115ade7acdfb67873050d9e29605ba44cd406e847994a",
+        "date": "2006-05-01",
+        "path": "texts/My Scans/2006-05-01_page12.jpg"
+      },
+      {
+        "id": "433b30a517d119d4b169fbba8923f9f973d3ac91ada04684691018f7ecedb9f8",
+        "date": "1993-05-03",
+        "path": "texts/My Scans/1993-05-03_page16.jpg"
+      },
+      {
+        "id": "45a76824f92dbcd165a53630fd57f32a29ae28afd1c410274287bb7b4df53d0d",
+        "date": "2016-04-30",
+        "path": "texts/maydaymystery.org/2016-04-30.jpg"
+      },
+      {
+        "id": "45ff5da4651691dc6fb7a5aec817dbd4e5c2136aaea88f9743942338aa71c590",
+        "date": "2000-10-10",
+        "path": "texts/maydaymystery.org/2000-10-10.jpg"
+      },
+      {
+        "id": "46f504f5f79aabaf60533a257991ca16b8da35ad12bca14397c8549f85d0396b",
+        "date": "1983-04-19",
+        "path": "texts/maydaymystery.org/1983-04-19.jpg"
+      },
+      {
+        "id": "476bc56d3c4afd3099a4c73a48f24341923116c3c4f960ec2ca4c3e9c348594c",
+        "date": "2004-12-01",
+        "path": "texts/maydaymystery.org/2004-12-01.jpg"
+      },
+      {
+        "id": "4a3d21650f33ff5795bbfb8c275e8dc986dbc49ff146c808db7c5154919546a6",
+        "date": "1993-12-01",
+        "path": "texts/maydaymystery.org/1993-12-01.jpg"
+      },
+      {
+        "id": "4aac23e12fac25d3edf5b9a7fde39479695dc4d1aca09cc9ca4439155d2f8933",
+        "date": "2001-05-01",
+        "path": "texts/maydaymystery.org/2001-05-01_1.jpg"
+      },
+      {
+        "id": "529ca38ba42ac25d7b56eaf99f4b91dd8466ea89958a3eb821af5c34c0baed45",
+        "date": "2008-05-01",
+        "path": "texts/My Scans/2008-05-01_page13.jpg"
+      },
+      {
+        "id": "584c9c0bdcc084b8da83c8b5697774c23456f15cace4e16c897e4e28145bb7d4",
+        "date": "2010-04-30",
+        "path": "texts/maydaymystery.org/2010-04-30.jpg"
+      },
+      {
+        "id": "58f35feeaabfb80fbb5516c82a80d833a7d9c7c3d15b8c1d54e321e85f7aa0c1",
+        "date": "2002-05-01",
+        "path": "texts/maydaymystery.org/2002-05-01.jpg"
+      },
+      {
+        "id": "5e2811e424ba14117ead5e18af8743142b9874254235c07307f0f1896c334334",
+        "date": "2012-05-01",
+        "path": "texts/maydaymystery.org/2012-05-01.jpg"
+      },
+      {
+        "id": "5f4ce750045cf1db900d02739ba5ce2c77f691875e568d122d8351156d79df12",
+        "date": "2019-05-01",
+        "path": "texts/maydaymystery.org/2019-05-01.jpg"
+      },
+      {
+        "id": "65a76146c2fd6b43c7ba46e5edeff05658917eb0eed7aa981cecb7af29f64139",
+        "date": "1990-03-21",
+        "path": "texts/maydaymystery.org/1990-03-21.jpg"
+      },
+      {
+        "id": "6634c30913263f867aa3444157a6a4530be5adb713391c1e309a0e9aa7ecfd5f",
+        "date": "2000-05-01",
+        "path": "texts/maydaymystery.org/2000-05-01.jpg"
+      },
+      {
+        "id": "6ee7d3ecb91a858158041ecb1fe5838f0328f3c57d193f0c73977bc3cc928103",
+        "date": "1996-05-01",
+        "path": "texts/My Scans/1996-05-01_page24.jpg"
+      },
+      {
+        "id": "6f63398c1571cd186999ffab41110227a58e05b04950fca472fd1b44072cd42d",
+        "date": "1990-12-05",
+        "path": "texts/maydaymystery.org/1990-12-05.jpg"
+      },
+      {
+        "id": "71be56ce424fc1c607332f9c0286c3172248f4ca5860fcdb48b60fc30ecbf6ff",
+        "date": "2005-04-29",
+        "path": "texts/My Scans/2005-04-29_page11.jpg"
+      },
+      {
+        "id": "7325aa1607d29984b226f3c6c0a543b5cee68226b4f2e35554874c9050ad90b8",
+        "date": "2009-12-09",
+        "path": "texts/maydaymystery.org/2009-12-09.jpg"
+      },
+      {
+        "id": "747d278b8848b6c5aed642a55afd17c45e2e07920bfdafbe9ddd6b9f29c1d7e4",
+        "date": "1992-12-02",
+        "path": "texts/maydaymystery.org/1992-12-02.jpg"
+      },
+      {
+        "id": "74b65394dd8886be5e6b4ae28bea9c55e77c6acd03f148fa765bf93def0f49b5",
+        "date": "1991-08-28",
+        "path": "texts/maydaymystery.org/1991-08-28.jpg"
+      },
+      {
+        "id": "7e927d874d6c6d36e77dd3464cdd08ca99bbdc23a8157cb4af5e4ec335987e43",
+        "date": "2006-05-01",
+        "path": "texts/maydaymystery.org/2006-05-01.jpg"
+      },
+      {
+        "id": "7ea08854dfaab29c99e20a4e65e4c6814e06e384b73753e70a328874f41f10bf",
+        "date": "1989-05-01",
+        "path": "texts/maydaymystery.org/1989-05-01.jpg"
+      },
+      {
+        "id": "7fb7a57390813ae77d6c82004ae82ed400f8253f4283da08bdb53992d31bc291",
+        "date": "2015-12-02",
+        "path": "texts/maydaymystery.org/2015-12-02.jpg"
+      },
+      {
+        "id": "87c944a66df92be2b8cb534196342c949d6283ff1de52f399689a401182e81bb",
+        "date": "1994-04-29",
+        "path": "texts/My Scans/1994-04-29_page16.jpg"
+      },
+      {
+        "id": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+        "date": "1989-05-01",
+        "path": "texts/My Scans/1989-05-01_page24.jpg"
+      },
+      {
+        "id": "8c5e7b72d4b82ff4a435db2ca629e6f8ba96508797ec050da5d66c3326cfb632",
+        "date": "2004-06-16",
+        "path": "texts/maydaymystery.org/2004-06-16.jpg"
+      },
+      {
+        "id": "8dee8e77f1825c658640034da00a638163f8c9c7f7bc04f61b7847ff235129ce",
+        "date": "2002-05-01",
+        "path": "texts/My Scans/2002-05-01_page20.jpg"
+      },
+      {
+        "id": "91a7076826c5a22ca41429de3dd52d62ef79fbff7208a303efa0e3ff1e08618b",
+        "date": "2002-09-26",
+        "path": "texts/maydaymystery.org/2002-09-26.jpg"
+      },
+      {
+        "id": "91ece6ca8d122154a5c8faf5a277a17bfe38952eeee072e5c5e60a866ab5e702",
+        "date": "2018-05-01",
+        "path": "texts/maydaymystery.org/2018-05-01.jpg"
+      },
+      {
+        "id": "9f3d6048e7323dcc30d336b552ac242bfeb1dc539df466dedea669319b7cfe86",
+        "date": "2001-01-17",
+        "path": "texts/maydaymystery.org/2001-01-17.jpg"
+      },
+      {
+        "id": "a35ceaa8a66d390758604767912dae06166c157e2c6194a626f7147da070af4e",
+        "date": "2004-05-01",
+        "path": "texts/maydaymystery.org/2004-05-01.jpg"
+      },
+      {
+        "id": "a4e24bce3219d9a69a26c0dcc87360a9dc7b890e2d7b0b215d8e0815d22b59e4",
+        "date": "2005-12-07",
+        "path": "texts/maydaymystery.org/2005-12-07.jpg"
+      },
+      {
+        "id": "a9b36cf0ced853674f91a101da65ef8b8dfe7dc401952cc6e53c09e51b8907ef",
+        "date": "1991-12-04",
+        "path": "texts/maydaymystery.org/1991-12-04.jpg"
+      },
+      {
+        "id": "ad9a6900e8f410a1655309f861d529dced7959443170bbe1449c7b0c962f9637",
+        "date": "1988-05-01",
+        "path": "texts/maydaymystery.org/1988-05-01.jpg"
+      },
+      {
+        "id": "ae11703826163ccac46b78cbfafa50db451d57bb31da8b89f6d2e3dfdbf7c15d",
+        "date": "2003-12-03",
+        "path": "texts/maydaymystery.org/2003-12-03.jpg"
+      },
+      {
+        "id": "af3bcb94c2b3c1416368da70807f9e185d4d2fc7f6178177ac822dfd3470a0e5",
+        "date": "1994-05-01",
+        "path": "texts/maydaymystery.org/1994-05-01.jpg"
+      },
+      {
+        "id": "b6dd046b7552bc7054a930307fc1d92129cf6becd9c614169fa5a1ced6a7dc2f",
+        "date": "1995-05-01",
+        "path": "texts/maydaymystery.org/1995-05-01.jpg"
+      },
+      {
+        "id": "b88eea8110089f313fe76492df4fc2c5417295e5ba64f25348d7cd6babfe291a",
+        "date": "2006-12-06",
+        "path": "texts/maydaymystery.org/2006-12-06.jpg"
+      },
+      {
+        "id": "b925be9104ee95bdcd1e8e66eb41dc07ef9c8dd065dad0fe0fbb53868f9b267a",
+        "date": "1981-08-24",
+        "path": "texts/maydaymystery.org/1981-08-24.jpg"
+      },
+      {
+        "id": "c2390640e21174552084fddc0f0c194472a23e3a3d5c627a7c9a7ba56c2bba0b",
+        "date": "1997-05-01",
+        "path": "texts/My Scans/1997-05-01_page28.jpg"
+      },
+      {
+        "id": "c40ec98d48a3ac698d432775c8d461727c6217b1a81e34d0a19d1619b8157260",
+        "date": "2000-09-20",
+        "path": "texts/maydaymystery.org/2000-09-20.jpg"
+      },
+      {
+        "id": "c7ab5c781bb7e5869b3f430fc864926895e40691a9c8724588872b9cfb057f3e",
+        "date": "2003-05-01",
+        "path": "texts/maydaymystery.org/2003-05-01.jpg"
+      },
+      {
+        "id": "cb90f40a710d4a6950ae00da9ce4a6f90c092b963ef9b429cdb24466dbea5d4a",
+        "date": "1995-05-01",
+        "path": "texts/My Scans/1995-05-01_page16.jpg"
+      },
+      {
+        "id": "d1ccdc5d2056bd2152a447722c8d9c1986836be4188eb2a126453ccbce8a2b1f",
+        "date": "2015-05-01",
+        "path": "texts/maydaymystery.org/2015-05-01.jpg"
+      },
+      {
+        "id": "d326edeec0345758f02c6300f30b229e87dbf8ac670983c465cd33e83dac369c",
+        "date": "1996-05-01",
+        "path": "texts/maydaymystery.org/1996-05-01.jpg"
+      },
+      {
+        "id": "dda29841f5c0691150b03c12319fc0231036d95398741341af73a9aa5251f84c",
+        "date": "2007-12-05",
+        "path": "texts/maydaymystery.org/2007-12-05.jpg"
+      },
+      {
+        "id": "ddb3dd3247786a6d29dd898a4ecaf57410b28b3313eacdde5d67cb5f89b6c3e8",
+        "date": "2015-05-01",
+        "path": "texts/My Scans/2015-05-01_page15.jpg"
+      },
+      {
+        "id": "e37fd35b07bb4b5f7e892f05328dbf87e7b924634b33664f3cd05b5ffbdf2204",
+        "date": "1992-05-01",
+        "path": "texts/My Scans/1992-05-01_page20.jpg"
+      },
+      {
+        "id": "e915bfac9b3e4282cbb6e2ae7ccb7f67d97381b8d08278d70be1eacfbf312374",
+        "date": "2009-05-01",
+        "path": "texts/My Scans/2009-05-01_page8.jpg"
+      },
+      {
+        "id": "e95693ee99ca8bb03cfa80fd4182e58b7d139347515b540705b7106080f2e1b8",
+        "date": "1992-05-01",
+        "path": "texts/maydaymystery.org/1992-05-01.jpg"
+      },
+      {
+        "id": "f873cc25ce751b8c151de339a62e0abce014c0173071e7624752127b9edd5534",
+        "date": "1988-04-27",
+        "path": "texts/My Scans/1988-04-27_page16.jpg"
+      },
+      {
+        "id": "fa5d0fc895d31c5cd93b647941a561af34bf73d8e26a3c01cc1e3e240a4db92d",
+        "date": "1993-05-03",
+        "path": "texts/maydaymystery.org/1993-05-03.jpg"
+      },
+      {
+        "id": "fdb90b13cd6742361e094b8726349f90408ea4d0964ded04559bd07e6d31077d",
+        "date": "2005-04-29",
+        "path": "texts/maydaymystery.org/2005-04-29.jpg"
+      }
+    ]
+  },
+  {
     "entity": "Leitmotiv",
     "documents": [
+      {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
+      },
       {
         "id": "0c14637413be158758fbbf3e491731284b9dfc69b86f5cf3e792130e05a24695",
         "date": "2005-06-22",
@@ -11,6 +386,11 @@
         "id": "0f6e7071f16e7fb261e71c330d83c0ca629afa126dd22d7a456e174a14cb1c11",
         "date": "2002-12-04",
         "path": "texts/maydaymystery.org/2002-12-04.jpg"
+      },
+      {
+        "id": "10ae98a0329510a1e774e89977e9fcf863ece90b2c25f07da787732c3450e40d",
+        "date": "2008-05-01",
+        "path": "texts/maydaymystery.org/2008-05-01.jpg"
       },
       {
         "id": "124df65b3dc9af2cdf0801ca79b353ac96e5bd2891c32c209392239acf2ecb6c",
@@ -58,6 +438,11 @@
         "path": "texts/maydaymystery.org/1992-01-22.jpg"
       },
       {
+        "id": "32bc6a922fa10096ea682bdd7dfb79315e0daad6b2cd0a434fa598f141011146",
+        "date": "2000-05-01",
+        "path": "texts/My Scans/2000-05-01_page32.jpg"
+      },
+      {
         "id": "3393bf77267280cc9fb53a9ad531f8931c95553a548a462aa2103bd675b8f7ea",
         "date": "2005-02-09",
         "path": "texts/maydaymystery.org/2005-02-09.jpg"
@@ -88,9 +473,19 @@
         "path": "texts/maydaymystery.org/1991-03-20.jpg"
       },
       {
+        "id": "3ea3da0d9bd1a5d69bf115ade7acdfb67873050d9e29605ba44cd406e847994a",
+        "date": "2006-05-01",
+        "path": "texts/My Scans/2006-05-01_page12.jpg"
+      },
+      {
         "id": "3f1b9b08b8686362677755ed8982012050ea7486d524ab80d6094d8cd12cabaf",
         "date": "2004-08-04",
         "path": "texts/maydaymystery.org/2004-08-04.jpg"
+      },
+      {
+        "id": "433b30a517d119d4b169fbba8923f9f973d3ac91ada04684691018f7ecedb9f8",
+        "date": "1993-05-03",
+        "path": "texts/My Scans/1993-05-03_page16.jpg"
       },
       {
         "id": "45a76824f92dbcd165a53630fd57f32a29ae28afd1c410274287bb7b4df53d0d",
@@ -116,6 +511,11 @@
         "id": "54685ddaa55687bdd0a92121c4ad8375acdea2797d44d2bad80448d5f123e5bc",
         "date": "2019-06-19",
         "path": "texts/maydaymystery.org/2019-06-19.jpg"
+      },
+      {
+        "id": "584c9c0bdcc084b8da83c8b5697774c23456f15cace4e16c897e4e28145bb7d4",
+        "date": "2010-04-30",
+        "path": "texts/maydaymystery.org/2010-04-30.jpg"
       },
       {
         "id": "58f35feeaabfb80fbb5516c82a80d833a7d9c7c3d15b8c1d54e321e85f7aa0c1",
@@ -198,9 +598,24 @@
         "path": "texts/maydaymystery.org/1997-12-01.jpg"
       },
       {
+        "id": "87c944a66df92be2b8cb534196342c949d6283ff1de52f399689a401182e81bb",
+        "date": "1994-04-29",
+        "path": "texts/My Scans/1994-04-29_page16.jpg"
+      },
+      {
+        "id": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+        "date": "1989-05-01",
+        "path": "texts/My Scans/1989-05-01_page24.jpg"
+      },
+      {
         "id": "8c5e7b72d4b82ff4a435db2ca629e6f8ba96508797ec050da5d66c3326cfb632",
         "date": "2004-06-16",
         "path": "texts/maydaymystery.org/2004-06-16.jpg"
+      },
+      {
+        "id": "8dee8e77f1825c658640034da00a638163f8c9c7f7bc04f61b7847ff235129ce",
+        "date": "2002-05-01",
+        "path": "texts/My Scans/2002-05-01_page20.jpg"
       },
       {
         "id": "91a7076826c5a22ca41429de3dd52d62ef79fbff7208a303efa0e3ff1e08618b",
@@ -211,6 +626,11 @@
         "id": "91ece6ca8d122154a5c8faf5a277a17bfe38952eeee072e5c5e60a866ab5e702",
         "date": "2018-05-01",
         "path": "texts/maydaymystery.org/2018-05-01.jpg"
+      },
+      {
+        "id": "9439b8980ba1606d36436a739858d959f92f5fb34cf2c2c20074a1075d77a466",
+        "date": "2007-05-01",
+        "path": "texts/maydaymystery.org/2007-05-01.jpg"
       },
       {
         "id": "9f3d6048e7323dcc30d336b552ac242bfeb1dc539df466dedea669319b7cfe86",
@@ -228,6 +648,11 @@
         "path": "texts/maydaymystery.org/2005-12-07.jpg"
       },
       {
+        "id": "ab9fec1e8bdc7370fde747341e09a830b8b8b5389b67795e6beaa2649e974c5c",
+        "date": "2007-05-01",
+        "path": "texts/My Scans/2007-05-01_page25.jpg"
+      },
+      {
         "id": "ae11703826163ccac46b78cbfafa50db451d57bb31da8b89f6d2e3dfdbf7c15d",
         "date": "2003-12-03",
         "path": "texts/maydaymystery.org/2003-12-03.jpg"
@@ -241,6 +666,16 @@
         "id": "b6dd046b7552bc7054a930307fc1d92129cf6becd9c614169fa5a1ced6a7dc2f",
         "date": "1995-05-01",
         "path": "texts/maydaymystery.org/1995-05-01.jpg"
+      },
+      {
+        "id": "c2390640e21174552084fddc0f0c194472a23e3a3d5c627a7c9a7ba56c2bba0b",
+        "date": "1997-05-01",
+        "path": "texts/My Scans/1997-05-01_page28.jpg"
+      },
+      {
+        "id": "c28f3a6808b74f6724edc2e228cc82af61d96d826755cc041fcc57e5a2bce740",
+        "date": "2005-06-22",
+        "path": "texts/My Scans/2005-06-22_page15.jpg"
       },
       {
         "id": "c40ec98d48a3ac698d432775c8d461727c6217b1a81e34d0a19d1619b8157260",
@@ -258,9 +693,19 @@
         "path": "texts/maydaymystery.org/1989-03-08.jpg"
       },
       {
+        "id": "cb90f40a710d4a6950ae00da9ce4a6f90c092b963ef9b429cdb24466dbea5d4a",
+        "date": "1995-05-01",
+        "path": "texts/My Scans/1995-05-01_page16.jpg"
+      },
+      {
         "id": "dda29841f5c0691150b03c12319fc0231036d95398741341af73a9aa5251f84c",
         "date": "2007-12-05",
         "path": "texts/maydaymystery.org/2007-12-05.jpg"
+      },
+      {
+        "id": "e37fd35b07bb4b5f7e892f05328dbf87e7b924634b33664f3cd05b5ffbdf2204",
+        "date": "1992-05-01",
+        "path": "texts/My Scans/1992-05-01_page20.jpg"
       },
       {
         "id": "e95693ee99ca8bb03cfa80fd4182e58b7d139347515b540705b7106080f2e1b8",
@@ -285,283 +730,13 @@
     ]
   },
   {
-    "entity": "SR/CL",
-    "documents": [
-      {
-        "id": "011d2f3ec1f063ae7979c9405249a181a23ea95250ed1cb87a6b45afa91749e6",
-        "date": "1988-09-28",
-        "path": "texts/maydaymystery.org/1988-09-28.jpg"
-      },
-      {
-        "id": "0f6e7071f16e7fb261e71c330d83c0ca629afa126dd22d7a456e174a14cb1c11",
-        "date": "2002-12-04",
-        "path": "texts/maydaymystery.org/2002-12-04.jpg"
-      },
-      {
-        "id": "1235f85aa35e3fc8a25a815e46cea3e50a59e30b2c20be68dbb5950a2aa4d8be",
-        "date": "1990-09-05",
-        "path": "texts/maydaymystery.org/1990-09-05.jpg"
-      },
-      {
-        "id": "124df65b3dc9af2cdf0801ca79b353ac96e5bd2891c32c209392239acf2ecb6c",
-        "date": "1996-12-04",
-        "path": "texts/maydaymystery.org/1996-12-04.jpg"
-      },
-      {
-        "id": "143c4bf157693c1e1e1a64e45dc465cb34d73f1aeadb0c475d3ea5bc8c44b9a4",
-        "date": "1998-05-01",
-        "path": "texts/maydaymystery.org/1998-05-01.jpg"
-      },
-      {
-        "id": "17f6f4568882ae2e8697d967b0a18cf76188083c0cc65fbdab00d5b263eb5712",
-        "date": "2016-03-23",
-        "path": "texts/maydaymystery.org/2016-03-23.jpg"
-      },
-      {
-        "id": "1ae6c4c2dad979e18d5c0b40fd345c22e0145c217a56393798cbeeb6f8d40830",
-        "date": "1993-03-10",
-        "path": "texts/maydaymystery.org/1993-03-10.jpg"
-      },
-      {
-        "id": "276188332255fad66e1f865003694d9fc4a8a01cef8065d61ef4afc0da4c9945",
-        "date": "2016-12-07",
-        "path": "texts/maydaymystery.org/2016-12-07.jpg"
-      },
-      {
-        "id": "276f845dc771141ac2b0317609ed42bbd6e0c27af5a4db1f9423449947873a11",
-        "date": "2010-03-26",
-        "path": "texts/maydaymystery.org/2010-03-26.jpg"
-      },
-      {
-        "id": "291e83bcc059bd2aefdd2eeb074e9382ccb5b7f777bb8e1ef15a486050a68f8b",
-        "date": "2014-05-01",
-        "path": "texts/maydaymystery.org/2014-05-01.jpg"
-      },
-      {
-        "id": "3393bf77267280cc9fb53a9ad531f8931c95553a548a462aa2103bd675b8f7ea",
-        "date": "2005-02-09",
-        "path": "texts/maydaymystery.org/2005-02-09.jpg"
-      },
-      {
-        "id": "33ad9d3c21fdc37f5ab44fc8f707714e052601c9ccdd9ef817f0383cb4b70d50",
-        "date": "1990-10-24",
-        "path": "texts/maydaymystery.org/1990-10-24.jpg"
-      },
-      {
-        "id": "352cd9c9678b688c2832020d79da69ceba26c177c13bdf2818dc4ecfcca728ca",
-        "date": "2017-10-25",
-        "path": "texts/maydaymystery.org/2017-10-25.jpg"
-      },
-      {
-        "id": "3e9e3a44a9bb1835db3a16980af0dec678a10357b3f19d64f19ca7601df8e918",
-        "date": "1991-03-20",
-        "path": "texts/maydaymystery.org/1991-03-20.jpg"
-      },
-      {
-        "id": "45a76824f92dbcd165a53630fd57f32a29ae28afd1c410274287bb7b4df53d0d",
-        "date": "2016-04-30",
-        "path": "texts/maydaymystery.org/2016-04-30.jpg"
-      },
-      {
-        "id": "45ff5da4651691dc6fb7a5aec817dbd4e5c2136aaea88f9743942338aa71c590",
-        "date": "2000-10-10",
-        "path": "texts/maydaymystery.org/2000-10-10.jpg"
-      },
-      {
-        "id": "46f504f5f79aabaf60533a257991ca16b8da35ad12bca14397c8549f85d0396b",
-        "date": "1983-04-19",
-        "path": "texts/maydaymystery.org/1983-04-19.jpg"
-      },
-      {
-        "id": "476bc56d3c4afd3099a4c73a48f24341923116c3c4f960ec2ca4c3e9c348594c",
-        "date": "2004-12-01",
-        "path": "texts/maydaymystery.org/2004-12-01.jpg"
-      },
-      {
-        "id": "4a3d21650f33ff5795bbfb8c275e8dc986dbc49ff146c808db7c5154919546a6",
-        "date": "1993-12-01",
-        "path": "texts/maydaymystery.org/1993-12-01.jpg"
-      },
-      {
-        "id": "4aac23e12fac25d3edf5b9a7fde39479695dc4d1aca09cc9ca4439155d2f8933",
-        "date": "2001-05-01",
-        "path": "texts/maydaymystery.org/2001-05-01_1.jpg"
-      },
-      {
-        "id": "58f35feeaabfb80fbb5516c82a80d833a7d9c7c3d15b8c1d54e321e85f7aa0c1",
-        "date": "2002-05-01",
-        "path": "texts/maydaymystery.org/2002-05-01.jpg"
-      },
-      {
-        "id": "5e2811e424ba14117ead5e18af8743142b9874254235c07307f0f1896c334334",
-        "date": "2012-05-01",
-        "path": "texts/maydaymystery.org/2012-05-01.jpg"
-      },
-      {
-        "id": "5f4ce750045cf1db900d02739ba5ce2c77f691875e568d122d8351156d79df12",
-        "date": "2019-05-01",
-        "path": "texts/maydaymystery.org/2019-05-01.jpg"
-      },
-      {
-        "id": "65a76146c2fd6b43c7ba46e5edeff05658917eb0eed7aa981cecb7af29f64139",
-        "date": "1990-03-21",
-        "path": "texts/maydaymystery.org/1990-03-21.jpg"
-      },
-      {
-        "id": "6634c30913263f867aa3444157a6a4530be5adb713391c1e309a0e9aa7ecfd5f",
-        "date": "2000-05-01",
-        "path": "texts/maydaymystery.org/2000-05-01.jpg"
-      },
-      {
-        "id": "6f63398c1571cd186999ffab41110227a58e05b04950fca472fd1b44072cd42d",
-        "date": "1990-12-05",
-        "path": "texts/maydaymystery.org/1990-12-05.jpg"
-      },
-      {
-        "id": "7325aa1607d29984b226f3c6c0a543b5cee68226b4f2e35554874c9050ad90b8",
-        "date": "2009-12-09",
-        "path": "texts/maydaymystery.org/2009-12-09.jpg"
-      },
-      {
-        "id": "747d278b8848b6c5aed642a55afd17c45e2e07920bfdafbe9ddd6b9f29c1d7e4",
-        "date": "1992-12-02",
-        "path": "texts/maydaymystery.org/1992-12-02.jpg"
-      },
-      {
-        "id": "74b65394dd8886be5e6b4ae28bea9c55e77c6acd03f148fa765bf93def0f49b5",
-        "date": "1991-08-28",
-        "path": "texts/maydaymystery.org/1991-08-28.jpg"
-      },
-      {
-        "id": "7e927d874d6c6d36e77dd3464cdd08ca99bbdc23a8157cb4af5e4ec335987e43",
-        "date": "2006-05-01",
-        "path": "texts/maydaymystery.org/2006-05-01.jpg"
-      },
-      {
-        "id": "7ea08854dfaab29c99e20a4e65e4c6814e06e384b73753e70a328874f41f10bf",
-        "date": "1989-05-01",
-        "path": "texts/maydaymystery.org/1989-05-01.jpg"
-      },
-      {
-        "id": "7fb7a57390813ae77d6c82004ae82ed400f8253f4283da08bdb53992d31bc291",
-        "date": "2015-12-02",
-        "path": "texts/maydaymystery.org/2015-12-02.jpg"
-      },
-      {
-        "id": "8c5e7b72d4b82ff4a435db2ca629e6f8ba96508797ec050da5d66c3326cfb632",
-        "date": "2004-06-16",
-        "path": "texts/maydaymystery.org/2004-06-16.jpg"
-      },
-      {
-        "id": "91a7076826c5a22ca41429de3dd52d62ef79fbff7208a303efa0e3ff1e08618b",
-        "date": "2002-09-26",
-        "path": "texts/maydaymystery.org/2002-09-26.jpg"
-      },
-      {
-        "id": "91ece6ca8d122154a5c8faf5a277a17bfe38952eeee072e5c5e60a866ab5e702",
-        "date": "2018-05-01",
-        "path": "texts/maydaymystery.org/2018-05-01.jpg"
-      },
-      {
-        "id": "9f3d6048e7323dcc30d336b552ac242bfeb1dc539df466dedea669319b7cfe86",
-        "date": "2001-01-17",
-        "path": "texts/maydaymystery.org/2001-01-17.jpg"
-      },
-      {
-        "id": "a35ceaa8a66d390758604767912dae06166c157e2c6194a626f7147da070af4e",
-        "date": "2004-05-01",
-        "path": "texts/maydaymystery.org/2004-05-01.jpg"
-      },
-      {
-        "id": "a4e24bce3219d9a69a26c0dcc87360a9dc7b890e2d7b0b215d8e0815d22b59e4",
-        "date": "2005-12-07",
-        "path": "texts/maydaymystery.org/2005-12-07.jpg"
-      },
-      {
-        "id": "a9b36cf0ced853674f91a101da65ef8b8dfe7dc401952cc6e53c09e51b8907ef",
-        "date": "1991-12-04",
-        "path": "texts/maydaymystery.org/1991-12-04.jpg"
-      },
-      {
-        "id": "ad9a6900e8f410a1655309f861d529dced7959443170bbe1449c7b0c962f9637",
-        "date": "1988-05-01",
-        "path": "texts/maydaymystery.org/1988-05-01.jpg"
-      },
-      {
-        "id": "ae11703826163ccac46b78cbfafa50db451d57bb31da8b89f6d2e3dfdbf7c15d",
-        "date": "2003-12-03",
-        "path": "texts/maydaymystery.org/2003-12-03.jpg"
-      },
-      {
-        "id": "af3bcb94c2b3c1416368da70807f9e185d4d2fc7f6178177ac822dfd3470a0e5",
-        "date": "1994-05-01",
-        "path": "texts/maydaymystery.org/1994-05-01.jpg"
-      },
-      {
-        "id": "b6dd046b7552bc7054a930307fc1d92129cf6becd9c614169fa5a1ced6a7dc2f",
-        "date": "1995-05-01",
-        "path": "texts/maydaymystery.org/1995-05-01.jpg"
-      },
-      {
-        "id": "b88eea8110089f313fe76492df4fc2c5417295e5ba64f25348d7cd6babfe291a",
-        "date": "2006-12-06",
-        "path": "texts/maydaymystery.org/2006-12-06.jpg"
-      },
-      {
-        "id": "b925be9104ee95bdcd1e8e66eb41dc07ef9c8dd065dad0fe0fbb53868f9b267a",
-        "date": "1981-08-24",
-        "path": "texts/maydaymystery.org/1981-08-24.jpg"
-      },
-      {
-        "id": "c40ec98d48a3ac698d432775c8d461727c6217b1a81e34d0a19d1619b8157260",
-        "date": "2000-09-20",
-        "path": "texts/maydaymystery.org/2000-09-20.jpg"
-      },
-      {
-        "id": "c7ab5c781bb7e5869b3f430fc864926895e40691a9c8724588872b9cfb057f3e",
-        "date": "2003-05-01",
-        "path": "texts/maydaymystery.org/2003-05-01.jpg"
-      },
-      {
-        "id": "d1ccdc5d2056bd2152a447722c8d9c1986836be4188eb2a126453ccbce8a2b1f",
-        "date": "2015-05-01",
-        "path": "texts/maydaymystery.org/2015-05-01.jpg"
-      },
-      {
-        "id": "d326edeec0345758f02c6300f30b229e87dbf8ac670983c465cd33e83dac369c",
-        "date": "1996-05-01",
-        "path": "texts/maydaymystery.org/1996-05-01.jpg"
-      },
-      {
-        "id": "dda29841f5c0691150b03c12319fc0231036d95398741341af73a9aa5251f84c",
-        "date": "2007-12-05",
-        "path": "texts/maydaymystery.org/2007-12-05.jpg"
-      },
-      {
-        "id": "ddb3dd3247786a6d29dd898a4ecaf57410b28b3313eacdde5d67cb5f89b6c3e8",
-        "date": "2015-05-01",
-        "path": "texts/My Scans/2015-05-01_page15.jpg"
-      },
-      {
-        "id": "e95693ee99ca8bb03cfa80fd4182e58b7d139347515b540705b7106080f2e1b8",
-        "date": "1992-05-01",
-        "path": "texts/maydaymystery.org/1992-05-01.jpg"
-      },
-      {
-        "id": "fa5d0fc895d31c5cd93b647941a561af34bf73d8e26a3c01cc1e3e240a4db92d",
-        "date": "1993-05-03",
-        "path": "texts/maydaymystery.org/1993-05-03.jpg"
-      },
-      {
-        "id": "fdb90b13cd6742361e094b8726349f90408ea4d0964ded04559bd07e6d31077d",
-        "date": "2005-04-29",
-        "path": "texts/maydaymystery.org/2005-04-29.jpg"
-      }
-    ]
-  },
-  {
     "entity": "John Winthrop",
     "documents": [
+      {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
+      },
       {
         "id": "1235f85aa35e3fc8a25a815e46cea3e50a59e30b2c20be68dbb5950a2aa4d8be",
         "date": "1990-09-05",
@@ -583,9 +758,24 @@
         "path": "texts/maydaymystery.org/1987-09-14.jpg"
       },
       {
+        "id": "37f974c82935e35ece4a4ef055c74027ac618a1dfc3e765bc6496882de74e2e0",
+        "date": "1998-05-01",
+        "path": "texts/My Scans/1998-05-01_page20.jpg"
+      },
+      {
+        "id": "3ea3da0d9bd1a5d69bf115ade7acdfb67873050d9e29605ba44cd406e847994a",
+        "date": "2006-05-01",
+        "path": "texts/My Scans/2006-05-01_page12.jpg"
+      },
+      {
         "id": "416bcc54aa45f3961dc6f2854970c77d9604cdcc18309c852cc7c3c2b8b8ede1",
         "date": "1999-05-01",
         "path": "texts/maydaymystery.org/1999-05-01.jpg"
+      },
+      {
+        "id": "433b30a517d119d4b169fbba8923f9f973d3ac91ada04684691018f7ecedb9f8",
+        "date": "1993-05-03",
+        "path": "texts/My Scans/1993-05-03_page16.jpg"
       },
       {
         "id": "45a76824f92dbcd165a53630fd57f32a29ae28afd1c410274287bb7b4df53d0d",
@@ -613,6 +803,11 @@
         "path": "texts/maydaymystery.org/1988-04-04.jpg"
       },
       {
+        "id": "584c9c0bdcc084b8da83c8b5697774c23456f15cace4e16c897e4e28145bb7d4",
+        "date": "2010-04-30",
+        "path": "texts/maydaymystery.org/2010-04-30.jpg"
+      },
+      {
         "id": "65a76146c2fd6b43c7ba46e5edeff05658917eb0eed7aa981cecb7af29f64139",
         "date": "1990-03-21",
         "path": "texts/maydaymystery.org/1990-03-21.jpg"
@@ -626,6 +821,11 @@
         "id": "6f63398c1571cd186999ffab41110227a58e05b04950fca472fd1b44072cd42d",
         "date": "1990-12-05",
         "path": "texts/maydaymystery.org/1990-12-05.jpg"
+      },
+      {
+        "id": "71be56ce424fc1c607332f9c0286c3172248f4ca5860fcdb48b60fc30ecbf6ff",
+        "date": "2005-04-29",
+        "path": "texts/My Scans/2005-04-29_page11.jpg"
       },
       {
         "id": "72f6b5a9eb3bb418136126ddb6d53cd0bb68ea35cbdb6a3ff6be19ed9ba1e6a0",
@@ -658,6 +858,21 @@
         "path": "texts/maydaymystery.org/1998-12-02.jpg"
       },
       {
+        "id": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+        "date": "1989-05-01",
+        "path": "texts/My Scans/1989-05-01_page24.jpg"
+      },
+      {
+        "id": "9439b8980ba1606d36436a739858d959f92f5fb34cf2c2c20074a1075d77a466",
+        "date": "2007-05-01",
+        "path": "texts/maydaymystery.org/2007-05-01.jpg"
+      },
+      {
+        "id": "a2281890ef777338a10557a75a05be45dd6f99218ed2ad8916717e0be6865994",
+        "date": "1991-05-01",
+        "path": "texts/My Scans/1991-05-01_page6A.jpg"
+      },
+      {
         "id": "a35ceaa8a66d390758604767912dae06166c157e2c6194a626f7147da070af4e",
         "date": "2004-05-01",
         "path": "texts/maydaymystery.org/2004-05-01.jpg"
@@ -666,6 +881,11 @@
         "id": "a4e24bce3219d9a69a26c0dcc87360a9dc7b890e2d7b0b215d8e0815d22b59e4",
         "date": "2005-12-07",
         "path": "texts/maydaymystery.org/2005-12-07.jpg"
+      },
+      {
+        "id": "ab9fec1e8bdc7370fde747341e09a830b8b8b5389b67795e6beaa2649e974c5c",
+        "date": "2007-05-01",
+        "path": "texts/My Scans/2007-05-01_page25.jpg"
       },
       {
         "id": "b0374ebfc38ac37ddd687e9e2772b9ee8edf542732b9609fc44a736cb0a9edce",
@@ -678,9 +898,19 @@
         "path": "texts/maydaymystery.org/1995-05-01.jpg"
       },
       {
+        "id": "c2390640e21174552084fddc0f0c194472a23e3a3d5c627a7c9a7ba56c2bba0b",
+        "date": "1997-05-01",
+        "path": "texts/My Scans/1997-05-01_page28.jpg"
+      },
+      {
         "id": "c40ec98d48a3ac698d432775c8d461727c6217b1a81e34d0a19d1619b8157260",
         "date": "2000-09-20",
         "path": "texts/maydaymystery.org/2000-09-20.jpg"
+      },
+      {
+        "id": "c5068bc1e6fafe736abc1090da656e193cc78ecbeecccab16b35514b78b192f0",
+        "date": "1999-04-30",
+        "path": "texts/My Scans/1999-04-30_page24.jpg"
       },
       {
         "id": "c7ab5c781bb7e5869b3f430fc864926895e40691a9c8724588872b9cfb057f3e",
@@ -693,9 +923,19 @@
         "path": "texts/maydaymystery.org/1989-03-08.jpg"
       },
       {
+        "id": "cb90f40a710d4a6950ae00da9ce4a6f90c092b963ef9b429cdb24466dbea5d4a",
+        "date": "1995-05-01",
+        "path": "texts/My Scans/1995-05-01_page16.jpg"
+      },
+      {
         "id": "dda29841f5c0691150b03c12319fc0231036d95398741341af73a9aa5251f84c",
         "date": "2007-12-05",
         "path": "texts/maydaymystery.org/2007-12-05.jpg"
+      },
+      {
+        "id": "e915bfac9b3e4282cbb6e2ae7ccb7f67d97381b8d08278d70be1eacfbf312374",
+        "date": "2009-05-01",
+        "path": "texts/My Scans/2009-05-01_page8.jpg"
       },
       {
         "id": "fa5d0fc895d31c5cd93b647941a561af34bf73d8e26a3c01cc1e3e240a4db92d",
@@ -733,9 +973,19 @@
         "path": "texts/maydaymystery.org/1990-10-24.jpg"
       },
       {
+        "id": "3ea3da0d9bd1a5d69bf115ade7acdfb67873050d9e29605ba44cd406e847994a",
+        "date": "2006-05-01",
+        "path": "texts/My Scans/2006-05-01_page12.jpg"
+      },
+      {
         "id": "476bc56d3c4afd3099a4c73a48f24341923116c3c4f960ec2ca4c3e9c348594c",
         "date": "2004-12-01",
         "path": "texts/maydaymystery.org/2004-12-01.jpg"
+      },
+      {
+        "id": "4f9a35044c5fce6f1a68429342763a3082d8af39ae5b606721747fa4e80dd606",
+        "date": "2001-05-01",
+        "path": "texts/My Scans/2001-05-01_page7.jpg"
       },
       {
         "id": "54685ddaa55687bdd0a92121c4ad8375acdea2797d44d2bad80448d5f123e5bc",
@@ -743,9 +993,19 @@
         "path": "texts/maydaymystery.org/2019-06-19.jpg"
       },
       {
+        "id": "584c9c0bdcc084b8da83c8b5697774c23456f15cace4e16c897e4e28145bb7d4",
+        "date": "2010-04-30",
+        "path": "texts/maydaymystery.org/2010-04-30.jpg"
+      },
+      {
         "id": "58f35feeaabfb80fbb5516c82a80d833a7d9c7c3d15b8c1d54e321e85f7aa0c1",
         "date": "2002-05-01",
         "path": "texts/maydaymystery.org/2002-05-01.jpg"
+      },
+      {
+        "id": "5a7b1d8b27ae48ab81ba9d19413de055831575a844a3638ea1e62ff18e4efa8e",
+        "date": "2008-04-02",
+        "path": "texts/My Scans/2008-04-02_page14.jpg"
       },
       {
         "id": "5e2811e424ba14117ead5e18af8743142b9874254235c07307f0f1896c334334",
@@ -763,6 +1023,16 @@
         "path": "texts/maydaymystery.org/1989-02-08.jpg"
       },
       {
+        "id": "6ee7d3ecb91a858158041ecb1fe5838f0328f3c57d193f0c73977bc3cc928103",
+        "date": "1996-05-01",
+        "path": "texts/My Scans/1996-05-01_page24.jpg"
+      },
+      {
+        "id": "71be56ce424fc1c607332f9c0286c3172248f4ca5860fcdb48b60fc30ecbf6ff",
+        "date": "2005-04-29",
+        "path": "texts/My Scans/2005-04-29_page11.jpg"
+      },
+      {
         "id": "7325aa1607d29984b226f3c6c0a543b5cee68226b4f2e35554874c9050ad90b8",
         "date": "2009-12-09",
         "path": "texts/maydaymystery.org/2009-12-09.jpg"
@@ -778,9 +1048,24 @@
         "path": "texts/maydaymystery.org/1989-05-01.jpg"
       },
       {
+        "id": "87c944a66df92be2b8cb534196342c949d6283ff1de52f399689a401182e81bb",
+        "date": "1994-04-29",
+        "path": "texts/My Scans/1994-04-29_page16.jpg"
+      },
+      {
+        "id": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+        "date": "1989-05-01",
+        "path": "texts/My Scans/1989-05-01_page24.jpg"
+      },
+      {
         "id": "8c5e7b72d4b82ff4a435db2ca629e6f8ba96508797ec050da5d66c3326cfb632",
         "date": "2004-06-16",
         "path": "texts/maydaymystery.org/2004-06-16.jpg"
+      },
+      {
+        "id": "8dee8e77f1825c658640034da00a638163f8c9c7f7bc04f61b7847ff235129ce",
+        "date": "2002-05-01",
+        "path": "texts/My Scans/2002-05-01_page20.jpg"
       },
       {
         "id": "91ece6ca8d122154a5c8faf5a277a17bfe38952eeee072e5c5e60a866ab5e702",
@@ -798,6 +1083,11 @@
         "path": "texts/maydaymystery.org/2001-01-17.jpg"
       },
       {
+        "id": "a2281890ef777338a10557a75a05be45dd6f99218ed2ad8916717e0be6865994",
+        "date": "1991-05-01",
+        "path": "texts/My Scans/1991-05-01_page6A.jpg"
+      },
+      {
         "id": "a35ceaa8a66d390758604767912dae06166c157e2c6194a626f7147da070af4e",
         "date": "2004-05-01",
         "path": "texts/maydaymystery.org/2004-05-01.jpg"
@@ -806,6 +1096,11 @@
         "id": "a4e24bce3219d9a69a26c0dcc87360a9dc7b890e2d7b0b215d8e0815d22b59e4",
         "date": "2005-12-07",
         "path": "texts/maydaymystery.org/2005-12-07.jpg"
+      },
+      {
+        "id": "ab9fec1e8bdc7370fde747341e09a830b8b8b5389b67795e6beaa2649e974c5c",
+        "date": "2007-05-01",
+        "path": "texts/My Scans/2007-05-01_page25.jpg"
       },
       {
         "id": "ae11703826163ccac46b78cbfafa50db451d57bb31da8b89f6d2e3dfdbf7c15d",
@@ -823,9 +1118,19 @@
         "path": "texts/maydaymystery.org/1995-05-01.jpg"
       },
       {
+        "id": "c2390640e21174552084fddc0f0c194472a23e3a3d5c627a7c9a7ba56c2bba0b",
+        "date": "1997-05-01",
+        "path": "texts/My Scans/1997-05-01_page28.jpg"
+      },
+      {
         "id": "c7d896c2273deda76f875f48487b5be99bfd43f52dd445eb0bec0a6a9ad95cf6",
         "date": "1989-03-08",
         "path": "texts/maydaymystery.org/1989-03-08.jpg"
+      },
+      {
+        "id": "cb90f40a710d4a6950ae00da9ce4a6f90c092b963ef9b429cdb24466dbea5d4a",
+        "date": "1995-05-01",
+        "path": "texts/My Scans/1995-05-01_page16.jpg"
       },
       {
         "id": "d326edeec0345758f02c6300f30b229e87dbf8ac670983c465cd33e83dac369c",
@@ -836,6 +1141,11 @@
         "id": "dda29841f5c0691150b03c12319fc0231036d95398741341af73a9aa5251f84c",
         "date": "2007-12-05",
         "path": "texts/maydaymystery.org/2007-12-05.jpg"
+      },
+      {
+        "id": "e915bfac9b3e4282cbb6e2ae7ccb7f67d97381b8d08278d70be1eacfbf312374",
+        "date": "2009-05-01",
+        "path": "texts/My Scans/2009-05-01_page8.jpg"
       },
       {
         "id": "ef9a26b3b8b0c9f7f628880f12ddcb4c83723925c738dfd42b62843010548ac8",
@@ -852,6 +1162,11 @@
   {
     "entity": "Martin Luther",
     "documents": [
+      {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
+      },
       {
         "id": "061532e320bdd4cadf6a1b0216f967225e4c4dcabecaf236c25ad6246833118c",
         "date": "2011-05-01",
@@ -873,6 +1188,16 @@
         "path": "texts/maydaymystery.org/2014-05-01.jpg"
       },
       {
+        "id": "29dd2939e9554d995269ca24aab9bb44cbd69ff0508ccef0cc2ae76c7214e1a1",
+        "date": "2001-05-01",
+        "path": "texts/My Scans/2001-05-01_page6.jpg"
+      },
+      {
+        "id": "37f974c82935e35ece4a4ef055c74027ac618a1dfc3e765bc6496882de74e2e0",
+        "date": "1998-05-01",
+        "path": "texts/My Scans/1998-05-01_page20.jpg"
+      },
+      {
         "id": "54685ddaa55687bdd0a92121c4ad8375acdea2797d44d2bad80448d5f123e5bc",
         "date": "2019-06-19",
         "path": "texts/maydaymystery.org/2019-06-19.jpg"
@@ -881,6 +1206,11 @@
         "id": "552d908a1d035ebe7fbc060016f21c847de6a8111cf2c5a2b2b289c76e0f12e4",
         "date": "1995-12-06",
         "path": "texts/maydaymystery.org/1995-12-06.jpg"
+      },
+      {
+        "id": "584c9c0bdcc084b8da83c8b5697774c23456f15cace4e16c897e4e28145bb7d4",
+        "date": "2010-04-30",
+        "path": "texts/maydaymystery.org/2010-04-30.jpg"
       },
       {
         "id": "58f35feeaabfb80fbb5516c82a80d833a7d9c7c3d15b8c1d54e321e85f7aa0c1",
@@ -908,9 +1238,19 @@
         "path": "texts/maydaymystery.org/2006-05-01.jpg"
       },
       {
+        "id": "9439b8980ba1606d36436a739858d959f92f5fb34cf2c2c20074a1075d77a466",
+        "date": "2007-05-01",
+        "path": "texts/maydaymystery.org/2007-05-01.jpg"
+      },
+      {
         "id": "aaae38387dc03a270315f5b811987c199b6ead1c30ffd3fe7eb155e82fd85c9a",
         "date": "2008-12-10",
         "path": "texts/maydaymystery.org/2008-12-10.jpg"
+      },
+      {
+        "id": "ab9fec1e8bdc7370fde747341e09a830b8b8b5389b67795e6beaa2649e974c5c",
+        "date": "2007-05-01",
+        "path": "texts/My Scans/2007-05-01_page25.jpg"
       },
       {
         "id": "b6dd046b7552bc7054a930307fc1d92129cf6becd9c614169fa5a1ced6a7dc2f",
@@ -946,6 +1286,11 @@
         "id": "e95693ee99ca8bb03cfa80fd4182e58b7d139347515b540705b7106080f2e1b8",
         "date": "1992-05-01",
         "path": "texts/maydaymystery.org/1992-05-01.jpg"
+      },
+      {
+        "id": "f873cc25ce751b8c151de339a62e0abce014c0173071e7624752127b9edd5534",
+        "date": "1988-04-27",
+        "path": "texts/My Scans/1988-04-27_page16.jpg"
       }
     ]
   },
@@ -956,6 +1301,11 @@
         "id": "051514573dd3c124492c50d01c14a0c5208d5535417e1b25b74fabaf816cbf1b",
         "date": "1988-02-22",
         "path": "texts/maydaymystery.org/1988-02-22.jpg"
+      },
+      {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
       },
       {
         "id": "1235f85aa35e3fc8a25a815e46cea3e50a59e30b2c20be68dbb5950a2aa4d8be",
@@ -988,6 +1338,11 @@
         "path": "texts/maydaymystery.org/1989-02-08.jpg"
       },
       {
+        "id": "71be56ce424fc1c607332f9c0286c3172248f4ca5860fcdb48b60fc30ecbf6ff",
+        "date": "2005-04-29",
+        "path": "texts/My Scans/2005-04-29_page11.jpg"
+      },
+      {
         "id": "747d278b8848b6c5aed642a55afd17c45e2e07920bfdafbe9ddd6b9f29c1d7e4",
         "date": "1992-12-02",
         "path": "texts/maydaymystery.org/1992-12-02.jpg"
@@ -998,6 +1353,21 @@
         "path": "texts/maydaymystery.org/1989-05-01.jpg"
       },
       {
+        "id": "87c944a66df92be2b8cb534196342c949d6283ff1de52f399689a401182e81bb",
+        "date": "1994-04-29",
+        "path": "texts/My Scans/1994-04-29_page16.jpg"
+      },
+      {
+        "id": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+        "date": "1989-05-01",
+        "path": "texts/My Scans/1989-05-01_page24.jpg"
+      },
+      {
+        "id": "9439b8980ba1606d36436a739858d959f92f5fb34cf2c2c20074a1075d77a466",
+        "date": "2007-05-01",
+        "path": "texts/maydaymystery.org/2007-05-01.jpg"
+      },
+      {
         "id": "9f3d6048e7323dcc30d336b552ac242bfeb1dc539df466dedea669319b7cfe86",
         "date": "2001-01-17",
         "path": "texts/maydaymystery.org/2001-01-17.jpg"
@@ -1006,6 +1376,11 @@
         "id": "a4e24bce3219d9a69a26c0dcc87360a9dc7b890e2d7b0b215d8e0815d22b59e4",
         "date": "2005-12-07",
         "path": "texts/maydaymystery.org/2005-12-07.jpg"
+      },
+      {
+        "id": "ab9fec1e8bdc7370fde747341e09a830b8b8b5389b67795e6beaa2649e974c5c",
+        "date": "2007-05-01",
+        "path": "texts/My Scans/2007-05-01_page25.jpg"
       },
       {
         "id": "ae11703826163ccac46b78cbfafa50db451d57bb31da8b89f6d2e3dfdbf7c15d",
@@ -1023,6 +1398,11 @@
         "path": "texts/maydaymystery.org/1987-04-08.jpg"
       },
       {
+        "id": "c2390640e21174552084fddc0f0c194472a23e3a3d5c627a7c9a7ba56c2bba0b",
+        "date": "1997-05-01",
+        "path": "texts/My Scans/1997-05-01_page28.jpg"
+      },
+      {
         "id": "c7ab5c781bb7e5869b3f430fc864926895e40691a9c8724588872b9cfb057f3e",
         "date": "2003-05-01",
         "path": "texts/maydaymystery.org/2003-05-01.jpg"
@@ -1031,12 +1411,22 @@
         "id": "c7d896c2273deda76f875f48487b5be99bfd43f52dd445eb0bec0a6a9ad95cf6",
         "date": "1989-03-08",
         "path": "texts/maydaymystery.org/1989-03-08.jpg"
+      },
+      {
+        "id": "e915bfac9b3e4282cbb6e2ae7ccb7f67d97381b8d08278d70be1eacfbf312374",
+        "date": "2009-05-01",
+        "path": "texts/My Scans/2009-05-01_page8.jpg"
       }
     ]
   },
   {
     "entity": "Owsley",
     "documents": [
+      {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
+      },
       {
         "id": "1235f85aa35e3fc8a25a815e46cea3e50a59e30b2c20be68dbb5950a2aa4d8be",
         "date": "1990-09-05",
@@ -1051,6 +1441,16 @@
         "id": "2e779723f17e2d15adcb5bc76f83145e2d13620d88fe93e6969829b1082e6c72",
         "date": "1987-09-14",
         "path": "texts/maydaymystery.org/1987-09-14.jpg"
+      },
+      {
+        "id": "37f974c82935e35ece4a4ef055c74027ac618a1dfc3e765bc6496882de74e2e0",
+        "date": "1998-05-01",
+        "path": "texts/My Scans/1998-05-01_page20.jpg"
+      },
+      {
+        "id": "433b30a517d119d4b169fbba8923f9f973d3ac91ada04684691018f7ecedb9f8",
+        "date": "1993-05-03",
+        "path": "texts/My Scans/1993-05-03_page16.jpg"
       },
       {
         "id": "4a3d21650f33ff5795bbfb8c275e8dc986dbc49ff146c808db7c5154919546a6",
@@ -1083,6 +1483,16 @@
         "path": "texts/maydaymystery.org/1989-12-06.jpg"
       },
       {
+        "id": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+        "date": "1989-05-01",
+        "path": "texts/My Scans/1989-05-01_page24.jpg"
+      },
+      {
+        "id": "a2281890ef777338a10557a75a05be45dd6f99218ed2ad8916717e0be6865994",
+        "date": "1991-05-01",
+        "path": "texts/My Scans/1991-05-01_page6A.jpg"
+      },
+      {
         "id": "a35ceaa8a66d390758604767912dae06166c157e2c6194a626f7147da070af4e",
         "date": "2004-05-01",
         "path": "texts/maydaymystery.org/2004-05-01.jpg"
@@ -1096,6 +1506,16 @@
         "id": "c7d896c2273deda76f875f48487b5be99bfd43f52dd445eb0bec0a6a9ad95cf6",
         "date": "1989-03-08",
         "path": "texts/maydaymystery.org/1989-03-08.jpg"
+      },
+      {
+        "id": "cb90f40a710d4a6950ae00da9ce4a6f90c092b963ef9b429cdb24466dbea5d4a",
+        "date": "1995-05-01",
+        "path": "texts/My Scans/1995-05-01_page16.jpg"
+      },
+      {
+        "id": "e37fd35b07bb4b5f7e892f05328dbf87e7b924634b33664f3cd05b5ffbdf2204",
+        "date": "1992-05-01",
+        "path": "texts/My Scans/1992-05-01_page20.jpg"
       },
       {
         "id": "ef9a26b3b8b0c9f7f628880f12ddcb4c83723925c738dfd42b62843010548ac8",
@@ -1113,6 +1533,11 @@
     "entity": "Oliver Cromwell",
     "documents": [
       {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
+      },
+      {
         "id": "061532e320bdd4cadf6a1b0216f967225e4c4dcabecaf236c25ad6246833118c",
         "date": "2011-05-01",
         "path": "texts/maydaymystery.org/2011-05-01.jpg"
@@ -1123,9 +1548,19 @@
         "path": "texts/maydaymystery.org/2014-05-01.jpg"
       },
       {
+        "id": "37f974c82935e35ece4a4ef055c74027ac618a1dfc3e765bc6496882de74e2e0",
+        "date": "1998-05-01",
+        "path": "texts/My Scans/1998-05-01_page20.jpg"
+      },
+      {
         "id": "39984474639cf8dbc0ece2669a5e0f9054cc28388b4bc881d4e58db475421d41",
         "date": "1985-05-01",
         "path": "texts/maydaymystery.org/1985-05-01.jpg"
+      },
+      {
+        "id": "3ea3da0d9bd1a5d69bf115ade7acdfb67873050d9e29605ba44cd406e847994a",
+        "date": "2006-05-01",
+        "path": "texts/My Scans/2006-05-01_page12.jpg"
       },
       {
         "id": "5e2811e424ba14117ead5e18af8743142b9874254235c07307f0f1896c334334",
@@ -1136,6 +1571,11 @@
         "id": "5f4ce750045cf1db900d02739ba5ce2c77f691875e568d122d8351156d79df12",
         "date": "2019-05-01",
         "path": "texts/maydaymystery.org/2019-05-01.jpg"
+      },
+      {
+        "id": "6ee7d3ecb91a858158041ecb1fe5838f0328f3c57d193f0c73977bc3cc928103",
+        "date": "1996-05-01",
+        "path": "texts/My Scans/1996-05-01_page24.jpg"
       },
       {
         "id": "7325aa1607d29984b226f3c6c0a543b5cee68226b4f2e35554874c9050ad90b8",
@@ -1180,6 +1620,81 @@
     ]
   },
   {
+    "entity": "Bible",
+    "documents": [
+      {
+        "id": "073d52af4b11fb475d30f3cbb90416e54cc9bd7c4ea45533313e22725059e70a",
+        "date": "2008-05-01",
+        "path": "texts/maydaymystery.org/2008-05-01_color.jpg"
+      },
+      {
+        "id": "10ae98a0329510a1e774e89977e9fcf863ece90b2c25f07da787732c3450e40d",
+        "date": "2008-05-01",
+        "path": "texts/maydaymystery.org/2008-05-01.jpg"
+      },
+      {
+        "id": "276f845dc771141ac2b0317609ed42bbd6e0c27af5a4db1f9423449947873a11",
+        "date": "2010-03-26",
+        "path": "texts/maydaymystery.org/2010-03-26.jpg"
+      },
+      {
+        "id": "352cd9c9678b688c2832020d79da69ceba26c177c13bdf2818dc4ecfcca728ca",
+        "date": "2017-10-25",
+        "path": "texts/maydaymystery.org/2017-10-25.jpg"
+      },
+      {
+        "id": "3ea3da0d9bd1a5d69bf115ade7acdfb67873050d9e29605ba44cd406e847994a",
+        "date": "2006-05-01",
+        "path": "texts/My Scans/2006-05-01_page12.jpg"
+      },
+      {
+        "id": "584c9c0bdcc084b8da83c8b5697774c23456f15cace4e16c897e4e28145bb7d4",
+        "date": "2010-04-30",
+        "path": "texts/maydaymystery.org/2010-04-30.jpg"
+      },
+      {
+        "id": "58f35feeaabfb80fbb5516c82a80d833a7d9c7c3d15b8c1d54e321e85f7aa0c1",
+        "date": "2002-05-01",
+        "path": "texts/maydaymystery.org/2002-05-01.jpg"
+      },
+      {
+        "id": "7e927d874d6c6d36e77dd3464cdd08ca99bbdc23a8157cb4af5e4ec335987e43",
+        "date": "2006-05-01",
+        "path": "texts/maydaymystery.org/2006-05-01.jpg"
+      },
+      {
+        "id": "81187bd2a3d5dae8c978f4f0965cbcfbde58453ccf7503447e01950556b0e2e2",
+        "date": "1998-12-02",
+        "path": "texts/maydaymystery.org/1998-12-02.jpg"
+      },
+      {
+        "id": "869b36163197df6f5d1a08c2758b4066b2c94b2ce35c2f83b8b18f48b27015ad",
+        "date": "1997-12-01",
+        "path": "texts/maydaymystery.org/1997-12-01.jpg"
+      },
+      {
+        "id": "8dee8e77f1825c658640034da00a638163f8c9c7f7bc04f61b7847ff235129ce",
+        "date": "2002-05-01",
+        "path": "texts/My Scans/2002-05-01_page20.jpg"
+      },
+      {
+        "id": "ad9a6900e8f410a1655309f861d529dced7959443170bbe1449c7b0c962f9637",
+        "date": "1988-05-01",
+        "path": "texts/maydaymystery.org/1988-05-01.jpg"
+      },
+      {
+        "id": "c7ab5c781bb7e5869b3f430fc864926895e40691a9c8724588872b9cfb057f3e",
+        "date": "2003-05-01",
+        "path": "texts/maydaymystery.org/2003-05-01.jpg"
+      },
+      {
+        "id": "f873cc25ce751b8c151de339a62e0abce014c0173071e7624752127b9edd5534",
+        "date": "1988-04-27",
+        "path": "texts/My Scans/1988-04-27_page16.jpg"
+      }
+    ]
+  },
+  {
     "entity": "John Calvin",
     "documents": [
       {
@@ -1191,6 +1706,21 @@
         "id": "291e83bcc059bd2aefdd2eeb074e9382ccb5b7f777bb8e1ef15a486050a68f8b",
         "date": "2014-05-01",
         "path": "texts/maydaymystery.org/2014-05-01.jpg"
+      },
+      {
+        "id": "29dd2939e9554d995269ca24aab9bb44cbd69ff0508ccef0cc2ae76c7214e1a1",
+        "date": "2001-05-01",
+        "path": "texts/My Scans/2001-05-01_page6.jpg"
+      },
+      {
+        "id": "37f974c82935e35ece4a4ef055c74027ac618a1dfc3e765bc6496882de74e2e0",
+        "date": "1998-05-01",
+        "path": "texts/My Scans/1998-05-01_page20.jpg"
+      },
+      {
+        "id": "3ea3da0d9bd1a5d69bf115ade7acdfb67873050d9e29605ba44cd406e847994a",
+        "date": "2006-05-01",
+        "path": "texts/My Scans/2006-05-01_page12.jpg"
       },
       {
         "id": "54685ddaa55687bdd0a92121c4ad8375acdea2797d44d2bad80448d5f123e5bc",
@@ -1243,6 +1773,11 @@
         "path": "texts/maydaymystery.org/1988-02-22.jpg"
       },
       {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
+      },
+      {
         "id": "4a3d21650f33ff5795bbfb8c275e8dc986dbc49ff146c808db7c5154919546a6",
         "date": "1993-12-01",
         "path": "texts/maydaymystery.org/1993-12-01.jpg"
@@ -1253,9 +1788,19 @@
         "path": "texts/maydaymystery.org/1986-05-01.jpg"
       },
       {
+        "id": "6ee7d3ecb91a858158041ecb1fe5838f0328f3c57d193f0c73977bc3cc928103",
+        "date": "1996-05-01",
+        "path": "texts/My Scans/1996-05-01_page24.jpg"
+      },
+      {
         "id": "6f63398c1571cd186999ffab41110227a58e05b04950fca472fd1b44072cd42d",
         "date": "1990-12-05",
         "path": "texts/maydaymystery.org/1990-12-05.jpg"
+      },
+      {
+        "id": "a2281890ef777338a10557a75a05be45dd6f99218ed2ad8916717e0be6865994",
+        "date": "1991-05-01",
+        "path": "texts/My Scans/1991-05-01_page6A.jpg"
       },
       {
         "id": "ae11703826163ccac46b78cbfafa50db451d57bb31da8b89f6d2e3dfdbf7c15d",
@@ -1266,6 +1811,11 @@
         "id": "b6dd046b7552bc7054a930307fc1d92129cf6becd9c614169fa5a1ced6a7dc2f",
         "date": "1995-05-01",
         "path": "texts/maydaymystery.org/1995-05-01.jpg"
+      },
+      {
+        "id": "cb90f40a710d4a6950ae00da9ce4a6f90c092b963ef9b429cdb24466dbea5d4a",
+        "date": "1995-05-01",
+        "path": "texts/My Scans/1995-05-01_page16.jpg"
       },
       {
         "id": "d326edeec0345758f02c6300f30b229e87dbf8ac670983c465cd33e83dac369c",
@@ -1280,51 +1830,6 @@
     ]
   },
   {
-    "entity": "Bible",
-    "documents": [
-      {
-        "id": "276f845dc771141ac2b0317609ed42bbd6e0c27af5a4db1f9423449947873a11",
-        "date": "2010-03-26",
-        "path": "texts/maydaymystery.org/2010-03-26.jpg"
-      },
-      {
-        "id": "352cd9c9678b688c2832020d79da69ceba26c177c13bdf2818dc4ecfcca728ca",
-        "date": "2017-10-25",
-        "path": "texts/maydaymystery.org/2017-10-25.jpg"
-      },
-      {
-        "id": "58f35feeaabfb80fbb5516c82a80d833a7d9c7c3d15b8c1d54e321e85f7aa0c1",
-        "date": "2002-05-01",
-        "path": "texts/maydaymystery.org/2002-05-01.jpg"
-      },
-      {
-        "id": "7e927d874d6c6d36e77dd3464cdd08ca99bbdc23a8157cb4af5e4ec335987e43",
-        "date": "2006-05-01",
-        "path": "texts/maydaymystery.org/2006-05-01.jpg"
-      },
-      {
-        "id": "81187bd2a3d5dae8c978f4f0965cbcfbde58453ccf7503447e01950556b0e2e2",
-        "date": "1998-12-02",
-        "path": "texts/maydaymystery.org/1998-12-02.jpg"
-      },
-      {
-        "id": "869b36163197df6f5d1a08c2758b4066b2c94b2ce35c2f83b8b18f48b27015ad",
-        "date": "1997-12-01",
-        "path": "texts/maydaymystery.org/1997-12-01.jpg"
-      },
-      {
-        "id": "ad9a6900e8f410a1655309f861d529dced7959443170bbe1449c7b0c962f9637",
-        "date": "1988-05-01",
-        "path": "texts/maydaymystery.org/1988-05-01.jpg"
-      },
-      {
-        "id": "c7ab5c781bb7e5869b3f430fc864926895e40691a9c8724588872b9cfb057f3e",
-        "date": "2003-05-01",
-        "path": "texts/maydaymystery.org/2003-05-01.jpg"
-      }
-    ]
-  },
-  {
     "entity": "Gustavus Adolphus",
     "documents": [
       {
@@ -1333,9 +1838,19 @@
         "path": "texts/maydaymystery.org/2011-05-01.jpg"
       },
       {
+        "id": "10ae98a0329510a1e774e89977e9fcf863ece90b2c25f07da787732c3450e40d",
+        "date": "2008-05-01",
+        "path": "texts/maydaymystery.org/2008-05-01.jpg"
+      },
+      {
         "id": "143c4bf157693c1e1e1a64e45dc465cb34d73f1aeadb0c475d3ea5bc8c44b9a4",
         "date": "1998-05-01",
         "path": "texts/maydaymystery.org/1998-05-01.jpg"
+      },
+      {
+        "id": "3ea3da0d9bd1a5d69bf115ade7acdfb67873050d9e29605ba44cd406e847994a",
+        "date": "2006-05-01",
+        "path": "texts/My Scans/2006-05-01_page12.jpg"
       },
       {
         "id": "54685ddaa55687bdd0a92121c4ad8375acdea2797d44d2bad80448d5f123e5bc",
@@ -1358,14 +1873,69 @@
         "path": "texts/maydaymystery.org/2006-05-01.jpg"
       },
       {
+        "id": "8dee8e77f1825c658640034da00a638163f8c9c7f7bc04f61b7847ff235129ce",
+        "date": "2002-05-01",
+        "path": "texts/My Scans/2002-05-01_page20.jpg"
+      },
+      {
         "id": "d326edeec0345758f02c6300f30b229e87dbf8ac670983c465cd33e83dac369c",
         "date": "1996-05-01",
         "path": "texts/maydaymystery.org/1996-05-01.jpg"
       },
       {
+        "id": "e99e7cd1313ae0a356b10c28c854477e5b9d14ba896e70c9b62c9a938d8dfe71",
+        "date": "2017-05-01",
+        "path": "texts/maydaymystery.org/2017-05-01.jpg"
+      },
+      {
         "id": "fdb90b13cd6742361e094b8726349f90408ea4d0964ded04559bd07e6d31077d",
         "date": "2005-04-29",
         "path": "texts/maydaymystery.org/2005-04-29.jpg"
+      }
+    ]
+  },
+  {
+    "entity": "Khartoum",
+    "documents": [
+      {
+        "id": "051514573dd3c124492c50d01c14a0c5208d5535417e1b25b74fabaf816cbf1b",
+        "date": "1988-02-22",
+        "path": "texts/maydaymystery.org/1988-02-22.jpg"
+      },
+      {
+        "id": "05dee954027e020096f7a7519ec449264497c2c2ee0a7a6797582619e08dca67",
+        "date": "1990-05-01",
+        "path": "texts/My Scans/1990-05-01_page25.jpg"
+      }
+    ]
+  },
+  {
+    "entity": "Heidegger",
+    "documents": [
+      {
+        "id": "32bc6a922fa10096ea682bdd7dfb79315e0daad6b2cd0a434fa598f141011146",
+        "date": "2000-05-01",
+        "path": "texts/My Scans/2000-05-01_page32.jpg"
+      },
+      {
+        "id": "6634c30913263f867aa3444157a6a4530be5adb713391c1e309a0e9aa7ecfd5f",
+        "date": "2000-05-01",
+        "path": "texts/maydaymystery.org/2000-05-01.jpg"
+      }
+    ]
+  },
+  {
+    "entity": "Constantine",
+    "documents": [
+      {
+        "id": "9439b8980ba1606d36436a739858d959f92f5fb34cf2c2c20074a1075d77a466",
+        "date": "2007-05-01",
+        "path": "texts/maydaymystery.org/2007-05-01.jpg"
+      },
+      {
+        "id": "ab9fec1e8bdc7370fde747341e09a830b8b8b5389b67795e6beaa2649e974c5c",
+        "date": "2007-05-01",
+        "path": "texts/My Scans/2007-05-01_page25.jpg"
       }
     ]
   },
@@ -1380,32 +1950,12 @@
     ]
   },
   {
-    "entity": "Khartoum",
-    "documents": [
-      {
-        "id": "051514573dd3c124492c50d01c14a0c5208d5535417e1b25b74fabaf816cbf1b",
-        "date": "1988-02-22",
-        "path": "texts/maydaymystery.org/1988-02-22.jpg"
-      }
-    ]
-  },
-  {
     "entity": "quadrigae",
     "documents": [
       {
         "id": "747d278b8848b6c5aed642a55afd17c45e2e07920bfdafbe9ddd6b9f29c1d7e4",
         "date": "1992-12-02",
         "path": "texts/maydaymystery.org/1992-12-02.jpg"
-      }
-    ]
-  },
-  {
-    "entity": "Heidegger",
-    "documents": [
-      {
-        "id": "6634c30913263f867aa3444157a6a4530be5adb713391c1e309a0e9aa7ecfd5f",
-        "date": "2000-05-01",
-        "path": "texts/maydaymystery.org/2000-05-01.jpg"
       }
     ]
   }

@@ -46,4 +46,27 @@ class EvidenceTests(unittest.TestCase):
                 d=json.loads(p.read_text());self.assertEqual(d['source_sha256'],r['sha256'])
                 self.assertIn('words',d);self.assertEqual(d['extraction_status'],'machine_unreviewed')
 
+    def test_publication_labels_are_preserved(self):
+        rows={r['path']:r for r in json.loads((RESEARCH/'reports/inventory.json').read_text())}
+        r=rows['texts/maydaymystery.org/1988-05-01.jpg']
+        if not (RESEARCH/'publication_dates.json').exists():self.skipTest('Before header review checkpoint')
+        self.assertEqual(r['filename_date'],'1988-05-01')
+        self.assertEqual(r['publication_date'],'1988-04-27')
+        self.assertTrue(r['git_verified'])
+
+    def test_web_text_is_separate_and_scripts_excluded(self):
+        from external_pipeline import Page,page_date
+        p=Page();p.feed('<script>fake secret</script><p>Reader interpretation</p><img src="scan.gif">')
+        self.assertNotIn('fake secret',p.text())
+        self.assertEqual(p.images,['scan.gif'])
+        self.assertEqual(page_date('89-may1.html'),'1989-05-01')
+        self.assertIsNone(page_date('friend39.html'))
+
+    def test_website_valid_images_all_processed(self):
+        p=RESEARCH/'reports/website_ocr_summary.json'
+        if not p.exists():self.skipTest('Website backup not processed')
+        d=json.loads(p.read_text())
+        self.assertEqual(d['unique_image_hashes'],d['successful_unique_images'])
+        self.assertEqual(d['captured_html_placeholders'],1)
+
 if __name__=='__main__': unittest.main()

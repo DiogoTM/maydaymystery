@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.maydaymystery.org/mayday/texts/index.html",
+    "retrieved_utc": "2026-10-21T05:47:20.538524+00:00",
+    "status": 200,
+    "final_url": "http://www.fronteranetworks.com/404.html",
+    "sha256": "d04417b82d65c6f111fe0d975910c9fca4446da518a11af983745b2fda30ed07",
+    "bytes": 31,
+    "path": "external/org_index.html"
+  },
+  {
+    "url": "https://www.maydaymystery.org/robots.txt",
+    "retrieved_utc": "2026-10-21T05:47:20.541323+00:00",
+    "status": 200,
+    "final_url": "https://www.maydaymystery.org/robots.txt",
+    "sha256": "22f2a3f4194f7ac6c36d75db634e52c05a850828e6de1a8726459142f71ed723",
+    "bytes": 78,
+    "path": "external/org_robots.html"
+  },
+  {
+    "url": "https://archive.org/metadata/MayDayMystery",
+    "retrieved_utc": "2026-10-21T05:47:20.541743+00:00",
+    "status": 200,
+    "final_url": "https://archive.org/metadata/MayDayMystery",
+    "sha256": "93f3bd72e22bb5cf1ca90a30b4823228ace27c3e7e23e46988e380b547716459",
+    "bytes": 55942,
+    "path": "external/ia_metadata.json"
+  },
+  {
+    "url": "https://srcl.net/corpus",
+    "retrieved_utc": "2026-10-21T05:47:20.542120+00:00",
+    "status": 200,
+    "final_url": "https://srcl.net/corpus",
+    "sha256": "978be65202ffe3880d3303ed47f1b3bab8d20c78e751a3a44e987c19cecc48cc",
+    "bytes": 118264,
+    "path": "external/srcl_corpus.html"
+  },
+  {
+    "url": "https://www.maydaymystery.com/index.php?title=List_of_May_Day_Mystery_ads",
+    "retrieved_utc": "2026-10-21T05:47:20.900694+00:00",
+    "status": 200,
+    "final_url": "https://www.maydaymystery.com/index.php?title=List_of_May_Day_Mystery_ads",
+    "sha256": "30936b8bc31f5dfe3b3bbcd2f7d77a80890ab23c13fe49fc3fd1acb78dd14d67",
+    "bytes": 24702,
+    "path": "external/wiki_index.html"
+  }
+]

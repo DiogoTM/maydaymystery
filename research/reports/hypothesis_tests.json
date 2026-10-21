@@ -114,12 +114,13 @@
       "John Calvin",
       "Oliver Cromwell"
     ],
-    "documents": 100,
-    "observed_three_way_cooccurrences": 6,
+    "documents": 105,
+    "grouping": "Same filename-date plus strong near-date geometric-registration groups; all pages contribute mentions.",
+    "observed_three_way_cooccurrences": 7,
     "permutations": 10000,
     "seed": 20261021,
     "null": "Independent uniform column permutations preserve per-name document frequencies.",
-    "expected_null": 0.214,
+    "expected_null": 0.3268,
     "empirical_p": 9.999000099990002e-05,
     "caveats": [
       "Entity selection was informed by prior research; not a confirmatory p-value.",

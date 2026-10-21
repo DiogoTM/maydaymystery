@@ -1,59 +1,79 @@
-# Mayday Mystery: executed investigation checkpoint
+# Mayday Mystery — investigation checkpoint
 
-2026-10-21 UTC. **The mystery is not solved.** This checkpoint establishes an auditable partial corpus, independently checks several consequential cross-document references, and rejects overbroad interpretations. All original repository evidence is retained on the research branch.
+2026-10-21 UTC. **All repository scans are now recovered and processed. The mystery remains unsolved, and the full 1981–2026 archive remains incomplete.** This supersedes the [initial partial report](checkpoints/REPORT_initial_partial.md).
 
-## Evidence recovered and coverage
+## Evidence recovered
 
-The complete pinned repository tree contains **234 files**: 107 archive advertisement images, 26 dated researcher scans, one researcher preview, 44 research crops, 38 art assets, three research PDFs and 15 other artifacts. Those 133 dated scan files span **108 filename dates**, not 133 distinct advertisements. The archive mirror describes itself as a February 2020 collection of renamed and sometimes GIF-to-JPEG-converted scans. The researcher collection describes library scanning and links higher-resolution Internet Archive derivatives.
+The examined series begins in 1981; repository holdings reach 2019, while SR/CL's finding aid reports positions through 2026. The repository contains two scan collections and earlier research, including a concept map. Its archive collection describes a February 2020 mirror with renamed files and GIF-to-JPEG conversion. Researcher scans describe direct newspaper-library provenance. These provenance histories must remain distinct.
 
-**197 source files were recovered locally and verified against remote Git blob identifiers**, including 102 of 107 archive images and one of 26 researcher scans. All **103 accessible scans** received OCR. Another 43 research crops were processed: 146 unique image extractions in total. Remaining material is remotely inventoried, not falsely marked as downloaded. [Inventory](reports/inventory.csv), [coverage comparison](reports/coverage.json), [source assessment](SOURCES.md).
+| Collection | Verified holdings and processing |
+|---|---|
+| Repository | All 234 original files, 294,608,810 bytes; Git blob verification and local SHA-256 |
+| Repository advertisement scans | All 133 files: 107 archive and 26 researcher scans; 30,766 OCR word records with coordinates |
+| Supplemental repository crops | All 44 processed |
+| Public IA website backup | 2,030 members including 1,836 files; 1,681 unique file hashes and 34 exact-duplicate groups |
+| Website HTML | 716 pages separately indexed, including 101 date-named ad-context pages at 99 filename dates |
+| Historical website images | 1,039 valid image files, 887 unique image hashes; all 887 successfully OCR-processed |
+| Misnamed image | One `.jpg` is captured HTML rather than an image; preserved and flagged |
+| Other documents | Three repository PDFs inspected, including 230-page Piggott notes; five website PDFs and two XLS workbooks extracted; two image-only PDF pages also rasterized and OCR-processed |
 
-No identical Git blobs occur among the 234 source file entries, and no identical SHA-256 files occur among the 197 local copies. That is not proof of distinct advertisements. Visual inspection confirmed that the two 2015 files show the same advertisement design with different crops/renditions and an obstructing WEEKEND overlay in the newspaper scan. June 2005's `_2` file is an enlargement of the circle in `_1`. A visually similar June/August 2004 pair was rejected as a duplicate: layout resemblance produced a false positive. The 2001 same-date pair remains a page-relationship review item. Global perceptual hashes missed the confirmed crop relationship, illustrating why automatic deduplication must stay conservative. [Reviewed decisions](curated_evidence.json).
+The website backup's SHA-256 is `2cc938d3bfd8eb751f9d5047a9dc7ef9d5aee8a9266ec5a0a1ec4302efdc6309`; MD5/SHA-1 also matched IA metadata. Raw backup, extracted originals, full OCR coordinates and SQLite are preserved in the workspace; compressed text exports and manifests accompany the research branch. No original repository evidence was altered. [Repository inventory](reports/inventory.csv), [website inventory](reports/website_backup_inventory.json), [website OCR summary](reports/website_ocr_summary.json).
 
-SR/CL's public finding aid lists 128 recovered records at 127 dates through 2026; most full scans are withheld in that edition. Comparing those dates with all repository filenames produces **26 unmatched SR/CL dates**: 22 after 2019 and four earlier date conflicts (1992-09-01, 1993-05-01, 1997-12-03 and 2010-12-01). The repository has nearby labels 1992-09-02, 1993-05-03, 1997-12-01 and 2010-12-08. These require issue verification, not four automatic missing-ad claims. Seven repository labels are absent from SR/CL's date set. The wiki introduces additional disagreements, including 2018-04-25 versus the mirror/SR/CL's May 1 label. This comparison is a coverage lead, not an independently authenticated census of publication.
+## Duplicate scans and publication dates
 
-## Independently checked primary connections
+The 133 scan files cover **108 filename dates**, not 133 advertisements. No exact duplicate blobs occur among the 234 repository entries. Nevertheless, geometric comparison evaluated 33 same/near-date image pairs and found 29 strong shared-visual-region matches. These connect researcher/archive renditions, a color variant and a detail enlargement; they are not automatic proof of 29 redundant advertisements. Two May 2001 pages are different page images at one publication date. [Geometric results](reports/geometric_variants.json).
 
-The clearest result is a durable date-and-level reference system:
+Readable newspaper headers independently establish two important distinctions:
 
-| Source advertisement | Reviewed connection | Evidence |
-|---|---|---|
-| 1984-09-13 | Explicitly directs readers forward to 1985-03-15 for Khartoum and later coordinates | E5 |
-| 1989-09-27 | Applies the Third Level via Owsley and quadrigae to 1989-05-01 | E1 |
-| 1998-12-02 | Labels a diagram Second Level and points to 1989-05-01 | E2 |
-| 1998-12-02 | Points to the Fourth Level of 1988-01-20 | E6 |
-| 2000-09-20 | Requests date and hour from the 1983-11-22 schedule | E4 |
-| 2006-05-01 | Explicitly refers to 5/1/89, Fourth Level | E3 |
-| 2005-06-22 | A circle separately labels 5/1/89 and 6/25/05, with source-limb and fold terminology | E11 |
+- **May Day, 1988** is the advertisement title; its newspaper header says **Wednesday, April 27, 1988**, page 16. The May 1 archive image matches with 517 geometric inliers over most of its area.
+- **May Day, 1994** appears under a **Friday, April 29, 1994** newspaper header, page 16. Its May 1 archive image matches with 390 inliers.
 
-See [reviewed assertions and image regions](curated_evidence.json); each source path links to a preserved scan in the repository. E1–E7 reproduce leads already reported by [SR/CL](https://srcl.net/corpus). E11 was independently noticed here; no first-discovery claim is made. These links establish textual dependence across decades. They do not establish a key, the truth of narrated actions, or that coordinates identify actual gatherings.
+These are independently verified publication/title distinctions, not newly discovered ads. Both filenames remain unchanged. June 2005's second file is an enlarged circle detail; May 2015's two versions share the design but differ in crop/rendition and a newspaper WEEKEND overlay. A June/August 2004 perceptual candidate was rejected as a duplicate because the text differs. [Reviewed dates](publication_dates.json), [visual assertions](curated_evidence.json).
 
-The priority May 1989 image has a prominent Cromwell portrait, mathematical margins and panels, musical notation and a bottom narrative invoking Winthrop, Schrödinger and Confessio Augustana. Crucially, the same page is addressed through Levels 2, 3 and 4 by different later documents. A one-document-to-one-level legend is therefore untenable. The November 1983 scan distinguishes coordinate, schedule, worldview and doctrinal fields. September 2000 explicitly reuses its schedule phrase while combining a GPS-error graph, a speech-recognition flowchart, literary/scriptural allusions and a represented financial narrative. Treating all these marks as interchangeable symbols would destroy useful layout distinctions.
+## Coverage and remaining access limits
 
-## Hypotheses actually tested
+SR/CL reports **128 recovered records at 127 dated positions**, retaining two records at 1990-12-05. Its edition releases one full ad while withholding most other full pages. Filename comparison yields 26 unmatched SR/CL dates: 22 after 2019 and four earlier discrepancies (1992-09-01, 1993-05-01, 1997-12-03, 2010-12-01). Nearby repository labels exist for those four. Seven repository labels are absent from SR/CL. These are reconciliation leads, not an authenticated count of missing advertisements. [Coverage ledger](reports/coverage.json).
 
-[Executed tests](reports/hypothesis_tests.json) and [ranked assessment](HYPOTHESES.md) distinguish several claims:
+The live `.org` index redirects to an error endpoint and its robots response disallows all crawling; live crawling stopped. The public IA backup was recovered through IA's service. Wayback CDX timed out; a subsequent availability API request returned 429, so retries stopped. The 22 post-2019 primary positions remain unrecovered here. No access restriction was bypassed. The wider archive therefore remains incomplete.
 
-- **Multilevel cross-document addressing survives.** Starting with the September 1989 callback, December 1998 and May 2006 independently exhibit other levels of the same target page. This is retrospective replication of a prior lead, not blind validation or decoded plaintext.
-- **A universal four-level system fails in its strongest form.** January 1988 visibly prints a fifth Level. That sequence does not call itself quadrigae, leaving a narrower classical four-sense interpretation unresolved.
-- **The May 1989 Julian Day does not equal its newspaper date.** Standard conversion of 2,447,703.5 yields **1989-06-26 00:00**, 56 days after May 1. This rejects a simple publication-date restatement; it does not establish what the later date means.
-- **A recurring confessional/political canon survives descriptive testing.** Later 2006 and 2015 scans return to Cromwell, Luther and Calvin. A simple exploratory permutation control finds six OCR documents with all three names versus a null mean of 0.214. Selection bias, OCR omissions and the crude null prevent treating its small empirical tail probability as a discovery of hidden meaning.
-- **September 2000 is not self-contained.** Its explicit dependence on the 1983 schedule contradicts that hypothesis. A real-world organization remains possible but unverified; fictional or artistic organization explains these instructions too.
+## Independently reproduced primary relationships
 
-No globally applicable decryption, authenticated author identity, or verified real-world operation emerged. The best-supported description is an evolving project using repeated historical/religious vocabulary and explicit cross-publication instructions. Cipher, ideological, artistic and organizational explanations remain partly overlapping.
+| Source | Explicit connection |
+|---|---|
+| September 13, 1984 | Announces March 15, 1985 for Khartoum and later coordinates |
+| September 27, 1989 | Applies Third Level via Owsley and quadrigae to May 1, 1989 |
+| December 2, 1998 | Addresses May 1989 at Second Level and January 1988 at Fourth Level |
+| September 20, 2000 | Requests date/hour from November 22, 1983's Schedule |
+| May 1, 2006 | Refers explicitly to May 1989's Fourth Level |
+| May 1, 1990 | Labels an altered Greek reading from May 1989 as scordatura |
 
-## Machine-readable research and reproducibility
+The first five reproduce SR/CL leads; earlier reader comments already discuss the scordatura comparison. Source images, approximate regions and attribution are in [curated evidence](curated_evidence.json). The recovered 2007 OCR supplies another Second Level callback, pending detailed region review. No decoded plaintext is claimed.
 
-The local [SQLite corpus](corpus.sqlite) contains 103 scan extraction records and **17,478 OCR word records** with source coordinates, confidence and review flags. FTS5 supplies text search. Structured outputs include 222 date-reference candidates, 35 repeated five-word phrases appearing on at least three filename dates, entity relationships, number/symbol candidates, visual duplicate candidates and the pre-existing VUE map (128 nodes, 77 links). Candidate counts are not reviewed fact counts.
+The priority May 1989 page combines Cromwell, physics/geometry, music and multilingual narrative. Several levels address the same artifact, ruling out a fixed one-document-to-one-level legend. November 1983 distinguishes coordinate, schedule, worldview and doctrine fields; September 2000 explicitly returns to its schedule. Preserving layout is therefore necessary.
 
-Every accessible scan has raw text, TSV, hOCR and JSON derived files keyed by source SHA-256. OCR uses only the installed English model and preserves engine uncertainty. Fourteen timeouts in the first pass were resolved by limiting Tesseract's thread use; the continuation also caught four scans recovered after the first inventory. Foreign scripts, rotated margins, mathematics and music are not reliably transcribed. Four selected translations are stored separately; no claim of complete translation or semantic extraction is made. The graph is represented by queryable SQLite mention/reference tables plus reviewed JSON assertions; prior map links remain labeled as prior research.
+The recovered `friend39.html`, signed THE ORPHANAGE, describes Level 1 as literal wording and discusses phase shifts, geometric placement, database slices and scordatura. It is **attributed correspondence with an unauthenticated sender**, not an authenticated key. This reproduces the correspondence lead already cited by SR/CL. Reader comments and editorial interpretations are separately typed, never substituted for primary text. [Source contexts](reports/website_method_leads.json).
 
-Five tests passed, checking date validation, reference ambiguity, perceptual versus byte identity, recovered scan integrity, and complete OCR coverage of accessible scans. Instructions are in [RUNBOOK.md](RUNBOOK.md). No paid inference or configured AI keys were used.
+## Tested hypotheses
 
-The accessible `dates.pdf` and `dates.xlsx` were also extracted as native text and worksheet values. Their historical scan notes report missing bound-library issues in late April/early May 2004 and identify May 2001 as pages 6 and 7. These remain prior researcher notes rather than fresh verification of library holdings. A portable [JSONL text view](reports/transcripts.jsonl) accompanies the checkpoint; full word-coordinate extractions and SQLite are available in the workspace and can be reproduced with the pipeline.
+Eight checks appear in [initial results](reports/hypothesis_tests.json), [follow-up results](reports/followup_hypotheses.json) and the [hour-pair test](reports/hour_pair_test.json).
 
-## Limits and continuation
+1. **Multilevel reference addressing survives.** Later notices attach Levels 2, 3 and 4 to May 1989. Holdouts were selected from prior research: this is retrospective replication, not blind validation or a decoder.
+2. **A universal four-level rule fails in its strongest form.** January 1988 prints a fifth Level. That sequence does not call itself quadrigae, leaving a narrower classical four-sense mapping unresolved.
+3. **JD as publication-date restatement fails.** The printed 2,447,703.5 JD converts to June 26, 1989 00:00, 56 days after publication. Piggott p.32 and archived comments already record this result. The nearby Augsburg anniversary points toward June 25; its relationship to the JD remains unexplained.
+4. **A recurring confessional/political canon survives descriptively.** Seven of 105 variant/page analysis groups contain Luther, Calvin and Cromwell together, versus a null mean of 0.3268 over 10,000 simple permutations. These groups are not an ad census. Selection bias, OCR omissions, time trends and text length prevent interpreting this as cipher significance.
+5. **September 2000 self-containment fails.** The date/hour instruction explicitly depends on the 1983 notice. Actual meetings or operations do not follow from textual dependence.
+6. **One Greek alteration is explicitly signaled.** May 1989's `φάγῃ` means may eat; the familiar Romans 3:19 `φραγῇ` means may be stopped/silenced. May 1990 points to the altered word under scordatura while displaying the ordinary wording nearby. This supports an intentional contrast in this example, not a universal rho-insertion cipher. Earlier reader comments noticed it first.
+7. **Bible addresses for the four hour numbers remain weak.** Treating 23°24′, 4°19′, 19°46′ and 22°37′ as chapter/verse pairs leaves Luke as the only compatible book in a 66-book KJV table. However, 31.6% of simple random-minute trials also leave a unique compatible book; no procedure yields a clock time. This is a candidate representation, not a decoding success or discovery claim.
+8. **June 2005's formula has a conventional physical interpretation.** The printed proper-motion relation follows from equations (2) and (3) of Albrow et al.'s pre-2005 microlensing paper. The exact circle source is unidentified; its date labels and chessboard are unexplained. [Scientific primary source](https://www.astronomy.ohio-state.edu/gaudi.1/ms98001.pdf).
 
-The initial milestone is **incomplete**. Thirty repository scan files (25 researcher scans and five archive images) remain unrecovered, along with seven other files. Workspace HTTPS failed at the inherited proxy; a subsequent request for additional network permission stalled until interrupted. GitHub's connected Contents interface returned empty content above 1 MB, while binary blob interfaces rejected text decoding. Public web tools could inspect secondary indexes and one SR/CL image, but .org requests failed and Internet Archive/Wayback requests were inaccessible through that tool. Those failures are environment/tool limits, not proof that the public archives are unavailable generally. No access controls were bypassed.
+An evolving intellectual/artistic or ideological project with deliberate inter-document instructions remains the strongest descriptive fit. A multilevel cipher could be a component. A represented real organization remains possible, but sender identity, operations and transactions are not independently authenticated. No general key or blind plaintext prediction emerged. [Ranked hypotheses](HYPOTHESES.md).
 
-Next work should recover high-resolution scans and 22 later dated positions, reconcile publication dates, review Greek/Hebrew and mathematical regions, and define a narrowly specified decoder with genuinely unseen holdouts. The June 2005 circle and the May 1989 geometrical panels are a concrete comparison target. [Prioritized continuation](NEXT_STEPS.md), [journal](JOURNAL.md).
+## Reproducibility and limits
+
+SQLite separates repository OCR, website OCR, website text, reviewed assertions and the prior VUE map (128 nodes, 77 links). Repository analysis contains 337 date-reference candidates and 164 recurrent five-word phrases; those are unreviewed candidate totals. Raw text, TSV, hOCR and JSON preserve source coordinates and uncertainty.
+
+Additional Greek/Hebrew/Latin-region OCR was attempted with hash-recorded language models. It remains imperfect and does not replace reviewed image readings. Full-image OCR uses English; foreign scripts, mathematics, music, rotation and layout remain limitations. Legacy WordPerfect/DOC and audio files are inventoried but not fully converted or transcribed. Text decoding replacements occur in 103 HTML pages; original bytes remain intact. Spreadsheets and correspondence interpretations remain prior research rather than authenticated primary assertions.
+
+**Eight tests pass. No paid inference was used.** [Runbook](RUNBOOK.md), [journal](JOURNAL.md), [next steps](NEXT_STEPS.md).
+
+The repository-based initial milestone is reached: every repository scan is inventoried and processed, variants and major relationships investigated, competing mechanisms tested, and a report/checkpoint produced. The wider archive, multilingual transcription and meaning of the mystery remain unresolved.

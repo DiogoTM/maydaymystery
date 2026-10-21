@@ -1,0 +1,11 @@
+__pycache__/
+corpus/
+corpus.sqlite*
+external/
+tools/
+derived_pdf_pages/
+reports/priority_regions/
+provenance/transfer_wrappers/
+reports/website_pages.jsonl
+reports/website_image_transcripts.jsonl
+reports/research_pdf_extractions.json

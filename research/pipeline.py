@@ -87,6 +87,8 @@ def image_hash(path):
 def inventory():
     tree=json.loads((RESEARCH/'provenance/repository_tree.json').read_text())
     assert tree['truncated'] is False, 'Refuse incomplete tree'
+    overrides_path=RESEARCH/'publication_dates.json'
+    overrides=json.loads(overrides_path.read_text()) if overrides_path.exists() else {}
     rows=[]
     for f in tree['tree']:
         if f['type']!='blob': continue
@@ -96,6 +98,10 @@ def inventory():
                  remote_git_blob=f['sha'],remote_bytes=f.get('size'),local=present,
                  source_url=f'https://github.com/DiogoTM/maydaymystery/blob/{REF}/'+f['path'].replace(' ','%20'),
                  retrieved_utc='2026-10-21' if present else None,sha256=None,git_verified=False)
+        if f['path'] in overrides:
+            row['publication_date']=overrides[f['path']]['publication_date']
+            row['date_status']='reviewed_newspaper_header_or_registered_witness'
+            row['date_evidence']=overrides[f['path']]['evidence']
         if present:
             b=p.read_bytes(); row['sha256']=sha(p); row['local_bytes']=len(b)
             row['git_verified']=hashlib.sha1(b'blob '+str(len(b)).encode()+b'\0'+b).hexdigest()==f['sha']
