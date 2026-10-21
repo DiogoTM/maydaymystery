@@ -205,6 +205,70 @@
       "comparison_source": "texts/maydaymystery.org/1990-05-01.jpg",
       "confidence": "high for missing rho and explicit callback; accents deserve diplomatic review",
       "prior_art": "Archived reader comments on 90-may1.html; independently reproduced, not a new discovery."
+    },
+    {
+      "id": "E13",
+      "source": "texts/My Scans/2008-04-02_page14.jpg",
+      "target_date": "1989-05-01",
+      "relation": "names_metric_for_interpretive_level",
+      "level": 2,
+      "region": [
+        0.05,
+        0.35,
+        0.94,
+        0.425
+      ],
+      "excerpt": "Levenshtein distance: ADW, 5/1/89, Level II.",
+      "confidence": "high for printed pointer; operands unspecified",
+      "note": "Both archive and researcher images reviewed. Researcher OCR incorrectly returns Level I; raw OCR preserved."
+    },
+    {
+      "id": "E14",
+      "source": "texts/My Scans/2008-04-02_page14.jpg",
+      "target_date": "1990-05-01",
+      "relation": "addresses_interpretive_level",
+      "level": 3,
+      "region": [
+        0.05,
+        0.43,
+        0.96,
+        0.48
+      ],
+      "excerpt": "transport of ADW, 5/1/90, Level III",
+      "confidence": "high",
+      "note": "Printed fictional/narrative transport instruction; real-world operation is not authenticated."
+    },
+    {
+      "id": "E15",
+      "source": "texts/My Scans/2009-05-01_page8.jpg",
+      "target_date": "1989-05-01",
+      "relation": "requests_extrapolation_from_matrix",
+      "region": [
+        0.54,
+        0.295,
+        0.98,
+        0.335
+      ],
+      "excerpt": "extrapolate hour and minute: 5/1/89, matrix [Romberg-Beleznay cum Thomas Bradwardine’s (patented) sub rosa modification.]",
+      "confidence": "high for date and named methods; procedure unresolved",
+      "note": "Archived 09-may1.html reader commentary reverses year to 1998. Image reads 89."
+    },
+    {
+      "id": "E16",
+      "source": "texts/My Scans/1989-05-01_page24.jpg",
+      "target_date": null,
+      "relation": "has_exact_adjoint_sl3_model",
+      "region": [
+        0.67,
+        0.687,
+        0.935,
+        0.765
+      ],
+      "confidence": "exact conditional on reviewed transcription; second independent transcriber pending",
+      "method": "Symbolic commutator closure and eight exact intertwining identities, no entry repair.",
+      "structured_source": "research/matrix_1989.json",
+      "computation": "research/reports/matrix_algebra_test.json",
+      "note": "Computed structural identification, not printed prose or a general decoder. Primes modeled independently; real form not established."
     }
   ],
   "scan_relationships": [

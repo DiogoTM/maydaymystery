@@ -1,0 +1,21 @@
+{
+  "id": "H10",
+  "hypothesis": "The Levenshtein distance alone uniquely determines the missing Greek letter and position.",
+  "motivating_source": "texts/My Scans/2008-04-02_page14.jpg",
+  "target": "texts/My Scans/1989-05-01_page24.jpg",
+  "printed": "φαγη",
+  "scriptural_comparison": "φραγη",
+  "normalization": "NFD, remove combining marks, lowercase; no letter substitution.",
+  "levenshtein_distance": 1,
+  "hamming_distance": null,
+  "hamming_reason": "Unequal lengths under standard Hamming distance.",
+  "control": "Enumerate every single insertion from 24 ordinary Greek letters at every position.",
+  "equally_distant_distinct_candidates": 116,
+  "result": "uniqueness_rejected_without_additional_constraints",
+  "limitations": [
+    "A mathematical ambiguity check, not a blind decipherment experiment.",
+    "Alternatives are strings, not necessarily grammatical words.",
+    "Romans 3:19 supplies an external linguistic constraint; scalar distance does not supply it.",
+    "The 2008 notice does not explicitly designate this Greek word as the Levenshtein operand."
+  ]
+}

@@ -37,3 +37,12 @@ First checkpoint retrieval history, 2026-10-21 UTC. Publisher of the scans: The 
 Public web retrieval records are tool-extracted text, not original HTML/WARC captures. Dates in filenames are catalog labels until supported by a newspaper header or a reliable issue record. Correspondence was not independently recovered or authenticated in this run. No private materials or secrets were accessed or published. No paid inference was used.
 
 Binary connector recovery: [per-file ledger](provenance/connector_downloads.json). Thirteen local text transfers initially acquired one patch-wrapper newline; exact source bytes were restored only when their remote Git blob hash matched, with wrapper versions retained under `provenance/transfer_wrappers/` and [restoration log](provenance/text_restoration.json). All recovered source files now match their remote blob identifiers.
+
+
+## Matrix follow-up sources and boundaries
+
+- `texts/My Scans/1989-05-01_page24.jpg`, matrix region [.67,.687,.935,.765], manually transcribed in `matrix_1989.json`; lower-resolution archive image visually compared. Algebraic identification is computed, not a source quotation. Independent second transcriber pending.
+- `texts/My Scans/2008-04-02_page14.jpg` and archive counterpart: reviewed Level II Levenshtein pointer to May 1989 and Level III pointer to May 1990. Raw OCR's I/II disagreement is retained.
+- `texts/My Scans/2009-05-01_page8.jpg`: header and matrix instruction visually reviewed. Primary date pointer reads 5/1/89; the historical `09-may1.html` reader comment says 1998 and is treated as erroneous on this point.
+- Historical backup `texts/07-may1.html`: publisher-of-the-archive warning identifies margin comments on the huge linked PDF as a reader's additions. Exclude those from authorial-layout assertions.
+- Kertész (1986), Journal of Physics A 19, 599–601, DOI https://doi.org/10.1088/0305-4470/19/4/021. Institutional record https://research.ceu.edu/en/publications/extrapolation-of-transfer-matrix-data-for-percolation-and-lattice/ and author publication list https://www.phy.bme.hu/~kertesz/pub2.html establish bibliographic identity and finite-size extrapolation context. Full PDF not recovered; no full-paper hash or recurrence implementation claimed. Beleznay (1986), same volume, 551–562, DOI https://doi.org/10.1088/0305-4470/19/4/016, is the algorithm source to obtain. Failed retrievals and source URLs are in provenance/romberg_reference.json. The advertisement's supposed Bradwardine modification remains undefined.

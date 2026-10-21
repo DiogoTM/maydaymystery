@@ -30,6 +30,12 @@ Readable newspaper headers independently establish two important distinctions:
 
 These are independently verified publication/title distinctions, not newly discovered ads. Both filenames remain unchanged. June 2005's second file is an enlarged circle detail; May 2015's two versions share the design but differ in crop/rendition and a newspaper WEEKEND overlay. A June/August 2004 perceptual candidate was rejected as a duplicate because the text differs. [Reviewed dates](publication_dates.json), [visual assertions](curated_evidence.json).
 
+## Exact mathematical follow-up
+
+**May 1989's 8×8 symbolic matrix has an exact adjoint sl(3) model**, conditional on the reviewed transcription. All 28 independent commutators close in an eight-dimensional span; an explicit invertible change of basis verifies equivalence to commutation by a traceless 3×3 matrix. No entries were repaired to obtain the result. This is an independently derived structural identification, with historical priority unestablished. It yields no plaintext or clock time. [Proof, controls and source readings](reports/MECHANISMS.md), [structured matrix](matrix_1989.json), [exact output](reports/matrix_algebra_test.json).
+
+April 2008 explicitly links Levenshtein distance to May 1989, Level II. May 2009 explicitly requests hour/minute extrapolation from its matrix; the image resolves an archived reader's 1989/1998 reversal. Distance alone cannot recover the missing Greek rho: 116 distinct single-insertion strings share the same distance. Numerical input and the supposed Bradwardine modification remain unspecified. The archived 2007 margin-annotation warning also limits authorial-layout claims. These are additional reviewed relationships and mechanism checks, not a general decoder.
+
 ## Coverage and remaining access limits
 
 SR/CL reports **128 recovered records at 127 dated positions**, retaining two records at 1990-12-05. Its edition releases one full ad while withholding most other full pages. Filename comparison yields 26 unmatched SR/CL dates: 22 after 2019 and four earlier discrepancies (1992-09-01, 1993-05-01, 1997-12-03, 2010-12-01). Nearby repository labels exist for those four. Seven repository labels are absent from SR/CL. These are reconciliation leads, not an authenticated count of missing advertisements. [Coverage ledger](reports/coverage.json).
@@ -55,7 +61,7 @@ The recovered `friend39.html`, signed THE ORPHANAGE, describes Level 1 as litera
 
 ## Tested hypotheses
 
-Eight checks appear in [initial results](reports/hypothesis_tests.json), [follow-up results](reports/followup_hypotheses.json) and the [hour-pair test](reports/hour_pair_test.json).
+Ten checks appear in [initial results](reports/hypothesis_tests.json), [follow-up results](reports/followup_hypotheses.json), the [hour-pair test](reports/hour_pair_test.json) and the [mechanism follow-up](reports/MECHANISMS.md). They include retrospective comparisons and within-document tests; none is a blind plaintext success.
 
 1. **Multilevel reference addressing survives.** Later notices attach Levels 2, 3 and 4 to May 1989. Holdouts were selected from prior research: this is retrospective replication, not blind validation or a decoder.
 2. **A universal four-level rule fails in its strongest form.** January 1988 prints a fifth Level. That sequence does not call itself quadrigae, leaving a narrower classical four-sense mapping unresolved.
@@ -65,6 +71,8 @@ Eight checks appear in [initial results](reports/hypothesis_tests.json), [follow
 6. **One Greek alteration is explicitly signaled.** May 1989's `φάγῃ` means may eat; the familiar Romans 3:19 `φραγῇ` means may be stopped/silenced. May 1990 points to the altered word under scordatura while displaying the ordinary wording nearby. This supports an intentional contrast in this example, not a universal rho-insertion cipher. Earlier reader comments noticed it first.
 7. **Bible addresses for the four hour numbers remain weak.** Treating 23°24′, 4°19′, 19°46′ and 22°37′ as chapter/verse pairs leaves Luke as the only compatible book in a 66-book KJV table. However, 31.6% of simple random-minute trials also leave a unique compatible book; no procedure yields a clock time. This is a candidate representation, not a decoding success or discovery claim.
 8. **June 2005's formula has a conventional physical interpretation.** The printed proper-motion relation follows from equations (2) and (3) of Albrow et al.'s pre-2005 microlensing paper. The exact circle source is unidentified; its date labels and chessboard are unexplained. [Scientific primary source](https://www.astronomy.ohio-state.edu/gaudi.1/ms98001.pdf).
+9. **May 1989's matrix has an adjoint sl(3) structure.** Exact coefficient brackets and an explicit change of basis verify this, conditional on transcription. Prime symbols were modeled independently; no su(3) real form or numerical time is established.
+10. **Edit distance alone does not select the Greek restoration.** The expected missing-rho restoration shares distance 1 with 115 other single-insertion strings in the tested alphabet. Linguistic constraints are required; the ad's intended operands are unresolved.
 
 An evolving intellectual/artistic or ideological project with deliberate inter-document instructions remains the strongest descriptive fit. A multilevel cipher could be a component. A represented real organization remains possible, but sender identity, operations and transactions are not independently authenticated. No general key or blind plaintext prediction emerged. [Ranked hypotheses](HYPOTHESES.md).
 
@@ -74,6 +82,6 @@ SQLite separates repository OCR, website OCR, website text, reviewed assertions 
 
 Additional Greek/Hebrew/Latin-region OCR was attempted with hash-recorded language models. It remains imperfect and does not replace reviewed image readings. Full-image OCR uses English; foreign scripts, mathematics, music, rotation and layout remain limitations. Legacy WordPerfect/DOC and audio files are inventoried but not fully converted or transcribed. Text decoding replacements occur in 103 HTML pages; original bytes remain intact. Spreadsheets and correspondence interpretations remain prior research rather than authenticated primary assertions.
 
-**Eight tests pass. No paid inference was used.** [Runbook](RUNBOOK.md), [journal](JOURNAL.md), [next steps](NEXT_STEPS.md).
+**Ten implementation/integrity tests pass. No paid inference was used.** [Runbook](RUNBOOK.md), [journal](JOURNAL.md), [next steps](NEXT_STEPS.md).
 
 The repository-based initial milestone is reached: every repository scan is inventoried and processed, variants and major relationships investigated, competing mechanisms tested, and a report/checkpoint produced. The wider archive, multilingual transcription and meaning of the mystery remain unresolved.

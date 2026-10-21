@@ -8,7 +8,8 @@
 - 716 HTML pages indexed separately; 1,039 valid historical image files (887 unique images) successfully OCR-processed. One `.jpg` is captured HTML, not a recoverable image. Website text is mixed correspondence, editorial content and reader interpretation; sender identities are not authenticated.
 - All three repository PDFs inspected; the recovered Charlie Piggott notes have 230 pages. Five website PDFs and two spreadsheets extracted; two image-only PDF pages received derived raster OCR. Legacy DOC/WordPerfect and audio are inventoried, with conversion/transcription still pending.
 - 33 same/near-date image-pair registrations evaluated; 29 show strong shared visual content. Newspaper headers independently distinguish April 27, 1988 / April 29, 1994 publication dates from thematic May Day titles.
-- Eight hypothesis checks now recorded across initial and follow-up outputs. Eight implementation/integrity tests pass. New Greek/Hebrew/Latin-region OCR remains uncertain; reviewed image evidence is kept separately.
+- Ten hypothesis/mechanism checks now recorded across initial and follow-up outputs. Ten implementation/integrity tests pass. New Greek/Hebrew/Latin-region OCR remains uncertain; reviewed image evidence is kept separately.
+- Exact new follow-up: the transcribed May 1989 matrix is equivalent to adjoint sl(3), verified by all coefficient brackets and an explicit change of basis. Conditional on transcription; independent second entry pending. April 2008 Level II metric and May 2009 matrix callbacks reviewed. Scalar edit distance fails to select a unique Greek restoration. See reports/MECHANISMS.md.
 - No global decoder or authenticated organizational identity found. Previous researchers' results are explicitly credited, including the May 1989 Julian Day conversion in Piggott p.32 and archived reader comments.
 - Git research branch and draft PR #2 hold reviewable checkpoints; default branch is not merged or changed.
 

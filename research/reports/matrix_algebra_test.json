@@ -1,0 +1,238 @@
+{
+  "id": "H9",
+  "hypothesis": "The May 1989 symbolic matrix realizes an adjoint Lie algebra.",
+  "protocol": {
+    "locked_before_computation": true,
+    "hypothesis": "The eight coefficient matrices span a Lie algebra, plausibly the adjoint representation of sl(3).",
+    "motivation": "Eight dimensions, two zero weights and six diagonal root-like weights.",
+    "predictions": [
+      "All 28 independent commutators lie in the same eight-dimensional span.",
+      "The adjoint Killing form is nondegenerate.",
+      "The generated vector space contains the transcribed matrix without changing any entry."
+    ],
+    "falsification": "Any commutator outside the span rejects closure of this exact transcription. Do not repair entries to enforce closure.",
+    "limits": "This is a within-document algebraic test, not a blind cross-document prediction or decoded message."
+  },
+  "source": "texts/My Scans/1989-05-01_page24.jpg",
+  "region": [
+    0.67,
+    0.687,
+    0.935,
+    0.765
+  ],
+  "basis_rank": 8,
+  "independent_commutators": 28,
+  "outside_span": [],
+  "killing_form": [
+    [
+      "0",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "6",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "6",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "12",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "4"
+    ]
+  ],
+  "killing_rank": 8,
+  "killing_determinant": "-2239488",
+  "explicit_3_by_3_model": [
+    [
+      "-s + t/3",
+      "a",
+      "b"
+    ],
+    [
+      "ap",
+      "s + t/3",
+      "cp"
+    ],
+    [
+      "bp",
+      "c",
+      "-2*t/3"
+    ]
+  ],
+  "all_64_ordered_brackets_identical_to_3_by_3_model": true,
+  "change_of_basis": [
+    [
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "1/3"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "-1/3"
+    ],
+    [
+      "0",
+      "-1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "-1",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  ],
+  "change_of_basis_determinant": "2/3",
+  "all_eight_intertwining_identities_verified": true,
+  "interpretation": "Exactly equivalent to the adjoint action of traceless 3x3 matrices: sl(3) over the chosen characteristic-zero field.",
+  "control": {
+    "description": "Increase the alpha coefficient of entry (1,2) by one.",
+    "ordered_brackets_outside_span": 10
+  },
+  "hermitian_counterexample": {
+    "parameters": {
+      "a": 1,
+      "ap": 2,
+      "b": 3,
+      "bp": 4,
+      "c": 5,
+      "cp": 6,
+      "s": 7,
+      "t": 8
+    },
+    "equals_own_conjugate_transpose": false
+  },
+  "result": "supported_exactly_for_the_transcribed_entries",
+  "novelty": "Independent derivation; no matching identification found in the searched archived page text or repository PDF extraction. Priority is not established.",
+  "limitations": [
+    "Transcription is provisional and not independently double-entered.",
+    "Primes were treated as independent parameters. No real form, such as su(3), is specified by this check.",
+    "Protocol was locked before the first bracket computation, but this is within-document validation, not a blind cross-document test.",
+    "No numerical parameter assignment, hour, minute, plaintext, or Romberg input series follows."
+  ]
+}

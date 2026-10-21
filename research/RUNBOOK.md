@@ -26,6 +26,7 @@ python research/ocr_website.py
 python research/export_native.py
 python research/recover_assets.py
 python research/followup_tests.py
+python research/mechanism_tests.py
 python research/ocr_regions.py
 python research/graph_checkpoint.py
 ```
@@ -46,6 +47,7 @@ Important artifacts:
 - `reports/native_artifacts.json.gz`: extracted PDFs/workbooks/text, render associations and legacy-format limits.
 - `curated_evidence.json`: reviewed short excerpts, approximate image regions, translations and variant decisions.
 - `reports/hypothesis_tests.json`, `followup_hypotheses.json`, `hour_pair_test.json`: executed tests and limitations.
+- `matrix_1989.json`, `mechanism_tests.py`, `reports/matrix_algebra_test.json`, `reports/edit_distance_test.json`, `reports/MECHANISMS.md`: exact transcription, sl(3) intertwiner, controls and distance ambiguity. SymPy is required; originals and OCR are never repaired to satisfy algebraic predictions.
 
 Example SQL:
 

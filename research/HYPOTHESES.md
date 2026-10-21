@@ -14,6 +14,12 @@
 
 The mystery remains unsolved. Explicit references and editorial recurrence survive scrutiny; their intended meanings and real-world consequences do not follow automatically.
 
+## Exact algebra and metric follow-up
+
+- **H9 survives exactly, conditional on transcription:** the May 1989 coefficient matrices close as an eight-dimensional Lie algebra. An explicit invertible intertwiner identifies the scanned representation with adjoint sl(3), exceeding the initial closure/nondegeneracy prediction. The prediction was written before the first commutator calculation. This is within-document validation; it supplies no blind cross-document prediction, parameter values or time. A controlled entry error breaks closure. The source identification is independently derived, with priority unresolved. [Protocol/transcription](matrix_1989.json), [proof/results](reports/MECHANISMS.md).
+- **H10 uniqueness is rejected:** Levenshtein distance alone cannot identify the missing rho. All 116 distinct single-letter insertions in the tested alphabet have the same distance 1. Grammatical and scriptural constraints are additional information. This mathematical ambiguity check is not a test of whether the 2008 writer intended this Greek word as the operand.
+- The 2009 Romberg–Beleznay reference survives bibliographic verification as a real method; **direct executability remains unresolved**, rather than falsified. The full algorithm paper could not be retrieved, numerical series and parameters are unspecified, and the advertised Bradwardine modification is undefined here. No substitute recurrence was invented.
+
 
 ## Full-recovery follow-up
 
