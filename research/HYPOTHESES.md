@@ -1,0 +1,32 @@
+# Competing explanations and executed tests
+
+2026-10-21 UTC. These rankings concern surviving mechanisms, not probabilities of solving the mystery. Hypotheses can coexist. See [executable tests](investigate.py), [results](reports/hypothesis_tests.json), and [reviewed primary assertions](curated_evidence.json).
+
+1. **An evolving intellectual/artistic project using cross-document instructions — strongest descriptive fit.** H1 tests the compound address mechanism `document date + interpretive level`. Constructed from September 1989; independently checked on December 1998 and May 2006 images. All address May 1989, using Levels 3, 2, and 4 respectively. High confidence that the reference system exists; no executable decoder established. This reproduces SR/CL's reported callbacks. The later checks were held out from construction, but selected from a prior finding aid, so they are retrospective rather than blind validation. Artistic narrative is compatible with the observed instruction structure.
+
+2. **Religious and political communication or narrative — supported vocabulary, purpose unresolved.** H4 uses the conspicuous Cromwell/Confessio Augustana material in May 1989 to predict later reuse. May 2006 names Luther, Calvin, Gustavus Adolphus and Cromwell; May 2015 again names Luther, Calvin and Cromwell plus an unresolved G.A. abbreviation. Survives as a claim about repeated editorial vocabulary. Mathematics, physics, finance, music and jokes contradict an explanation limited to theological exposition. An exploratory column-permutation control finds seven variant/page groups with Luther/Calvin/Cromwell together versus a null mean of 0.3268 across 10,000 permutations; this is not a confirmatory significance claim because names were selected from prior research, OCR is imperfect, and the null ignores time and text length.
+
+3. **A deliberately constructed multilevel cipher — plausible component, unproved as global explanation.** H1 supports multilevel addressing. H2 rejects the stronger prediction that every printed Level belongs to exactly four classical senses: January 1988 visibly enumerates five Levels. That passage does not label itself quadrigae, so a narrower classical quadriga remains open. No key, deterministic transformation or successful held-out plaintext has been demonstrated. A candidate decoder must predict outputs from unseen pages and outperform shuffled controls.
+
+4. **A real-world organization coordinating actual actions — underdetermined.** Repeated organizational names, routes and schedules occur in primary notices, but textual instructions do not authenticate actual meetings, membership or transactions. September 2000 explicitly requests a date/hour from November 1983 (E4), rejecting self-containment in H5; it does not verify an event. External contemporary records and independently authenticated correspondence would discriminate this from fictional narrative. No identity claim is made here.
+
+5. **Simple one-to-one numeric/date decoding — specific version rejected.** H3 tests whether May 1989's printed 2,447,703.5 JD merely restates its newspaper date. Standard Julian Day conversion gives 1989-06-26 00:00, 56 days after May 1. The calculation rejects the simple equation; future scheduling, another convention, error, and deliberate displacement remain possible. This is a single-document falsification, not a held-out-series success. It is not a newly discovered date unless earlier literature is exhaustively checked.
+
+The mystery remains unsolved. Explicit references and editorial recurrence survive scrutiny; their intended meanings and real-world consequences do not follow automatically.
+
+## Exact algebra and metric follow-up
+
+- **H9 survives exactly, conditional on transcription:** the May 1989 coefficient matrices close as an eight-dimensional Lie algebra. An explicit invertible intertwiner identifies the scanned representation with adjoint sl(3), exceeding the initial closure/nondegeneracy prediction. The prediction was written before the first commutator calculation. This is within-document validation; it supplies no blind cross-document prediction, parameter values or time. A controlled entry error breaks closure. The source identification is independently derived, with priority unresolved. [Protocol/transcription](matrix_1989.json), [proof/results](reports/MECHANISMS.md).
+- **H10 uniqueness is rejected:** Levenshtein distance alone cannot identify the missing rho. All 116 distinct single-letter insertions in the tested alphabet have the same distance 1. Grammatical and scriptural constraints are additional information. This mathematical ambiguity check is not a test of whether the 2008 writer intended this Greek word as the operand.
+- The 2009 Romberg–Beleznay reference survives bibliographic verification as a real method; **direct executability remains unresolved**, rather than falsified. The full algorithm paper could not be retrieved, numerical series and parameters are unspecified, and the advertised Bradwardine modification is undefined here. No substitute recurrence was invented.
+
+
+## Full-recovery follow-up
+
+All 133 repository scans are now available. The control groups mentions across same-date pages and strong geometric scan-variant matches: 105 analysis groups, seven three-name co-occurrences, null mean 0.3268. Group counts are not an authenticated ad census.
+
+- H6: The May 1989/May 1990 scordatura comparison supports an explicitly signaled change from stopped-mouth wording to an eating form. Archived 1990 reader comments already noticed it. This supports one designed perturbation, not a general insertion/deletion key.
+- H7: All four May 1989 hour pairs fit Luke in the tested 66-book table, but 31.6% of simple random-minute trials also yield a unique compatible book. No clock-time output or blind holdout success exists. Retain as a weak candidate representation.
+- H8: June 2005's proper-motion equation follows from a pre-2005 microlensing source. Exact diagram provenance and the date annotations remain unresolved. Do not substitute invented arithmetic for a known physical formula.
+
+The JD conversion is explicitly previous work: Piggott p.32 and archived May 1989 comments record it. Friend39's first-level explanation is now recovered locally, but its Orphanage signature is unauthenticated. Additional models did not solve the script/notation transcription problem. No claim of first discovery, a general decoder, or verified real-world operations is made.

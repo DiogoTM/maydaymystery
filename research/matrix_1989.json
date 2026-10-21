@@ -1,0 +1,131 @@
+{
+  "id": "M1989",
+  "source": "texts/My Scans/1989-05-01_page24.jpg",
+  "region": [
+    0.67,
+    0.687,
+    0.935,
+    0.765
+  ],
+  "reviewed_utc": "2026-10-21T06:34:07.010569+00:00",
+  "status": "provisional manual transcription, independently checking algebraic consequences; no silent repair",
+  "parameters": [
+    "a",
+    "ap",
+    "b",
+    "bp",
+    "c",
+    "cp",
+    "s",
+    "t"
+  ],
+  "glyph_mapping": {
+    "a": "α",
+    "ap": "α′",
+    "b": "β",
+    "bp": "β′",
+    "c": "γ",
+    "cp": "γ′",
+    "s": "σ",
+    "t": "τ"
+  },
+  "matrix": [
+    [
+      "-2*s",
+      "a",
+      "a",
+      "0",
+      "0",
+      "-b",
+      "0",
+      "-c"
+    ],
+    [
+      "ap",
+      "0",
+      "0",
+      "a",
+      "-c",
+      "-cp",
+      "0",
+      "0"
+    ],
+    [
+      "ap",
+      "0",
+      "0",
+      "a",
+      "0",
+      "0",
+      "b",
+      "bp"
+    ],
+    [
+      "0",
+      "ap",
+      "ap",
+      "2*s",
+      "bp",
+      "0",
+      "cp",
+      "0"
+    ],
+    [
+      "0",
+      "-2*cp",
+      "cp",
+      "b",
+      "s+t",
+      "0",
+      "0",
+      "ap"
+    ],
+    [
+      "-bp",
+      "-2*c",
+      "c",
+      "0",
+      "0",
+      "-s-t",
+      "-a",
+      "0"
+    ],
+    [
+      "0",
+      "-bp",
+      "2*bp",
+      "c",
+      "0",
+      "-ap",
+      "s-t",
+      "0"
+    ],
+    [
+      "-cp",
+      "-b",
+      "2*b",
+      "0",
+      "a",
+      "0",
+      "0",
+      "t-s"
+    ]
+  ],
+  "uncertainty": [
+    "Prime marks are modeled as independent parameters, not assumed complex conjugates.",
+    "No parameter values are specified in the reviewed matrix region.",
+    "Transcription has not been independently double-entered by a second reviewer."
+  ],
+  "prospective_test": {
+    "locked_before_computation": true,
+    "hypothesis": "The eight coefficient matrices span a Lie algebra, plausibly the adjoint representation of sl(3).",
+    "motivation": "Eight dimensions, two zero weights and six diagonal root-like weights.",
+    "predictions": [
+      "All 28 independent commutators lie in the same eight-dimensional span.",
+      "The adjoint Killing form is nondegenerate.",
+      "The generated vector space contains the transcribed matrix without changing any entry."
+    ],
+    "falsification": "Any commutator outside the span rejects closure of this exact transcription. Do not repair entries to enforce closure.",
+    "limits": "This is a within-document algebraic test, not a blind cross-document prediction or decoded message."
+  }
+}

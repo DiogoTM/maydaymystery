@@ -1,0 +1,37 @@
+{
+  "retrieved_utc": "2026-10-21",
+  "status": "bibliography verified; full algorithm paper not downloaded",
+  "institutional_record": "https://research.ceu.edu/en/publications/extrapolation-of-transfer-matrix-data-for-percolation-and-lattice/",
+  "author_publication_list": "https://www.phy.bme.hu/~kertesz/pub2.html",
+  "paper": {
+    "author": "J. Kertész",
+    "year": 1986,
+    "title": "Extrapolation of transfer matrix data for percolation and lattice animals by the Romberg-Beleznay algorithm",
+    "journal": "Journal of Physics A",
+    "volume": 19,
+    "pages": "599–601",
+    "doi": "10.1088/0305-4470/19/4/021"
+  },
+  "algorithm_reference": {
+    "author": "F. Beleznay",
+    "year": 1986,
+    "title": "Estimations for asymptotic series using a modified Romberg algorithm. I. Finite-size scaling calculations",
+    "pages": "551–562",
+    "doi": "10.1088/0305-4470/19/4/016"
+  },
+  "failed_retrievals": [
+    {
+      "url": "https://electronicsandbooks.com/edt/manual/Magazine/J/Journal%20of%20Physics%20A%20Mathematical%20and%20Theoretical/1986%20Volume%2019/0305-4470_19_4_021.pdf",
+      "outcome": "HTTP 503 in local HTTPS; web open timed out"
+    },
+    {
+      "url": "https://www.lps.ens.fr/~derrida/PAPIERS/1985/stauffer-85.pdf",
+      "outcome": "HTTP 503 in local HTTPS; web open timed out"
+    },
+    {
+      "url": "https://iopscience.iop.org/article/10.1088/0305-4470/19/4/016",
+      "outcome": "Web connector restricted URL; no bypass attempted"
+    }
+  ],
+  "limits": "No full-paper hash or implementation of Beleznay modification claimed. Institutional abstract establishes finite-size extrapolation use, not the advertisement’s hidden modification."
+}

@@ -1,0 +1,27 @@
+{
+  "ocr_scan_documents": 133,
+  "reference_candidates": 337,
+  "entity_counts": {
+    "Martin Luther": 26,
+    "SR/CL": 73,
+    "Bible": 14,
+    "John Winthrop": 42,
+    "Orphanage": 42,
+    "Owsley": 21,
+    "Arbella": 24,
+    "Leitmotiv": 71,
+    "Oliver Cromwell": 17,
+    "Kitchener": 12,
+    "Khartoum": 2,
+    "John Calvin": 13,
+    "Heidegger": 2,
+    "Gustavus Adolphus": 12,
+    "Constantine": 2,
+    "Hannibal": 1,
+    "quadrigae": 1
+  },
+  "repeated_5grams": 164,
+  "prior_map_nodes": 128,
+  "prior_map_edges": 77,
+  "limitation": "English OCR and finite alias dictionary; candidates require primary-image review. No claim of complete entity or cipher extraction."
+}

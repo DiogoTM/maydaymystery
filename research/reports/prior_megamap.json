@@ -1,0 +1,2196 @@
+{
+  "provenance": "megamap.vue; prior researcher assertions, not independently confirmed",
+  "nodes": [
+    {
+      "id": "9",
+      "label": "April 27th, 1988, Page 16",
+      "type": "node",
+      "x": "138.3205",
+      "y": "-108.83145",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\texts\\My Scans\\1988-04-27_page16.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\texts\\My Scans\\1988-04-27_page16.jpg"
+      ]
+    },
+    {
+      "id": "33",
+      "label": "Quadrant 1",
+      "type": "node",
+      "x": "359.01562",
+      "y": "-304.1344",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "37",
+      "label": "Quadrant 4",
+      "type": "node",
+      "x": "356.2874",
+      "y": "494.70654",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "62",
+      "label": "Quadrant 2",
+      "type": "node",
+      "x": "372.56317",
+      "y": "-53.706905",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "72",
+      "label": "Quadrant 3",
+      "type": "node",
+      "x": "363.71036",
+      "y": "195.03406",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "80",
+      "label": "Center Cross",
+      "type": "node",
+      "x": "13.466957",
+      "y": "-225.41885",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "94",
+      "label": "Border",
+      "type": "node",
+      "x": "123.40376",
+      "y": "-529.8555",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "112",
+      "label": "Miscellaneous",
+      "type": "node",
+      "x": "-17.181343",
+      "y": "563.8482",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "126",
+      "label": "...BY WHATEVER MEANS NECESSARY",
+      "type": "node",
+      "x": "1338.1006",
+      "y": "-1056.2534",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "133",
+      "label": "Martin Luther",
+      "type": "node",
+      "x": "-1163.5647",
+      "y": "-1049.2273",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "135",
+      "label": "May 1st, 1989, Page 24",
+      "type": "node",
+      "x": "64.78262",
+      "y": "1282.2557",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\texts\\My Scans\\1989-05-01_page24.jpg"
+      ]
+    },
+    {
+      "id": "136",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\texts\\My Scans\\1989-05-01_page24.jpg"
+      ]
+    },
+    {
+      "id": "55",
+      "label": "1",
+      "type": "node",
+      "x": "480.42856",
+      "y": "-415.2218",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\1-abraham.jpg"
+      ]
+    },
+    {
+      "id": "56",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\1-abraham.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "label": "2",
+      "type": "node",
+      "x": "482.70468",
+      "y": "-325.08228",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\2-enfant-plaza.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\2-enfant-plaza.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "label": "3",
+      "type": "node",
+      "x": "480.5892",
+      "y": "-238.40363",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\3-faded-photo.jpg"
+      ]
+    },
+    {
+      "id": "18",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\3-faded-photo.jpg"
+      ]
+    },
+    {
+      "id": "63",
+      "label": "1",
+      "type": "node",
+      "x": "486.97522",
+      "y": "-141.70222",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\1-hjertets.jpg"
+      ]
+    },
+    {
+      "id": "64",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\1-hjertets.jpg"
+      ]
+    },
+    {
+      "id": "65",
+      "label": "2",
+      "type": "node",
+      "x": "486.29434",
+      "y": "-84.66669",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\2-by-rust.jpg"
+      ]
+    },
+    {
+      "id": "66",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\2-by-rust.jpg"
+      ]
+    },
+    {
+      "id": "67",
+      "label": "3",
+      "type": "node",
+      "x": "485.7839",
+      "y": "16.162045",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\3-maximize.jpg"
+      ]
+    },
+    {
+      "id": "68",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\3-maximize.jpg"
+      ]
+    },
+    {
+      "id": "73",
+      "label": "1",
+      "type": "node",
+      "x": "486.35083",
+      "y": "89.355545",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\1-chem.jpg"
+      ]
+    },
+    {
+      "id": "74",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\1-chem.jpg"
+      ]
+    },
+    {
+      "id": "75",
+      "label": "2",
+      "type": "node",
+      "x": "484.46515",
+      "y": "173.47107",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\2-kingdom.jpg"
+      ]
+    },
+    {
+      "id": "76",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\2-kingdom.jpg"
+      ]
+    },
+    {
+      "id": "77",
+      "label": "3",
+      "type": "node",
+      "x": "487.53412",
+      "y": "258.31158",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\3-no-compromise.jpg"
+      ]
+    },
+    {
+      "id": "78",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\3-no-compromise.jpg"
+      ]
+    },
+    {
+      "id": "14",
+      "label": "1",
+      "type": "node",
+      "x": "486.5786",
+      "y": "357.5299",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\1-lake-fire.jpg"
+      ]
+    },
+    {
+      "id": "15",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\1-lake-fire.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "label": "2",
+      "type": "node",
+      "x": "487.50452",
+      "y": "439.00702",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\2-chess.jpg"
+      ]
+    },
+    {
+      "id": "12",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\2-chess.jpg"
+      ]
+    },
+    {
+      "id": "59",
+      "label": "3",
+      "type": "node",
+      "x": "492.1339",
+      "y": "602.8873",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\3-revolution.jpg"
+      ]
+    },
+    {
+      "id": "60",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\3-revolution.jpg"
+      ]
+    },
+    {
+      "id": "103",
+      "label": "Left",
+      "type": "node",
+      "x": "-332.84073",
+      "y": "-606.8082",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\border-left.jpg"
+      ]
+    },
+    {
+      "id": "104",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\border-left.jpg"
+      ]
+    },
+    {
+      "id": "105",
+      "label": "Bottom",
+      "type": "node",
+      "x": "-331.4809",
+      "y": "-541.5331",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\border-bottom.jpg"
+      ]
+    },
+    {
+      "id": "106",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\border-bottom.jpg"
+      ]
+    },
+    {
+      "id": "107",
+      "label": "Right",
+      "type": "node",
+      "x": "-328.0811",
+      "y": "-470.81815",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\border-right.jpg"
+      ]
+    },
+    {
+      "id": "108",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\border-right.jpg"
+      ]
+    },
+    {
+      "id": "109",
+      "label": "Blade",
+      "type": "node",
+      "x": "-308.32318",
+      "y": "-399.2987",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\cross-blade-vert.jpg"
+      ]
+    },
+    {
+      "id": "110",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\cross-blade-vert.jpg"
+      ]
+    },
+    {
+      "id": "101",
+      "label": "Hilt",
+      "type": "node",
+      "x": "-319.4818",
+      "y": "-225.36472",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\cross-hilt-vert-coords.jpg"
+      ]
+    },
+    {
+      "id": "102",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\cross-hilt-vert-coords.jpg"
+      ]
+    },
+    {
+      "id": "89",
+      "label": "Horizontal Blade",
+      "type": "node",
+      "x": "-322.22647",
+      "y": "-77.35153",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\cross-blade-horiz.jpg"
+      ]
+    },
+    {
+      "id": "90",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\cross-blade-horiz.jpg"
+      ]
+    },
+    {
+      "id": "91",
+      "label": "Horizontal Hilt",
+      "type": "node",
+      "x": "-321.19962",
+      "y": "-17.194305",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\cross-hilt-horiz-coords.jpg"
+      ]
+    },
+    {
+      "id": "92",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\cross-hilt-horiz-coords.jpg"
+      ]
+    },
+    {
+      "id": "155",
+      "label": "Vertical Sword",
+      "type": "node",
+      "x": "-92.160965",
+      "y": "-284.81424",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "160",
+      "label": "Horizontal Sword",
+      "type": "node",
+      "x": "-110.394806",
+      "y": "-29.540497",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "113",
+      "label": "Luther",
+      "type": "node",
+      "x": "-318.70932",
+      "y": "145.92978",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-luther.jpg"
+      ]
+    },
+    {
+      "id": "114",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-luther.jpg"
+      ]
+    },
+    {
+      "id": "117",
+      "label": "Mao",
+      "type": "node",
+      "x": "-315.94495",
+      "y": "320.96713",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-mao.jpg"
+      ]
+    },
+    {
+      "id": "118",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-mao.jpg"
+      ]
+    },
+    {
+      "id": "119",
+      "label": "\"Clavis\" Triangle",
+      "type": "node",
+      "x": "-318.04462",
+      "y": "495.79132",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-clavis.jpg"
+      ]
+    },
+    {
+      "id": "120",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-clavis.jpg"
+      ]
+    },
+    {
+      "id": "121",
+      "label": "Pool Factorial Triangle",
+      "type": "node",
+      "x": "-320.99716",
+      "y": "675.8266",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-pool.jpg"
+      ]
+    },
+    {
+      "id": "122",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-pool.jpg"
+      ]
+    },
+    {
+      "id": "115",
+      "label": "Smiley Guy",
+      "type": "node",
+      "x": "-322.95233",
+      "y": "812.20734",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-smiley.jpg"
+      ]
+    },
+    {
+      "id": "116",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1988-04-27_page16\\etc-smiley.jpg"
+      ]
+    },
+    {
+      "id": "169",
+      "label": "Mao Zedong",
+      "type": "node",
+      "x": "-1414.0121",
+      "y": "-1049.7809",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "173",
+      "label": "Miscellaneous",
+      "type": "node",
+      "x": "-101.010956",
+      "y": "1582.0901",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "174",
+      "label": "Numbered",
+      "type": "node",
+      "x": "373.70242",
+      "y": "1429.8071",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "175",
+      "label": "Border",
+      "type": "node",
+      "x": "117.0148",
+      "y": "1130.2274",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "177",
+      "label": "1",
+      "type": "node",
+      "x": "474.53952",
+      "y": "1302.1427",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\1-the-day.jpg"
+      ]
+    },
+    {
+      "id": "178",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\1-the-day.jpg"
+      ]
+    },
+    {
+      "id": "179",
+      "label": "2",
+      "type": "node",
+      "x": "474.9155",
+      "y": "1349.6384",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\2-the-hour.jpg"
+      ]
+    },
+    {
+      "id": "180",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\2-the-hour.jpg"
+      ]
+    },
+    {
+      "id": "181",
+      "label": "3",
+      "type": "node",
+      "x": "476.31393",
+      "y": "1397.4192",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\3-the-place.jpg"
+      ]
+    },
+    {
+      "id": "182",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\3-the-place.jpg"
+      ]
+    },
+    {
+      "id": "183",
+      "label": "4",
+      "type": "node",
+      "x": "476.67136",
+      "y": "1448.9165",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\4-ragged.jpg"
+      ]
+    },
+    {
+      "id": "184",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\4-ragged.jpg"
+      ]
+    },
+    {
+      "id": "185",
+      "label": "5",
+      "type": "node",
+      "x": "475.28122",
+      "y": "1511.831",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\5-reformation-hops.jpg"
+      ]
+    },
+    {
+      "id": "186",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\5-reformation-hops.jpg"
+      ]
+    },
+    {
+      "id": "187",
+      "label": "6",
+      "type": "node",
+      "x": "477.19968",
+      "y": "1565.3406",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\6-history-different.jpg"
+      ]
+    },
+    {
+      "id": "188",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\6-history-different.jpg"
+      ]
+    },
+    {
+      "id": "195",
+      "label": "Left",
+      "type": "node",
+      "x": "-325.29697",
+      "y": "1080.2646",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\border-left.jpg"
+      ]
+    },
+    {
+      "id": "196",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\border-left.jpg"
+      ]
+    },
+    {
+      "id": "197",
+      "label": "Right",
+      "type": "node",
+      "x": "-325.91623",
+      "y": "1141.4757",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\border-right.jpg"
+      ]
+    },
+    {
+      "id": "198",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\border-right.jpg"
+      ]
+    },
+    {
+      "id": "201",
+      "label": "Leitmotiv",
+      "type": "node",
+      "x": "350.81522",
+      "y": "1240.5452",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\leitmotiv-papa.jpg"
+      ]
+    },
+    {
+      "id": "202",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\leitmotiv-papa.jpg"
+      ]
+    },
+    {
+      "id": "203",
+      "label": "Angles",
+      "type": "node",
+      "x": "-319.42673",
+      "y": "1389.2932",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-angles.jpg"
+      ]
+    },
+    {
+      "id": "204",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-angles.jpg"
+      ]
+    },
+    {
+      "id": "205",
+      "label": "Cromwell",
+      "type": "node",
+      "x": "-321.462",
+      "y": "1218.2648",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-cromwell.jpg"
+      ]
+    },
+    {
+      "id": "206",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-cromwell.jpg"
+      ]
+    },
+    {
+      "id": "213",
+      "label": "Greek",
+      "type": "node",
+      "x": "-316.39194",
+      "y": "1718.6365",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-greek.jpg"
+      ]
+    },
+    {
+      "id": "214",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-greek.jpg"
+      ]
+    },
+    {
+      "id": "215",
+      "label": "Hebrew?",
+      "type": "node",
+      "x": "-317.598",
+      "y": "1660.764",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-hebrew.jpg"
+      ]
+    },
+    {
+      "id": "216",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-hebrew.jpg"
+      ]
+    },
+    {
+      "id": "217",
+      "label": "Matrix",
+      "type": "node",
+      "x": "-318.4929",
+      "y": "1560.7922",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-matrix.jpg"
+      ]
+    },
+    {
+      "id": "218",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-matrix.jpg"
+      ]
+    },
+    {
+      "id": "219",
+      "label": "Ora pro nobis...",
+      "type": "node",
+      "x": "-316.11325",
+      "y": "1775.5009",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-ora-pro.jpg"
+      ]
+    },
+    {
+      "id": "220",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-ora-pro.jpg"
+      ]
+    },
+    {
+      "id": "221",
+      "label": "Smiley Guy",
+      "type": "node",
+      "x": "-317.34628",
+      "y": "1830.497",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-smiley.jpg"
+      ]
+    },
+    {
+      "id": "222",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\1989-05-01_page24\\etc-smiley.jpg"
+      ]
+    },
+    {
+      "id": "238",
+      "label": "Oliver Cromwell",
+      "type": "node",
+      "x": "-1753.5024",
+      "y": "-1053.0052",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "240",
+      "label": "May 1st, 1990, Page 25",
+      "type": "node",
+      "x": "113.74377",
+      "y": "2539.9265",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\texts\\My Scans\\1990-05-01_page25.jpg"
+      ]
+    },
+    {
+      "id": "241",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "23.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\texts\\My Scans\\1990-05-01_page25.jpg"
+      ]
+    },
+    {
+      "id": "245",
+      "label": "THEORY:",
+      "type": "node",
+      "x": "-4495.1855",
+      "y": "-1190.0516",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "279",
+      "label": "Robert Truman Hungerford is running ads\nto cause people to look into matters that,\nhopefully, will inspire a movement.",
+      "type": "node",
+      "x": "34.0",
+      "y": "71.0",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "246",
+      "label": "https://www.familytreenow.com/records/people/garrison/cynthia/0jsgizdgvyalylv5f8rwqa",
+      "type": "node",
+      "x": "-4926.543",
+      "y": "-204.03424",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\srcl_richmond_family\\familytree.png"
+      ]
+    },
+    {
+      "id": "247",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "25.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\srcl_richmond_family\\familytree.png"
+      ]
+    },
+    {
+      "id": "248",
+      "label": "https://www.legacy.com/obituaries/azcentral/\nobituary.aspx?n=robert-d-hungerford&pid=136199059",
+      "type": "node",
+      "x": "-3960.872",
+      "y": "-175.93195",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\srcl_richmond_family\\obituary.png"
+      ]
+    },
+    {
+      "id": "249",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "42.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\srcl_richmond_family\\obituary.png"
+      ]
+    },
+    {
+      "id": "250",
+      "label": "Cynthia L. Garrison",
+      "type": "node",
+      "x": "-4680.9053",
+      "y": "-859.64813",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "251",
+      "label": "Robert Truman Hungerford",
+      "type": "node",
+      "x": "-3493.9287",
+      "y": "-587.6743",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "252",
+      "label": "Stuart R. Garrison",
+      "type": "node",
+      "x": "-5206.8413",
+      "y": "-371.84097",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "253",
+      "label": "Tucson, AZ",
+      "type": "node",
+      "x": "-3797.8374",
+      "y": "-721.4182",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "254",
+      "label": "Richmond, VA",
+      "type": "node",
+      "x": "-4129.5244",
+      "y": "-748.54877",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "264",
+      "label": "Stuart R. Garrison + Cynthia L. Garrison = married",
+      "type": "node",
+      "x": "-4066.7617",
+      "y": "-453.8504",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "265",
+      "label": "https://www.fredericksburg.com/obituaries/garrison-carl/\narticle_9a99ed73-5d6d-5718-ae46-cbf801e8181a.html",
+      "type": "node",
+      "x": "-3410.7559",
+      "y": "-192.9198",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\srcl_richmond_family\\obituary2.png"
+      ]
+    },
+    {
+      "id": "266",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "46.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\srcl_richmond_family\\obituary2.png"
+      ]
+    },
+    {
+      "id": "269",
+      "label": "Stuart R. Garrison lives in Tucson, AZ",
+      "type": "node",
+      "x": "-3263.5513",
+      "y": "-458.63513",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "272",
+      "label": "Cynthia L. Garrison lives in Tucson, AZ",
+      "type": "node",
+      "x": "-4508.166",
+      "y": "-536.3722",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "276",
+      "label": "Cynthia L. Garrison lived in Richmond, VA",
+      "type": "node",
+      "x": "-4921.154",
+      "y": "-496.323",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "283",
+      "label": "SR/CL: Richmond",
+      "type": "node",
+      "x": "-5091.1235",
+      "y": "-839.41754",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "290",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "30.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\texts\\maydaymystery.org\\1981-05-01.jpg"
+      ]
+    },
+    {
+      "id": "282",
+      "label": "SR = Stuart R. Garrison",
+      "type": "node",
+      "x": "34.0",
+      "y": "97.48",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "281",
+      "label": "CL = Cynthia L. Garrison",
+      "type": "node",
+      "x": "34.0",
+      "y": "120.73",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "293",
+      "label": "Richmond = Richmond, VA",
+      "type": "node",
+      "x": "34.0",
+      "y": "143.98001",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "325",
+      "label": "DEAD THEORIES:",
+      "type": "node",
+      "x": "-6721.1274",
+      "y": "-1061.0262",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "326",
+      "label": "Rosicrucians / Freemasons did it.",
+      "type": "node",
+      "x": "34.0",
+      "y": "71.0",
+      "notes": null,
+      "resources": []
+    },
+    {
+      "id": "331",
+      "label": "www.maydaymystery.org\\\nmayday\\offsite\\\nletter060400\\page1.jpg",
+      "type": "node",
+      "x": "34.0",
+      "y": "57.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\rosicrucian\\letter060400_page1.jpg"
+      ]
+    },
+    {
+      "id": "332",
+      "label": null,
+      "type": "image",
+      "x": "34.0",
+      "y": "155.0",
+      "notes": null,
+      "resources": [
+        "C:\\Users\\ellag\\Documents\\GitHub\\maydaymystery\\megamap_files\\clips\\rosicrucian\\letter060400_page1.jpg"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "49",
+      "label": null,
+      "type": "link",
+      "x": "274.73642",
+      "y": "-292.72433",
+      "notes": null,
+      "resources": [],
+      "source": "9",
+      "target": "33"
+    },
+    {
+      "id": "52",
+      "label": null,
+      "type": "link",
+      "x": "252.03992",
+      "y": "175.16858",
+      "notes": null,
+      "resources": [],
+      "source": "9",
+      "target": "37"
+    },
+    {
+      "id": "79",
+      "label": null,
+      "type": "link",
+      "x": "317.95825",
+      "y": "175.16858",
+      "notes": null,
+      "resources": [],
+      "source": "9",
+      "target": "72"
+    },
+    {
+      "id": "93",
+      "label": null,
+      "type": "link",
+      "x": "97.46696",
+      "y": "-214.06674",
+      "notes": null,
+      "resources": [],
+      "source": "9",
+      "target": "80"
+    },
+    {
+      "id": "111",
+      "label": null,
+      "type": "link",
+      "x": "170.1133",
+      "y": "-516.41675",
+      "notes": null,
+      "resources": [],
+      "source": "9",
+      "target": "94"
+    },
+    {
+      "id": "123",
+      "label": null,
+      "type": "link",
+      "x": "72.81866",
+      "y": "175.16846",
+      "notes": null,
+      "resources": [],
+      "source": "9",
+      "target": "112"
+    },
+    {
+      "id": "132",
+      "label": null,
+      "type": "link",
+      "x": "650.7943",
+      "y": "-1012.7533",
+      "notes": null,
+      "resources": [],
+      "source": "65",
+      "target": "126"
+    },
+    {
+      "id": "134",
+      "label": null,
+      "type": "link",
+      "x": "-1049.4459",
+      "y": "-1005.7273",
+      "notes": null,
+      "resources": [],
+      "source": "113",
+      "target": "133"
+    },
+    {
+      "id": "140",
+      "label": null,
+      "type": "link",
+      "x": "394.49057",
+      "y": "-367.8404",
+      "notes": null,
+      "resources": [],
+      "source": "33",
+      "target": "55"
+    },
+    {
+      "id": "141",
+      "label": null,
+      "type": "link",
+      "x": "430.01562",
+      "y": "-295.1394",
+      "notes": null,
+      "resources": [],
+      "source": "33",
+      "target": "19"
+    },
+    {
+      "id": "142",
+      "label": null,
+      "type": "link",
+      "x": "395.2281",
+      "y": "-282.13428",
+      "notes": null,
+      "resources": [],
+      "source": "33",
+      "target": "17"
+    },
+    {
+      "id": "143",
+      "label": null,
+      "type": "link",
+      "x": "411.26572",
+      "y": "-112.919106",
+      "notes": null,
+      "resources": [],
+      "source": "62",
+      "target": "63"
+    },
+    {
+      "id": "144",
+      "label": null,
+      "type": "link",
+      "x": "443.56317",
+      "y": "-42.74781",
+      "notes": null,
+      "resources": [],
+      "source": "62",
+      "target": "65"
+    },
+    {
+      "id": "145",
+      "label": null,
+      "type": "link",
+      "x": "410.69162",
+      "y": "-31.70691",
+      "notes": null,
+      "resources": [],
+      "source": "62",
+      "target": "67"
+    },
+    {
+      "id": "146",
+      "label": null,
+      "type": "link",
+      "x": "400.31412",
+      "y": "132.98178",
+      "notes": null,
+      "resources": [],
+      "source": "72",
+      "target": "73"
+    },
+    {
+      "id": "147",
+      "label": null,
+      "type": "link",
+      "x": "434.7104",
+      "y": "205.67035",
+      "notes": null,
+      "resources": [],
+      "source": "72",
+      "target": "75"
+    },
+    {
+      "id": "148",
+      "label": null,
+      "type": "link",
+      "x": "399.81906",
+      "y": "217.03418",
+      "notes": null,
+      "resources": [],
+      "source": "72",
+      "target": "77"
+    },
+    {
+      "id": "149",
+      "label": null,
+      "type": "link",
+      "x": "427.27045",
+      "y": "506.79065",
+      "notes": null,
+      "resources": [],
+      "source": "37",
+      "target": "11"
+    },
+    {
+      "id": "150",
+      "label": null,
+      "type": "link",
+      "x": "392.971",
+      "y": "412.54483",
+      "notes": null,
+      "resources": [],
+      "source": "37",
+      "target": "14"
+    },
+    {
+      "id": "151",
+      "label": null,
+      "type": "link",
+      "x": "392.4608",
+      "y": "516.70654",
+      "notes": null,
+      "resources": [],
+      "source": "37",
+      "target": "59"
+    },
+    {
+      "id": "152",
+      "label": null,
+      "type": "link",
+      "x": "90.519104",
+      "y": "-519.10815",
+      "notes": null,
+      "resources": [],
+      "source": "94",
+      "target": "105"
+    },
+    {
+      "id": "153",
+      "label": null,
+      "type": "link",
+      "x": "89.15927",
+      "y": "-580.5084",
+      "notes": null,
+      "resources": [],
+      "source": "94",
+      "target": "103"
+    },
+    {
+      "id": "154",
+      "label": null,
+      "type": "link",
+      "x": "-261.0811",
+      "y": "-507.85547",
+      "notes": null,
+      "resources": [],
+      "source": "94",
+      "target": "107"
+    },
+    {
+      "id": "156",
+      "label": null,
+      "type": "link",
+      "x": "-4.203682",
+      "y": "-272.60266",
+      "notes": null,
+      "resources": [],
+      "source": "80",
+      "target": "155"
+    },
+    {
+      "id": "157",
+      "label": null,
+      "type": "link",
+      "x": "-238.32318",
+      "y": "-323.06482",
+      "notes": null,
+      "resources": [],
+      "source": "155",
+      "target": "109"
+    },
+    {
+      "id": "158",
+      "label": null,
+      "type": "link",
+      "x": "-153.48181",
+      "y": "-262.8142",
+      "notes": null,
+      "resources": [],
+      "source": "155",
+      "target": "101"
+    },
+    {
+      "id": "161",
+      "label": null,
+      "type": "link",
+      "x": "2.605194",
+      "y": "-203.41882",
+      "notes": null,
+      "resources": [],
+      "source": "80",
+      "target": "160"
+    },
+    {
+      "id": "162",
+      "label": null,
+      "type": "link",
+      "x": "-194.22647",
+      "y": "-55.409397",
+      "notes": null,
+      "resources": [],
+      "source": "160",
+      "target": "89"
+    },
+    {
+      "id": "163",
+      "label": null,
+      "type": "link",
+      "x": "-155.19962",
+      "y": "-2.7099",
+      "notes": null,
+      "resources": [],
+      "source": "160",
+      "target": "91"
+    },
+    {
+      "id": "164",
+      "label": null,
+      "type": "link",
+      "x": "-166.27652",
+      "y": "226.34946",
+      "notes": null,
+      "resources": [],
+      "source": "112",
+      "target": "113"
+    },
+    {
+      "id": "165",
+      "label": null,
+      "type": "link",
+      "x": "-189.19232",
+      "y": "396.04443",
+      "notes": null,
+      "resources": [],
+      "source": "112",
+      "target": "117"
+    },
+    {
+      "id": "166",
+      "label": null,
+      "type": "link",
+      "x": "-190.04462",
+      "y": "573.53314",
+      "notes": null,
+      "resources": [],
+      "source": "112",
+      "target": "119"
+    },
+    {
+      "id": "167",
+      "label": null,
+      "type": "link",
+      "x": "-154.99716",
+      "y": "585.8482",
+      "notes": null,
+      "resources": [],
+      "source": "112",
+      "target": "121"
+    },
+    {
+      "id": "168",
+      "label": null,
+      "type": "link",
+      "x": "-156.95233",
+      "y": "585.8482",
+      "notes": null,
+      "resources": [],
+      "source": "112",
+      "target": "115"
+    },
+    {
+      "id": "170",
+      "label": null,
+      "type": "link",
+      "x": "-1309.6088",
+      "y": "-1006.28076",
+      "notes": null,
+      "resources": [],
+      "source": "117",
+      "target": "169"
+    },
+    {
+      "id": "171",
+      "label": null,
+      "type": "link",
+      "x": "331.6366",
+      "y": "-42.06444",
+      "notes": null,
+      "resources": [],
+      "source": "9",
+      "target": "62"
+    },
+    {
+      "id": "189",
+      "label": null,
+      "type": "link",
+      "x": "408.8609",
+      "y": "1325.2223",
+      "notes": null,
+      "resources": [],
+      "source": "174",
+      "target": "177"
+    },
+    {
+      "id": "190",
+      "label": null,
+      "type": "link",
+      "x": "410.36182",
+      "y": "1370.345",
+      "notes": null,
+      "resources": [],
+      "source": "174",
+      "target": "179"
+    },
+    {
+      "id": "191",
+      "label": null,
+      "type": "link",
+      "x": "413.067",
+      "y": "1416.9225",
+      "notes": null,
+      "resources": [],
+      "source": "174",
+      "target": "181"
+    },
+    {
+      "id": "192",
+      "label": null,
+      "type": "link",
+      "x": "413.04984",
+      "y": "1451.8071",
+      "notes": null,
+      "resources": [],
+      "source": "174",
+      "target": "183"
+    },
+    {
+      "id": "193",
+      "label": null,
+      "type": "link",
+      "x": "410.67648",
+      "y": "1451.8071",
+      "notes": null,
+      "resources": [],
+      "source": "174",
+      "target": "185"
+    },
+    {
+      "id": "194",
+      "label": null,
+      "type": "link",
+      "x": "408.38367",
+      "y": "1451.8071",
+      "notes": null,
+      "resources": [],
+      "source": "174",
+      "target": "187"
+    },
+    {
+      "id": "199",
+      "label": null,
+      "type": "link",
+      "x": "96.70303",
+      "y": "1103.805",
+      "notes": null,
+      "resources": [],
+      "source": "175",
+      "target": "195"
+    },
+    {
+      "id": "200",
+      "label": null,
+      "type": "link",
+      "x": "96.08377",
+      "y": "1152.2274",
+      "notes": null,
+      "resources": [],
+      "source": "175",
+      "target": "197"
+    },
+    {
+      "id": "223",
+      "label": null,
+      "type": "link",
+      "x": "-155.462",
+      "y": "1300.0889",
+      "notes": null,
+      "resources": [],
+      "source": "173",
+      "target": "205"
+    },
+    {
+      "id": "224",
+      "label": null,
+      "type": "link",
+      "x": "-158.73793",
+      "y": "1464.1892",
+      "notes": null,
+      "resources": [],
+      "source": "173",
+      "target": "203"
+    },
+    {
+      "id": "226",
+      "label": null,
+      "type": "link",
+      "x": "-151.59799",
+      "y": "1604.0901",
+      "notes": null,
+      "resources": [],
+      "source": "173",
+      "target": "215"
+    },
+    {
+      "id": "227",
+      "label": null,
+      "type": "link",
+      "x": "-150.39194",
+      "y": "1604.0901",
+      "notes": null,
+      "resources": [],
+      "source": "173",
+      "target": "213"
+    },
+    {
+      "id": "228",
+      "label": null,
+      "type": "link",
+      "x": "-194.11325",
+      "y": "1604.0901",
+      "notes": null,
+      "resources": [],
+      "source": "173",
+      "target": "219"
+    },
+    {
+      "id": "232",
+      "label": null,
+      "type": "link",
+      "x": "257.31268",
+      "y": "1433.492",
+      "notes": null,
+      "resources": [],
+      "source": "135",
+      "target": "174"
+    },
+    {
+      "id": "233",
+      "label": null,
+      "type": "link",
+      "x": "257.31268",
+      "y": "1261.9152",
+      "notes": null,
+      "resources": [],
+      "source": "135",
+      "target": "201"
+    },
+    {
+      "id": "234",
+      "label": null,
+      "type": "link",
+      "x": "164.0148",
+      "y": "1140.1174",
+      "notes": null,
+      "resources": [],
+      "source": "135",
+      "target": "175"
+    },
+    {
+      "id": "235",
+      "label": null,
+      "type": "link",
+      "x": "-11.010956",
+      "y": "1560.8508",
+      "notes": null,
+      "resources": [],
+      "source": "135",
+      "target": "173"
+    },
+    {
+      "id": "236",
+      "label": null,
+      "type": "link",
+      "x": "-152.49289",
+      "y": "1595.4275",
+      "notes": null,
+      "resources": [],
+      "source": "173",
+      "target": "217"
+    },
+    {
+      "id": "237",
+      "label": null,
+      "type": "link",
+      "x": "-151.34628",
+      "y": "1604.0898",
+      "notes": null,
+      "resources": [],
+      "source": "173",
+      "target": "221"
+    },
+    {
+      "id": "239",
+      "label": null,
+      "type": "link",
+      "x": "-1621.2516",
+      "y": "-1009.5054",
+      "notes": null,
+      "resources": [],
+      "source": "205",
+      "target": "238"
+    },
+    {
+      "id": "267",
+      "label": null,
+      "type": "link",
+      "x": "-3870.4243",
+      "y": "-404.54492",
+      "notes": null,
+      "resources": [],
+      "source": "248",
+      "target": "264"
+    },
+    {
+      "id": "268",
+      "label": null,
+      "type": "link",
+      "x": "-3839.7637",
+      "y": "-404.54565",
+      "notes": null,
+      "resources": [],
+      "source": "265",
+      "target": "264"
+    },
+    {
+      "id": "270",
+      "label": null,
+      "type": "link",
+      "x": "-3132.595",
+      "y": "-433.8828",
+      "notes": null,
+      "resources": [],
+      "source": "265",
+      "target": "269"
+    },
+    {
+      "id": "271",
+      "label": null,
+      "type": "link",
+      "x": "-3549.372",
+      "y": "-433.88013",
+      "notes": null,
+      "resources": [],
+      "source": "248",
+      "target": "269"
+    },
+    {
+      "id": "273",
+      "label": null,
+      "type": "link",
+      "x": "-4472.1055",
+      "y": "-511.87207",
+      "notes": null,
+      "resources": [],
+      "source": "246",
+      "target": "272"
+    },
+    {
+      "id": "277",
+      "label": null,
+      "type": "link",
+      "x": "-4755.3843",
+      "y": "-471.82227",
+      "notes": null,
+      "resources": [],
+      "source": "246",
+      "target": "276"
+    },
+    {
+      "id": "278",
+      "label": null,
+      "type": "link",
+      "x": "-4250.043",
+      "y": "-404.54565",
+      "notes": null,
+      "resources": [],
+      "source": "246",
+      "target": "264"
+    },
+    {
+      "id": "301",
+      "label": null,
+      "type": "link",
+      "x": "-4897.6235",
+      "y": "-687.8886",
+      "notes": null,
+      "resources": [],
+      "source": "276",
+      "target": "293"
+    },
+    {
+      "id": "302",
+      "label": null,
+      "type": "link",
+      "x": "-4911.8735",
+      "y": "-711.9254",
+      "notes": null,
+      "resources": [],
+      "source": "276",
+      "target": "281"
+    },
+    {
+      "id": "304",
+      "label": null,
+      "type": "link",
+      "x": "-4911.885",
+      "y": "-715.2785",
+      "notes": null,
+      "resources": [],
+      "source": "264",
+      "target": "281"
+    },
+    {
+      "id": "305",
+      "label": null,
+      "type": "link",
+      "x": "-4919.444",
+      "y": "-739.5675",
+      "notes": null,
+      "resources": [],
+      "source": "264",
+      "target": "282"
+    },
+    {
+      "id": "307",
+      "label": null,
+      "type": "link",
+      "x": "-5080.5684",
+      "y": "-337.34082",
+      "notes": null,
+      "resources": [],
+      "source": "246",
+      "target": "252"
+    },
+    {
+      "id": "308",
+      "label": null,
+      "type": "link",
+      "x": "-4581.499",
+      "y": "-825.1406",
+      "notes": null,
+      "resources": [],
+      "source": "246",
+      "target": "250"
+    },
+    {
+      "id": "309",
+      "label": null,
+      "type": "link",
+      "x": "-4379.782",
+      "y": "-714.0488",
+      "notes": null,
+      "resources": [],
+      "source": "246",
+      "target": "254"
+    },
+    {
+      "id": "310",
+      "label": null,
+      "type": "link",
+      "x": "-4252.188",
+      "y": "-686.9182",
+      "notes": null,
+      "resources": [],
+      "source": "246",
+      "target": "253"
+    },
+    {
+      "id": "311",
+      "label": null,
+      "type": "link",
+      "x": "-4550.0605",
+      "y": "-825.14795",
+      "notes": null,
+      "resources": [],
+      "source": "248",
+      "target": "250"
+    },
+    {
+      "id": "312",
+      "label": null,
+      "type": "link",
+      "x": "-3581.5107",
+      "y": "-553.1743",
+      "notes": null,
+      "resources": [],
+      "source": "248",
+      "target": "251"
+    },
+    {
+      "id": "313",
+      "label": null,
+      "type": "link",
+      "x": "-3746.9917",
+      "y": "-686.9219",
+      "notes": null,
+      "resources": [],
+      "source": "248",
+      "target": "253"
+    },
+    {
+      "id": "319",
+      "label": null,
+      "type": "link",
+      "x": "-5018.6934",
+      "y": "-337.341",
+      "notes": null,
+      "resources": [],
+      "source": "265",
+      "target": "252"
+    },
+    {
+      "id": "320",
+      "label": null,
+      "type": "link",
+      "x": "-4537.7017",
+      "y": "-825.1482",
+      "notes": null,
+      "resources": [],
+      "source": "265",
+      "target": "250"
+    },
+    {
+      "id": "321",
+      "label": null,
+      "type": "link",
+      "x": "-3715.7524",
+      "y": "-686.91846",
+      "notes": null,
+      "resources": [],
+      "source": "265",
+      "target": "253"
+    }
+  ]
+}

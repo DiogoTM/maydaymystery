@@ -1,0 +1,18 @@
+[
+  {
+    "derived_image": "research/derived_pdf_pages/032000tunnelpdf_page1.png",
+    "source_pdf_basename": "032000tunnelpdf.pdf",
+    "page": 1,
+    "render_scale_points_to_pixels": 2,
+    "sha256": "5b7db6785a739f466099f7b4d57deed399e683ec6ee303fa04c86831a233df1a",
+    "status": "processed"
+  },
+  {
+    "derived_image": "research/derived_pdf_pages/07-may1-HUGE_page1.png",
+    "source_pdf_basename": "07-may1-HUGE.pdf",
+    "page": 1,
+    "render_scale_points_to_pixels": 2,
+    "sha256": "208a0945282070d9c17c8fca2c9f54a4b0c95a61da5218de5429f33568dc8dff",
+    "status": "processed"
+  }
+]

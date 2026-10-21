@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1989_greek",
+    "source": "texts/My Scans/1989-05-01_page24.jpg",
+    "source_sha256": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+    "source_bbox": [
+      1715,
+      7271,
+      4140,
+      7516
+    ],
+    "languages": "grc+eng",
+    "psm": 6,
+    "tool": "tesseract",
+    "text": "x : ᾿\nἵνα πᾶν στόμα φαγῇ\n",
+    "stderr": "",
+    "returncode": 0,
+    "status": "additional_machine_unreviewed_not_canonical"
+  },
+  {
+    "id": "1989_hebrew",
+    "source": "texts/My Scans/1989-05-01_page24.jpg",
+    "source_sha256": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+    "source_bbox": [
+      1893,
+      7134,
+      4081,
+      7320
+    ],
+    "languages": "heb",
+    "psm": 6,
+    "tool": "tesseract",
+    "text": "| שפ בוזע?-בריבים\n",
+    "stderr": "",
+    "returncode": 0,
+    "status": "additional_machine_unreviewed_not_canonical"
+  },
+  {
+    "id": "1983_doctrine",
+    "source": "texts/maydaymystery.org/1983-11-22.jpg",
+    "source_sha256": "f7462a67f15087ebe57e1ee2495e66439a85535d1f97751a4b0c2d883835911e",
+    "source_bbox": [
+      48,
+      521,
+      340,
+      584
+    ],
+    "languages": "grc",
+    "psm": 6,
+    "tool": "tesseract",
+    "text": "οὗ γερ ὃν λόγω ἡ [βατιλεία\nτοῦ Θεοῦ, ἀλλ’ ἐν δυνᾶμει.\n",
+    "stderr": "",
+    "returncode": 0,
+    "status": "additional_machine_unreviewed_not_canonical"
+  },
+  {
+    "id": "1989_bottom",
+    "source": "texts/My Scans/1989-05-01_page24.jpg",
+    "source_sha256": "8a211830bdb78a841818c13124e4d1839ed2b23aa1fd19893bedf1150210dadd",
+    "source_bbox": [
+      118,
+      7643,
+      5738,
+      9799
+    ],
+    "languages": "eng+lat+deu",
+    "psm": 3,
+    "tool": "tesseract",
+    "text": "— We Call nose hd}\n\nee. a ER si DONA NOM See ATABBRERER SERA: SICH SAU, IM NOE YEUDD LEI GERIET ET IGL 2 UUI\nhis own.” 1) The day: 2,447,703.5(JD) 2) The hour: 23°24’; 4°19’;19° 46°;22 °37’ 3)\nThe place: Gmisus) - E bu p E Bb Lt. rax f\n\n4) “where the ragged people go, to the places only they would know”: The Asylum\n\nChoir will meet in joint session with the Midget Tag Team at Travelers' Rest to program\n\nthe Summer Tour. The Orphanage will supply the refreshments: Chateau Lafitte '29 for\nthe apéritif, Sterno for the doch-an-dorrach. Reservations must have been made consule\nPlanco. Contact either Mistah Kurtz or Owsley for room numbers (\"quorum numerus est\nsicut arena maris\"). 5) “Reformation, hops and beer came into England all in a\nyear\": Winthrop and Schródinger are currently assaying the latest Net Tonnage from\nthe \"Arbella\", metallurgical print-outs are expected by the 459th Anniversary of the\nConfessio Augustana. 6) **History is different because Thaddeus Stevens was born\nwith a clubfoot and thereby identified with the losers of the world.”:“et ea quae non\nsunt, ut ea quae sunt destrueret. . .\" * Ora pro nobis, ora pro me. *\n\nT cuan]\n\nJeyony ^y Jod se 'Teoruou?o—\n",
+    "stderr": "Estimating resolution as 971\n",
+    "returncode": 0,
+    "status": "additional_machine_unreviewed_not_canonical"
+  }
+]

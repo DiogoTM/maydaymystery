@@ -1,0 +1,11 @@
+{
+  "texts/My Scans/1988-04-27_page16.jpg":{"publication_date":"1988-04-27","evidence":"Visible header: Wednesday, April 27, 1988, page 16. Advertisement title: May Day, 1988. Region [0,0,1,0.05]."},
+  "texts/maydaymystery.org/1988-05-01.jpg":{"publication_date":"1988-04-27","evidence":"Registered to researcher April 27 header witness: 517 SIFT inliers, 84% archive image feature coverage; May 1 preserved as thematic catalog alias. Does not assert a separate May 1 publication."},
+  "texts/My Scans/1989-05-01_page24.jpg":{"publication_date":"1989-05-01","evidence":"Visible newspaper header: Monday, May 1, 1989; page 24. Region [0,0,1,0.03]."},
+  "texts/maydaymystery.org/1989-05-01.jpg":{"publication_date":"1989-05-01","evidence":"Visible header and 472-inlier registration to researcher witness."},
+  "texts/My Scans/1994-04-29_page16.jpg":{"publication_date":"1994-04-29","evidence":"Visible header: Friday, April 29, 1994, page 16. Ad title: May Day, 1994. Region [0,0,1,0.05]."},
+  "texts/maydaymystery.org/1994-05-01.jpg":{"publication_date":"1994-04-29","evidence":"Registered to April 29 header witness: 390 SIFT inliers, 90% archive image feature coverage. May 1 preserved as thematic alias; no extra publication inferred."},
+  "texts/maydaymystery.org/2000-09-20.jpg":{"publication_date":"2000-09-20","evidence":"Visible header: Wednesday, September 20, 2000, page 24. Region [0,0,1,0.04]."},
+  "texts/My Scans/2007-05-01_page25.jpg":{"publication_date":"2007-05-01","evidence":"Visible header: Tuesday, May 1, 2007, page 25. Region [0,0,1,0.04]."},
+  "texts/maydaymystery.org/2007-05-01.jpg":{"publication_date":"2007-05-01","evidence":"Header and 534-inlier registration to researcher witness."}
+}

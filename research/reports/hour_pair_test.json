@@ -1,0 +1,72 @@
+{
+  "id": "H7",
+  "hypothesis": "The four hour pairs in May 1989 could be Bible chapter-and-verse addresses.",
+  "source": "texts/My Scans/1989-05-01_page24.jpg",
+  "region": [
+    0.18,
+    0.78,
+    0.96,
+    0.82
+  ],
+  "pairs": [
+    [
+      23,
+      24
+    ],
+    [
+      4,
+      19
+    ],
+    [
+      19,
+      46
+    ],
+    [
+      22,
+      37
+    ]
+  ],
+  "prediction": "One canonical book admits all four pairs without changing their order or values.",
+  "matches": [
+    {
+      "dataset_name": "Lucas",
+      "abbrev": "lc",
+      "canonical_position": 42
+    }
+  ],
+  "interpretation": "Luke is the only compatible book in this 66-book chapter/verse table.",
+  "selected_texts": [
+    {
+      "reference": "Luke 23:24",
+      "text": "And Pilate gave sentence that it should be as they required."
+    },
+    {
+      "reference": "Luke 4:19",
+      "text": "To preach the acceptable year of the Lord."
+    },
+    {
+      "reference": "Luke 19:46",
+      "text": "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves."
+    },
+    {
+      "reference": "Luke 22:37",
+      "text": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end."
+    }
+  ],
+  "control": {
+    "seed": 19890501,
+    "trials": 10000,
+    "method": "Fix chapter numbers; draw each verse number uniformly from 1..59 (angle minutes excluding zero).",
+    "any_compatible_book_fraction": 0.5907,
+    "unique_compatible_book_fraction": 0.316
+  },
+  "result": "structurally_compatible_candidate_not_a_decoding",
+  "limitations": [
+    "Bible interpretation selected after seeing corpus themes; no correction for trying other representations.",
+    "The control is exploratory and does not model the original author or all alternative encodings.",
+    "No specified procedure turns the verses into a clock time.",
+    "This test covers one document and supplies no blind holdout success.",
+    "Book labels in the public dataset are Portuguese; verse content is English KJV."
+  ],
+  "provenance": "research/provenance/reference_retrievals.json"
+}

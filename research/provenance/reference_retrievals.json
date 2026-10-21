@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://arxiv.org/pdf/astro-ph/0112531",
+    "path": "external/references/folds.pdf",
+    "retrieved_utc": "2026-10-21T05:53:45.838554+00:00",
+    "sha256": "45960a14b64eadc968e9c5ca87cdcd15aa9ed25efb578031caeae372ac7853d5",
+    "bytes": 759197
+  },
+  {
+    "url": "https://www.astronomy.ohio-state.edu/gaudi.1/ms98001.pdf",
+    "path": "external/references/macho.pdf",
+    "retrieved_utc": "2026-10-21T05:53:48.484601+00:00",
+    "sha256": "10eb52d646bd88e898367f66d6fd9010ea7f2e7a083894b355bdbd568e0e5c03",
+    "bytes": 224554
+  },
+  {
+    "url": "https://raw.githubusercontent.com/thiagobodruk/bible/master/json/en_kjv.json",
+    "path": "external/references/kjv.json",
+    "retrieved_utc": "2026-10-21T05:53:52.211560+00:00",
+    "sha256": "fc99486e7d3b86e4ad1f0f424b36ab41b4ec4db858a776bd13aee1b7910f136b",
+    "bytes": 4247581
+  }
+]

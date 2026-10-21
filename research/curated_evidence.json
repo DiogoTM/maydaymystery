@@ -1,0 +1,351 @@
+{
+  "reviewed_utc": "2026-10-21",
+  "method": "Human-readable multimodal inspection of recovered repository scans. Region coordinates are approximate normalized [left,top,right,bottom], not OCR boxes. Short excerpts are reviewed separately from machine OCR.",
+  "assertions": [
+    {
+      "id": "E1",
+      "source": "texts/maydaymystery.org/1989-09-27.jpg",
+      "target_date": "1989-05-01",
+      "relation": "addresses_interpretive_level",
+      "level": 3,
+      "region": [
+        0.02,
+        0.39,
+        0.8,
+        0.57
+      ],
+      "excerpt": "Apply the Third Level (via Owsley and the quadrigae): A.D.W., 5/1/89",
+      "confidence": "high",
+      "previously_reported_by": "https://srcl.net/corpus"
+    },
+    {
+      "id": "E2",
+      "source": "texts/maydaymystery.org/1998-12-02.jpg",
+      "target_date": "1989-05-01",
+      "relation": "addresses_interpretive_level",
+      "level": 2,
+      "region": [
+        0.16,
+        0.32,
+        0.83,
+        0.5
+      ],
+      "excerpt": "Second Level: [diagram] ADW, 5/1/89",
+      "confidence": "high",
+      "previously_reported_by": "https://srcl.net/corpus"
+    },
+    {
+      "id": "E3",
+      "source": "texts/maydaymystery.org/2006-05-01.jpg",
+      "target_date": "1989-05-01",
+      "relation": "addresses_interpretive_level",
+      "level": 4,
+      "region": [
+        0,
+        0.2,
+        1,
+        0.55
+      ],
+      "excerpt": "5/1/89, FOURTH LEVEL",
+      "confidence": "high",
+      "previously_reported_by": "https://srcl.net/corpus"
+    },
+    {
+      "id": "E4",
+      "source": "texts/maydaymystery.org/2000-09-20.jpg",
+      "target_date": "1983-11-22",
+      "relation": "refers_to_schedule",
+      "region": [
+        0.49,
+        0.78,
+        0.94,
+        0.87
+      ],
+      "excerpt": "DATE AND HOUR as per ADW, 11/22/83",
+      "confidence": "high",
+      "previously_reported_by": "https://srcl.net/corpus"
+    },
+    {
+      "id": "E5",
+      "source": "texts/maydaymystery.org/1984-09-13.jpg",
+      "target_date": "1985-03-15",
+      "relation": "announces_future_reference",
+      "region": [
+        0.1,
+        0.48,
+        0.38,
+        0.72
+      ],
+      "excerpt": "Vide ADW (D.V.) 3/15/85 for: 1) Khartoum coordinates",
+      "confidence": "high",
+      "previously_reported_by": "https://srcl.net/corpus"
+    },
+    {
+      "id": "E6",
+      "source": "texts/maydaymystery.org/1998-12-02.jpg",
+      "target_date": "1988-01-20",
+      "relation": "addresses_interpretive_level",
+      "level": 4,
+      "region": [
+        0.06,
+        0.72,
+        0.96,
+        0.8
+      ],
+      "excerpt": "ADW, 1/20/88, Fourth Level",
+      "confidence": "high",
+      "previously_reported_by": "https://srcl.net/corpus"
+    },
+    {
+      "id": "E7",
+      "source": "texts/maydaymystery.org/1988-01-20.jpg",
+      "relation": "enumerates_levels",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "region": [
+        0.67,
+        0.58,
+        0.97,
+        0.68
+      ],
+      "excerpt": "1st Level ... 2nd Level ... 3rd Level ... 4th Level ... 5th Level",
+      "confidence": "high",
+      "scope_warning": "The word quadrigae is not attached to this numbered list. Does not disprove every four-sense reading.",
+      "previously_reported_by": "https://srcl.net/corpus"
+    },
+    {
+      "id": "E8",
+      "source": "texts/maydaymystery.org/1989-05-01.jpg",
+      "relation": "prints_julian_day",
+      "value": 2447703.5,
+      "region": [
+        0.19,
+        0.79,
+        0.52,
+        0.82
+      ],
+      "excerpt": "The day: 2,447,703.5(JD)",
+      "confidence": "high",
+      "source_publication_date": "1989-05-01",
+      "date_evidence": "Visible newspaper header, Monday May 1, 1989; right edge damaged."
+    },
+    {
+      "id": "E9",
+      "source": "texts/maydaymystery.org/2006-05-01.jpg",
+      "relation": "names_confessional_political_canon",
+      "entities": [
+        "Martin Luther",
+        "John Calvin",
+        "Gustavus Adolphus",
+        "Oliver Cromwell"
+      ],
+      "region": [
+        0,
+        0.62,
+        1,
+        0.85
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "E10",
+      "source": "texts/maydaymystery.org/2015-05-01.jpg",
+      "relation": "names_confessional_political_canon",
+      "entities": [
+        "Martin Luther",
+        "John Calvin",
+        "Oliver Cromwell"
+      ],
+      "ambiguous_abbreviations": [
+        "G.A."
+      ],
+      "region": [
+        0.1,
+        0.78,
+        0.94,
+        0.88
+      ],
+      "confidence": "high",
+      "scope_warning": "G.A. is not independently expanded as Gustavus Adolphus."
+    },
+    {
+      "id": "E11",
+      "source": "texts/maydaymystery.org/2005-06-22_1.jpg",
+      "target_date": "1989-05-01",
+      "relation": "diagram_date_callback",
+      "region": [
+        0.65,
+        0.16,
+        0.98,
+        0.78
+      ],
+      "excerpt": "5/1/89 [upper semicircle]; 6/25/05 [lower semicircle]; Source limb; Outside fold; Inside fold",
+      "confidence": "high",
+      "novelty": "Independently observed in this run; no claim of first discovery."
+    },
+    {
+      "id": "E12",
+      "source": "texts/My Scans/1989-05-01_page24.jpg",
+      "target_date": "1990-05-01",
+      "relation": "altered_greek_repeated_under_explicit_scordatura_label",
+      "original": "ἵνα πᾶν στόμα φάγῃ",
+      "english": "so that every mouth may eat",
+      "contrast": "Romans 3:19: ἵνα πᾶν στόμα φραγῇ, so that every mouth may be stopped",
+      "region": [
+        0.29,
+        0.742,
+        0.7,
+        0.767
+      ],
+      "comparison_source": "texts/maydaymystery.org/1990-05-01.jpg",
+      "confidence": "high for missing rho and explicit callback; accents deserve diplomatic review",
+      "prior_art": "Archived reader comments on 90-may1.html; independently reproduced, not a new discovery."
+    },
+    {
+      "id": "E13",
+      "source": "texts/My Scans/2008-04-02_page14.jpg",
+      "target_date": "1989-05-01",
+      "relation": "names_metric_for_interpretive_level",
+      "level": 2,
+      "region": [
+        0.05,
+        0.35,
+        0.94,
+        0.425
+      ],
+      "excerpt": "Levenshtein distance: ADW, 5/1/89, Level II.",
+      "confidence": "high for printed pointer; operands unspecified",
+      "note": "Both archive and researcher images reviewed. Researcher OCR incorrectly returns Level I; raw OCR preserved."
+    },
+    {
+      "id": "E14",
+      "source": "texts/My Scans/2008-04-02_page14.jpg",
+      "target_date": "1990-05-01",
+      "relation": "addresses_interpretive_level",
+      "level": 3,
+      "region": [
+        0.05,
+        0.43,
+        0.96,
+        0.48
+      ],
+      "excerpt": "transport of ADW, 5/1/90, Level III",
+      "confidence": "high",
+      "note": "Printed fictional/narrative transport instruction; real-world operation is not authenticated."
+    },
+    {
+      "id": "E15",
+      "source": "texts/My Scans/2009-05-01_page8.jpg",
+      "target_date": "1989-05-01",
+      "relation": "requests_extrapolation_from_matrix",
+      "region": [
+        0.54,
+        0.295,
+        0.98,
+        0.335
+      ],
+      "excerpt": "extrapolate hour and minute: 5/1/89, matrix [Romberg-Beleznay cum Thomas Bradwardine’s (patented) sub rosa modification.]",
+      "confidence": "high for date and named methods; procedure unresolved",
+      "note": "Archived 09-may1.html reader commentary reverses year to 1998. Image reads 89."
+    },
+    {
+      "id": "E16",
+      "source": "texts/My Scans/1989-05-01_page24.jpg",
+      "target_date": null,
+      "relation": "has_exact_adjoint_sl3_model",
+      "region": [
+        0.67,
+        0.687,
+        0.935,
+        0.765
+      ],
+      "confidence": "exact conditional on reviewed transcription; second independent transcriber pending",
+      "method": "Symbolic commutator closure and eight exact intertwining identities, no entry repair.",
+      "structured_source": "research/matrix_1989.json",
+      "computation": "research/reports/matrix_algebra_test.json",
+      "note": "Computed structural identification, not printed prose or a general decoder. Primes modeled independently; real form not established."
+    }
+  ],
+  "scan_relationships": [
+    {
+      "a": "texts/My Scans/2015-05-01_page15.jpg",
+      "b": "texts/maydaymystery.org/2015-05-01.jpg",
+      "decision": "same_advertisement_design_scan_variants",
+      "reason": "Same textual sequence, three brace separators, coordinates, canon labels and face mark. Newspaper scan carries an obstructing WEEKEND overlay; clean archive version differs in crop and rendition. Both preserved.",
+      "phash_distance": 26
+    },
+    {
+      "a": "texts/maydaymystery.org/2004-06-16.jpg",
+      "b": "texts/maydaymystery.org/2004-08-04.jpg",
+      "decision": "different_advertisements",
+      "reason": "Similar wide bordered SR/CL (Unscheduled) layout, substantially different text. False perceptual duplicate candidate.",
+      "phash_distance": 12
+    },
+    {
+      "a": "texts/maydaymystery.org/2005-06-22_1.jpg",
+      "b": "texts/maydaymystery.org/2005-06-22_2.jpg",
+      "decision": "detail_crop_of_same_advertisement",
+      "reason": "Second file enlarges the source-limb circle in the first; it is not a second page.",
+      "phash_distance": 32
+    }
+  ],
+  "selected_translations": [
+    {
+      "source": "texts/maydaymystery.org/1983-11-22.jpg",
+      "region": [
+        0.1,
+        0.09,
+        0.89,
+        0.13
+      ],
+      "language": "Latin",
+      "original": "Viam Inveniemus Aut Faciemus",
+      "english": "We shall find a way or make one.",
+      "status": "reviewed phrase translation; attribution to Hannibal not historically authenticated here"
+    },
+    {
+      "source": "texts/maydaymystery.org/1983-11-22.jpg",
+      "region": [
+        0.39,
+        0.61,
+        0.66,
+        0.65
+      ],
+      "language": "German",
+      "original": "Weltanschauung",
+      "english": "Worldview.",
+      "status": "reviewed translation; exact field location is the VI heading"
+    },
+    {
+      "source": "texts/maydaymystery.org/1988-01-20.jpg",
+      "region": [
+        0.68,
+        0.65,
+        0.85,
+        0.67
+      ],
+      "language": "Latin",
+      "original": "Age quid agis",
+      "english": "Attend to what you are doing.",
+      "status": "idiomatic translation; not a decoded instruction"
+    },
+    {
+      "source": "texts/maydaymystery.org/2000-09-20.jpg",
+      "region": [
+        0.72,
+        0.91,
+        0.93,
+        0.93
+      ],
+      "language": "Latin",
+      "original": "et pulsanti aperietur",
+      "english": "And to the one who knocks, it will be opened.",
+      "status": "reviewed translation of printed failsafe; scriptural allusion, no operational mechanism established"
+    }
+  ]
+}

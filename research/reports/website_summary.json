@@ -1,0 +1,14 @@
+{
+  "html_pages": 716,
+  "unique_page_hashes": 716,
+  "dated_ad_context_pages": 101,
+  "date_labels": 99,
+  "kinds": {
+    "correspondence_or_research_page_unclassified": 579,
+    "advertisement_context_mixed_with_reader_comments": 101,
+    "attributed_correspondence_with_possible_editorial_comment": 36
+  },
+  "pages_with_decode_replacements": 103,
+  "method_leads": 15,
+  "limitation": "Page text mixes prior researchers, attributed correspondence, and editorial commentary; it is never substituted for primary scan text. Sender identities unauthenticated."
+}

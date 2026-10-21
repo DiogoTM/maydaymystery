@@ -1,0 +1,274 @@
+[
+  {
+    "a": "texts/My Scans/1993-05-03_page16.jpg",
+    "b": "texts/maydaymystery.org/1993-05-03.jpg",
+    "phash_distance": 0,
+    "dhash_distance": 5,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1994-04-29_page16.jpg",
+    "b": "texts/maydaymystery.org/1994-05-01.jpg",
+    "phash_distance": 4,
+    "dhash_distance": 12,
+    "status": "candidate_requires_visual_review",
+    "same_date": false
+  },
+  {
+    "a": "texts/My Scans/1997-05-01_page28.jpg",
+    "b": "texts/maydaymystery.org/1997-05-01.jpg",
+    "phash_distance": 6,
+    "dhash_distance": 6,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1998-05-01_page20.jpg",
+    "b": "texts/maydaymystery.org/1998-05-01.jpg",
+    "phash_distance": 6,
+    "dhash_distance": 21,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1989-05-01_page24.jpg",
+    "b": "texts/maydaymystery.org/1989-05-01.jpg",
+    "phash_distance": 8,
+    "dhash_distance": 11,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2008-05-01_page13.jpg",
+    "b": "texts/maydaymystery.org/2008-05-01.jpg",
+    "phash_distance": 8,
+    "dhash_distance": 10,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1988-04-27_page16.jpg",
+    "b": "texts/maydaymystery.org/1988-05-01.jpg",
+    "phash_distance": 10,
+    "dhash_distance": 8,
+    "status": "candidate_requires_visual_review",
+    "same_date": false
+  },
+  {
+    "a": "texts/My Scans/1990-05-01_page25.jpg",
+    "b": "texts/maydaymystery.org/1990-05-01.jpg",
+    "phash_distance": 10,
+    "dhash_distance": 6,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1995-05-01_page16.jpg",
+    "b": "texts/maydaymystery.org/1995-05-01.jpg",
+    "phash_distance": 10,
+    "dhash_distance": 12,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1999-04-30_page24.jpg",
+    "b": "texts/maydaymystery.org/1999-05-01.jpg",
+    "phash_distance": 10,
+    "dhash_distance": 6,
+    "status": "candidate_requires_visual_review",
+    "same_date": false
+  },
+  {
+    "a": "texts/My Scans/2001-05-01_page6.jpg",
+    "b": "texts/maydaymystery.org/2001-05-01_1.jpg",
+    "phash_distance": 10,
+    "dhash_distance": 12,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2001-05-01_page7.jpg",
+    "b": "texts/maydaymystery.org/2001-05-01_2.jpg",
+    "phash_distance": 10,
+    "dhash_distance": 10,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2000-05-01_page32.jpg",
+    "b": "texts/maydaymystery.org/2000-05-01.jpg",
+    "phash_distance": 12,
+    "dhash_distance": 8,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2002-05-01_page20.jpg",
+    "b": "texts/maydaymystery.org/2002-05-01.jpg",
+    "phash_distance": 12,
+    "dhash_distance": 5,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2007-05-01_page25.jpg",
+    "b": "texts/maydaymystery.org/2007-05-01.jpg",
+    "phash_distance": 12,
+    "dhash_distance": 9,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/maydaymystery.org/2004-06-16.jpg",
+    "b": "texts/maydaymystery.org/2004-08-04.jpg",
+    "phash_distance": 12,
+    "dhash_distance": 23,
+    "status": "candidate_requires_visual_review",
+    "same_date": false
+  },
+  {
+    "a": "texts/My Scans/1991-05-01_page6A.jpg",
+    "b": "texts/maydaymystery.org/1991-05-01.jpg",
+    "phash_distance": 14,
+    "dhash_distance": 8,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1999-12-01_page12.jpg",
+    "b": "texts/maydaymystery.org/1999-12-01.jpg",
+    "phash_distance": 14,
+    "dhash_distance": 10,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2005-04-29_page11.jpg",
+    "b": "texts/maydaymystery.org/2005-04-29.jpg",
+    "phash_distance": 14,
+    "dhash_distance": 19,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2005-06-22_page15.jpg",
+    "b": "texts/maydaymystery.org/2005-06-22_1.jpg",
+    "phash_distance": 14,
+    "dhash_distance": 16,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2006-05-01_page12.jpg",
+    "b": "texts/maydaymystery.org/2006-05-01.jpg",
+    "phash_distance": 14,
+    "dhash_distance": 13,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2008-04-02_page14.jpg",
+    "b": "texts/maydaymystery.org/2008-04-02.jpg",
+    "phash_distance": 14,
+    "dhash_distance": 14,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/maydaymystery.org/2008-05-01.jpg",
+    "b": "texts/maydaymystery.org/2008-05-01_color.jpg",
+    "phash_distance": 14,
+    "dhash_distance": 9,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2008-05-01_page13.jpg",
+    "b": "texts/maydaymystery.org/2008-05-01_color.jpg",
+    "phash_distance": 16,
+    "dhash_distance": 11,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2016-12-07_pageB23.jpg",
+    "b": "texts/maydaymystery.org/2016-12-07.jpg",
+    "phash_distance": 18,
+    "dhash_distance": 7,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1992-05-01_page20.jpg",
+    "b": "texts/maydaymystery.org/1992-05-01.jpg",
+    "phash_distance": 20,
+    "dhash_distance": 14,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/1996-05-01_page24.jpg",
+    "b": "texts/maydaymystery.org/1996-05-01.jpg",
+    "phash_distance": 22,
+    "dhash_distance": 15,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2015-05-01_page15.jpg",
+    "b": "texts/maydaymystery.org/2015-05-01.jpg",
+    "phash_distance": 26,
+    "dhash_distance": 25,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2005-06-22_page15.jpg",
+    "b": "texts/maydaymystery.org/2005-06-22_2.jpg",
+    "phash_distance": 30,
+    "dhash_distance": 32,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/maydaymystery.org/2005-06-22_1.jpg",
+    "b": "texts/maydaymystery.org/2005-06-22_2.jpg",
+    "phash_distance": 32,
+    "dhash_distance": 32,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2001-05-01_page6.jpg",
+    "b": "texts/maydaymystery.org/2001-05-01_2.jpg",
+    "phash_distance": 34,
+    "dhash_distance": 30,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2001-05-01_page6.jpg",
+    "b": "texts/My Scans/2001-05-01_page7.jpg",
+    "phash_distance": 38,
+    "dhash_distance": 34,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/maydaymystery.org/2001-05-01_1.jpg",
+    "b": "texts/maydaymystery.org/2001-05-01_2.jpg",
+    "phash_distance": 38,
+    "dhash_distance": 32,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/My Scans/2001-05-01_page7.jpg",
+    "b": "texts/maydaymystery.org/2001-05-01_1.jpg",
+    "phash_distance": 40,
+    "dhash_distance": 38,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  }
+]
