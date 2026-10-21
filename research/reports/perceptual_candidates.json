@@ -1,0 +1,34 @@
+[
+  {
+    "a": "texts/maydaymystery.org/2004-06-16.jpg",
+    "b": "texts/maydaymystery.org/2004-08-04.jpg",
+    "phash_distance": 12,
+    "dhash_distance": 23,
+    "status": "candidate_requires_visual_review",
+    "same_date": false
+  },
+  {
+    "a": "texts/My Scans/2015-05-01_page15.jpg",
+    "b": "texts/maydaymystery.org/2015-05-01.jpg",
+    "phash_distance": 26,
+    "dhash_distance": 25,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/maydaymystery.org/2005-06-22_1.jpg",
+    "b": "texts/maydaymystery.org/2005-06-22_2.jpg",
+    "phash_distance": 32,
+    "dhash_distance": 32,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  },
+  {
+    "a": "texts/maydaymystery.org/2001-05-01_1.jpg",
+    "b": "texts/maydaymystery.org/2001-05-01_2.jpg",
+    "phash_distance": 38,
+    "dhash_distance": 32,
+    "status": "candidate_requires_visual_review",
+    "same_date": true
+  }
+]

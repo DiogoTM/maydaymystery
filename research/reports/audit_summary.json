@@ -1,0 +1,68 @@
+{
+  "source": "local repository files; not a census of all published Mayday advertisements",
+  "scan_file_count": 103,
+  "distinct_dates": 100,
+  "original_archive_files": 102,
+  "researcher_scan_files": 1,
+  "sha256_exact_duplicate_groups": [],
+  "dates_with_multiple_files": {
+    "2001-05-01": [
+      "texts/maydaymystery.org/2001-05-01_1.jpg",
+      "texts/maydaymystery.org/2001-05-01_2.jpg"
+    ],
+    "2005-06-22": [
+      "texts/maydaymystery.org/2005-06-22_1.jpg",
+      "texts/maydaymystery.org/2005-06-22_2.jpg"
+    ],
+    "2015-05-01": [
+      "texts/maydaymystery.org/2015-05-01.jpg",
+      "texts/My Scans/2015-05-01_page15.jpg"
+    ]
+  },
+  "years_covered": [
+    "1981",
+    "1982",
+    "1983",
+    "1984",
+    "1985",
+    "1986",
+    "1987",
+    "1988",
+    "1989",
+    "1990",
+    "1991",
+    "1992",
+    "1993",
+    "1994",
+    "1995",
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+  ],
+  "limitations": [
+    "Different scans of the same advertisement may have different hashes.",
+    "Missing years and dates cannot be established without a trusted independent publication ledger.",
+    "The script does not transcribe or interpret the images."
+  ]
+}

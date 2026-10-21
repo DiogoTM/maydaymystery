@@ -1,0 +1,67 @@
+[
+  {
+    "path": ".gitattributes",
+    "restored_git_blob": "4ed533b25b2de0c99245701962e74718da93c9ee",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": ".gitignore",
+    "restored_git_blob": "6aa7146bac74659c8dab201a93d4a54d4e38ae2c",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "README.md",
+    "restored_git_blob": "53bfc61d46d52eada816f369588f10d51a66c0d7",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "megamap.vue",
+    "restored_git_blob": "2f2c0713cfee072995c3efe5397896bed5a96990",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/My Scans/README.md",
+    "restored_git_blob": "7c254b5a063310ae967f1deead63295aaa38f4b9",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/My Scans/md_gen.py",
+    "restored_git_blob": "2634c2c9d2bfa3905f9197fdf3a8d78558673f73",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/README.md",
+    "restored_git_blob": "fba2cb8baf4822e88a2dac082ffda0b477f9c977",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/maydaymystery.org/Preparation Scripts/convert.py",
+    "restored_git_blob": "ef1cc450781edf6c93225cb7f52c1ac52244f113",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/maydaymystery.org/Preparation Scripts/sort.py",
+    "restored_git_blob": "a77cecd4c3da6bba2434d799179c4c30b37a8053",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/maydaymystery.org/README.md",
+    "restored_git_blob": "c49ffce5ef3febd96ce50f55fab36f6025eb2e1d",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/maydaymystery.org/md_gen.py",
+    "restored_git_blob": "a3165d65cebd6d9f4dfb0a457997d90e52ca35c5",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/order1.txt",
+    "restored_git_blob": "87bd93cf6f6345b18218ee52d83184e1baf382cf",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  },
+  {
+    "path": "texts/order2.txt",
+    "restored_git_blob": "36981651b0255fcba5113fbad1259a567f4ecee1",
+    "note": "Removed connector-to-local patch newline wrapper; preserved transfer version under provenance/transfer_wrappers. Restored bytes match remote blob."
+  }
+]

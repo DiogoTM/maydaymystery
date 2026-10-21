@@ -1,0 +1,155 @@
+{
+  "remote_files": 234,
+  "remote_bytes": 294608810,
+  "local_files": 197,
+  "verified_files": 197,
+  "collections": {
+    "research_artifact": 15,
+    "art": 38,
+    "research_pdf": 3,
+    "research_crop": 44,
+    "researcher_scan": 26,
+    "preview": 1,
+    "archive_scan": 107
+  },
+  "accessible_scans": 103,
+  "remote_scan_files": 133,
+  "scan_filename_dates": 108,
+  "sha256_duplicate_groups": [],
+  "remote_git_duplicate_groups": [],
+  "same_date_groups": {
+    "1989-05-01": [
+      "texts/My Scans/1989-05-01_page24.jpg",
+      "texts/maydaymystery.org/1989-05-01.jpg"
+    ],
+    "1990-05-01": [
+      "texts/My Scans/1990-05-01_page25.jpg",
+      "texts/maydaymystery.org/1990-05-01.jpg"
+    ],
+    "1991-05-01": [
+      "texts/My Scans/1991-05-01_page6A.jpg",
+      "texts/maydaymystery.org/1991-05-01.jpg"
+    ],
+    "1992-05-01": [
+      "texts/My Scans/1992-05-01_page20.jpg",
+      "texts/maydaymystery.org/1992-05-01.jpg"
+    ],
+    "1993-05-03": [
+      "texts/My Scans/1993-05-03_page16.jpg",
+      "texts/maydaymystery.org/1993-05-03.jpg"
+    ],
+    "1995-05-01": [
+      "texts/My Scans/1995-05-01_page16.jpg",
+      "texts/maydaymystery.org/1995-05-01.jpg"
+    ],
+    "1996-05-01": [
+      "texts/My Scans/1996-05-01_page24.jpg",
+      "texts/maydaymystery.org/1996-05-01.jpg"
+    ],
+    "1997-05-01": [
+      "texts/My Scans/1997-05-01_page28.jpg",
+      "texts/maydaymystery.org/1997-05-01.jpg"
+    ],
+    "1998-05-01": [
+      "texts/My Scans/1998-05-01_page20.jpg",
+      "texts/maydaymystery.org/1998-05-01.jpg"
+    ],
+    "1999-12-01": [
+      "texts/My Scans/1999-12-01_page12.jpg",
+      "texts/maydaymystery.org/1999-12-01.jpg"
+    ],
+    "2000-05-01": [
+      "texts/My Scans/2000-05-01_page32.jpg",
+      "texts/maydaymystery.org/2000-05-01.jpg"
+    ],
+    "2001-05-01": [
+      "texts/My Scans/2001-05-01_page6.jpg",
+      "texts/My Scans/2001-05-01_page7.jpg",
+      "texts/maydaymystery.org/2001-05-01_1.jpg",
+      "texts/maydaymystery.org/2001-05-01_2.jpg"
+    ],
+    "2002-05-01": [
+      "texts/My Scans/2002-05-01_page20.jpg",
+      "texts/maydaymystery.org/2002-05-01.jpg"
+    ],
+    "2005-04-29": [
+      "texts/My Scans/2005-04-29_page11.jpg",
+      "texts/maydaymystery.org/2005-04-29.jpg"
+    ],
+    "2005-06-22": [
+      "texts/My Scans/2005-06-22_page15.jpg",
+      "texts/maydaymystery.org/2005-06-22_1.jpg",
+      "texts/maydaymystery.org/2005-06-22_2.jpg"
+    ],
+    "2006-05-01": [
+      "texts/My Scans/2006-05-01_page12.jpg",
+      "texts/maydaymystery.org/2006-05-01.jpg"
+    ],
+    "2007-05-01": [
+      "texts/My Scans/2007-05-01_page25.jpg",
+      "texts/maydaymystery.org/2007-05-01.jpg"
+    ],
+    "2008-04-02": [
+      "texts/My Scans/2008-04-02_page14.jpg",
+      "texts/maydaymystery.org/2008-04-02.jpg"
+    ],
+    "2008-05-01": [
+      "texts/My Scans/2008-05-01_page13.jpg",
+      "texts/maydaymystery.org/2008-05-01.jpg",
+      "texts/maydaymystery.org/2008-05-01_color.jpg"
+    ],
+    "2015-05-01": [
+      "texts/My Scans/2015-05-01_page15.jpg",
+      "texts/maydaymystery.org/2015-05-01.jpg"
+    ],
+    "2016-12-07": [
+      "texts/My Scans/2016-12-07_pageB23.jpg",
+      "texts/maydaymystery.org/2016-12-07.jpg"
+    ]
+  },
+  "missing_local": [
+    "art/figures/lines-triangle.png",
+    "art/pages/mayday_sidebyside.jpg",
+    "art/pages/mdm.png",
+    "megamap.pdf",
+    "megamap_files/clips/1989-05-01_page24/etc-cromwell.jpg",
+    "misc/exdat_notes_Charlie_Piggott.pdf",
+    "texts/My Scans/1988-04-27_page16.jpg",
+    "texts/My Scans/1989-05-01_page24.jpg",
+    "texts/My Scans/1990-05-01_page25.jpg",
+    "texts/My Scans/1991-05-01_page6A.jpg",
+    "texts/My Scans/1992-05-01_page20.jpg",
+    "texts/My Scans/1993-05-03_page16.jpg",
+    "texts/My Scans/1994-04-29_page16.jpg",
+    "texts/My Scans/1995-05-01_page16.jpg",
+    "texts/My Scans/1996-05-01_page24.jpg",
+    "texts/My Scans/1997-05-01_page28.jpg",
+    "texts/My Scans/1998-05-01_page20.jpg",
+    "texts/My Scans/1999-04-30_page24.jpg",
+    "texts/My Scans/1999-12-01_page12.jpg",
+    "texts/My Scans/2000-05-01_page32.jpg",
+    "texts/My Scans/2001-05-01_page6.jpg",
+    "texts/My Scans/2001-05-01_page7.jpg",
+    "texts/My Scans/2002-05-01_page20.jpg",
+    "texts/My Scans/2005-04-29_page11.jpg",
+    "texts/My Scans/2005-06-22_page15.jpg",
+    "texts/My Scans/2006-05-01_page12.jpg",
+    "texts/My Scans/2007-05-01_page25.jpg",
+    "texts/My Scans/2008-04-02_page14.jpg",
+    "texts/My Scans/2008-05-01_page13.jpg",
+    "texts/My Scans/2009-05-01_page8.jpg",
+    "texts/My Scans/2016-12-07_pageB23.jpg",
+    "texts/My Scans/preview.jpg",
+    "texts/maydaymystery.org/2007-05-01.jpg",
+    "texts/maydaymystery.org/2008-05-01.jpg",
+    "texts/maydaymystery.org/2008-05-01_color.jpg",
+    "texts/maydaymystery.org/2010-04-30.jpg",
+    "texts/maydaymystery.org/2017-05-01.jpg"
+  ],
+  "limitations": [
+    "Remote Git blob identifiers are not local SHA-256 verification.",
+    "Date labels are not proof of publication date or distinct advertisements.",
+    "Perceptual hashes produce candidates, not automatic duplicate decisions.",
+    "No crops or layouts are removed from the source collection."
+  ]
+}
